@@ -1,3 +1,5 @@
+%hechos
+
 es_autor("Eiichiro Oda","One Piece").
 es_autor("Takao Saito","Golgo 13").
 es_autor("Gosho Aoyama","Case Closed / Detective Conan").
@@ -2701,3 +2703,113 @@ cantidad_copias_vendidas("Nezumi no Rusuban", 30000).
 cantidad_copias_vendidas("Kamisama Hajimemashita OVA", 40000).
 cantidad_copias_vendidas("Durarara!!x2 Ten", 60000).
 cantidad_copias_vendidas("Wall", 30000).
+
+%reglas
+
+autor_es_famoso(Autor) :- es_autor_de(Autor, Manga), cantidad_copias_vendidas(Manga, Copias), Copias > 1000000.
+manga_antiguo(Manga) :- anio_publicacion(Manga, Anio), Anio < 2000.
+manga_reciente(Manga) :- anio_publicacion(Manga, Anio), Anio >= 2000.
+personaje_importante(Personaje) :- es_personaje_principal(Personaje, _).
+manga_famoso(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 500000.
+manga_de_un_autor_famoso(Manga) :- es_autor_de(Autor, Manga), autor_es_famoso(Autor).
+personaje_vivo(Personaje) :- estatus_personaje(Personaje, "vivo").
+personaje_muerto(Personaje) :- estatus_personaje(Personaje, "muerto").
+manga_con_adaptacion_anime(Manga) :- tiene_adaptacion_anime(Manga).
+manga_con_premio(Manga) :- premio_ganado(Manga, _).
+manga_multigenero(Manga) :- es_genero(Genero1, Manga), es_genero(Genero2, Manga), Genero1 \== Genero2.
+manga_con_secuela(Manga) :- tiene_secuelas(Manga, _).
+manga_con_pelicula(Manga) :- adaptacion_pelicula(Manga, _).
+personaje_genero(Personaje, Genero) :- personaje_pertenece_a(Personaje, Manga), genero(Manga, Genero).
+manga_popular(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 50000.
+manga_no_popular(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias < 50000.
+manga_exitoso(Manga) :- tiene_adaptacion_anime(Manga), manga_popular(Manga).
+manga_no_exitoso(Manga) :- manga_no_popular(Manga).
+personaje_popular(Personaje) :- personaje_pertenece_a(Personaje, Manga), manga_popular(Manga).
+editorial_famosa(Editorial) :- es_editorial(Editorial, Manga), manga_exitoso(Manga).
+manga_de_editorial_shueisha(Manga) :- es_editorial("Shueisha", Manga).
+manga_de_editorial_shogakukan(Manga) :- es_editorial("Shogakukan", Manga).
+manga_de_editorial_kodansha(Manga) :- es_editorial("Kodansha", Manga).
+manga_de_editorial_akita_shoten(Manga) :- es_editorial("Akita Shoten", Manga).
+manga_de_editorial_nihon_bungeisha(Manga) :- es_editorial("Nihon Bungeisha", Manga).
+manga_tiene_tomos(Manga, Tomos) :- cantidad_tomos(Manga, Tomos).
+manga_tiene_menos_de_10_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 10.
+manga_tiene_mas_de_10(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 10.
+manga_tiene_menos_de_20_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 20.
+manga_tiene_mas_de_20(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 20.
+manga_tiene_menos_de_30_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 30.
+manga_tiene_mas_de_30(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 30.
+manga_tiene_menos_de_40_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 40.
+manga_tiene_mas_de_40(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 40.
+manga_tiene_menos_de_50_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 50.
+manga_tiene_mas_de_50(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 50.
+manga_tiene_menos_de_60_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 60.
+manga_tiene_mas_de_60(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 60.
+manga_tiene_menos_de_70_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 70.
+manga_tiene_mas_de_70(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 70.
+manga_tiene_menos_de_80_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 80.
+manga_tiene_mas_de_80(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 80.
+manga_tiene_menos_de_90_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 90.
+manga_tiene_mas_de_90(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 90.
+manga_tiene_menos_de_100_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 100.
+manga_tiene_mas_de_100(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 100.
+personaje_es_humano(Personaje) :- especie(Personaje, "Humano").
+manga_tiene_personajes_humanos(Manga) :- personaje_pertenece_a(Personaje, Manga), especie(Personaje, "Humano").
+primer_caracter(String, PrimerCaracter) :- String = [PrimerCaracter|_].
+nombre_autor_comienza_con_letra(Autor, Letra) :- primer_caracter(Autor, PrimerCaracter), PrimerCaracter = Letra.
+
+%agregar_especies
+
+manga_de_especie_especifica(Manga) :- personaje_pertenece_a(Personaje, Manga), especie(Personaje, "EspecieEspecifica").
+
+manga_con_muchos_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos > 20.
+manga_con_pocos_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos =< 20.
+manga_de_genero(Manga, Genero) :- genero_principal(Genero, Manga).
+manga_de_genero_popular(Manga) :- genero_principal("GeneroPopular", Manga).
+manga_de_genero_no_popular(Manga) :- genero_principal("GeneroNoPopular", Manga).
+personaje_secundario(Personaje) :- personaje_pertenece_a(Personaje, Manga), + es_personaje_principal(Personaje, Manga).
+manga_con_personaje_vivo(Manga) :- personaje_pertenece_a(Personaje, Manga), estatus_personaje(Personaje, vivo).
+manga_con_personaje_muerto(Manga) :- personaje_pertenece_a(Personaje, Manga), estatus_personaje(Personaje, muerto).
+manga_con_personaje_especifico(Manga, Especie) :- personaje_pertenece_a(Personaje, Manga), especie(Personaje, Especie).
+manga_con_secuelas_famosas(Manga) :- tiene_secuelas(Manga, Secuelas), manga_famoso(Secuelas).
+manga_de_autor_conocido(Manga) :- es_autor_de(Autor, Manga), autor_es_famoso(Autor).
+manga_de_anio(Manga, Anio) :- anio_publicacion(Manga, Anio).
+manga_de_anio_antiguo(Manga) :- anio_publicacion(Manga, Anio), Anio < 1990.
+manga_de_anio_reciente(Manga) :- anio_publicacion(Manga, Anio), Anio >= 1990.
+manga_con_ventas_altas(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 1000000.
+manga_con_ventas_bajas(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias =< 1000000.
+manga_con_adaptaciones(Manga) :- tiene_adaptacion_anime(Manga); adaptacion_pelicula(Manga, _).
+manga_de_idioma_japones(Manga) :- idioma_original(Manga, "Japonés").
+manga_de_pais_japon(Manga) :- pais_origen(Manga, "Japón").
+manga_premiado(Manga) :- premio_ganado(Manga, _).
+manga_con_premio_famoso(Manga) :- premio_ganado(Manga, "PremioFamoso").
+personaje_conocido(Personaje) :- es_personaje_principal(Personaje, Manga), manga_famoso(Manga).
+personaje_de_especie_conocida(Personaje) :- especie(Personaje, "EspecieConocida").
+manga_con_tomos_muchos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos > 50.
+manga_con_tomos_pocos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos =< 50.
+manga_con_adaptacion_famosa(Manga) :- tiene_adaptacion_anime(Manga), popularidad(Manga, alta).
+manga_de_premio(Manga, Premio) :- premio_ganado(Manga, Premio).
+manga_de_idioma_original(Manga, Idioma) :- idioma_original(Manga, Idioma).
+manga_de_pais_origen(Manga, Pais) :- pais_origen(Manga, Pais).
+personaje_principal_especie(Personaje, Especie) :- es_personaje_principal(Personaje, Manga), especie(Personaje, Especie).
+personaje_secundario_especie(Personaje, Especie) :- personaje_pertenece_a(Personaje, Manga), + es_personaje_principal(Personaje, Manga), especie(Personaje, Especie).
+personaje_famoso_especie(Personaje) :- personaje_importante(Personaje), especie(Personaje, "EspecieFamosa").
+manga_con_muchas_copias(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 2000000.
+manga_con_pocas_copias(Manga) :- cantidad_copias_vendidas(Manga, Copias) =< 2000000.
+manga_con_adaptacion_pelicula(Manga) :- adaptacion_pelicula(Manga, _).
+manga_con_adaptacion_anime_famoso(Manga) :- tiene_adaptacion_anime(Manga), manga_famoso(Manga).
+manga_con_premio_famoso(Manga) :- premio_ganado(Manga, "PremioFamoso").
+manga_con_secuelas(Manga) :- tiene_secuelas(Manga, _).
+manga_con_secuelas_famosas(Manga) :- tiene_secuelas(Manga, Secuelas), manga_famoso(Secuelas).
+manga_de_autor_conocido(Manga) :- es_autor_de(Autor, Manga), autor_es_famoso(Autor).
+manga_de_anio(Manga, Anio) :- anio_publicacion(Manga, Anio).
+manga_de_anio_antiguo(Manga) :- anio_publicacion(Manga, Anio), Anio < 2000.
+manga_de_anio_reciente(Manga) :- anio_publicacion(Manga, Anio), Anio >= 2000.
+manga_con_ventas_altas(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 500000.
+manga_con_ventas_bajas(Manga) :- cantidad_copias_vendidas(Manga, Copias) =< 500000.
+manga_con_adaptaciones(Manga) :- tiene_adaptacion_anime(Manga); adaptacion_pelicula(Manga, _).
+manga_de_idioma(Manga, Idioma) :- idioma_original(Manga, Idioma).
+manga_de_pais(Manga, Pais) :- pais_origen(Manga, Pais).
+manga_premiado(Manga) :- premio_ganado(Manga, _).
+manga_con_premio_famoso(Manga) :- premio_ganado(Manga, "PremioFamoso").
+personaje_conocido(Personaje) :- es_personaje_principal(Personaje, Manga), manga_famoso(Manga).
+personaje_de_especie_conocida(Personaje) :- especie(Personaje, "EspecieConocida").
