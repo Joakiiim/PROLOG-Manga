@@ -1107,6 +1107,606 @@ pertenece_a("Yūji Mito", "Yawara!").
 pertenece_a("Yoshiko Kawada", "Yawara!").
 pertenece_a("Hikaru Matsumoto", "Yawara!").
 pertenece_a("Shigeo Araki", "Yawara!").
+cumpleaños_personaje("Monkey D. Luffy", "mayo").
+cumpleaños_personaje("Duke Togo", "mayo").
+cumpleaños_personaje("Shinichi Kudo / Conan Edogawa", "mayo").
+cumpleaños_personaje("Son Goku", "abril").
+cumpleaños_personaje("Doraemon", "septiembre").
+cumpleaños_personaje("Naruto Uzumaki", "octubre").
+cumpleaños_personaje("Hanamichi Sakuragi", "julio").
+cumpleaños_personaje("Kankichi Ryotsu", "agosto").
+cumpleaños_personaje("Tanjiro Kamado", "julio").
+cumpleaños_personaje("Shirō Yamaoka", "febrero").
+cumpleaños_personaje("Ichigo Kurosaki", "julio").
+cumpleaños_personaje("Jonathan Joestar", "abril").
+cumpleaños_personaje("Eren Yeager", "marzo").
+cumpleaños_personaje("Astro Boy", "abril").
+cumpleaños_personaje("Kenshiro", "noviembre").
+cumpleaños_personaje("Ippo Makunouchi", "octubre").
+cumpleaños_personaje("Hajime Kindaichi", "diciembre").
+cumpleaños_personaje("Tatsuya Uesugi", "abril").
+cumpleaños_personaje("Xin", "septiembre").
+cumpleaños_personaje("Tsubasa Ozora", "julio").
+cumpleaños_personaje("Sazae Fuguta", "abril").
+cumpleaños_personaje("Baki Hanma", "abril").
+cumpleaños_personaje("Izuku Midoriya", "julio").
+cumpleaños_personaje("Gon Freecss", "mayo").
+cumpleaños_personaje("Miyamoto Musashi", "junio").
+cumpleaños_personaje("Edward Elric", "octubre").
+cumpleaños_personaje("Liu Bei", "febrero").
+cumpleaños_personaje("Yusuke Urameshi", "abril").
+cumpleaños_personaje("Kinnikuman / Suguru Kinniku", "junio").
+cumpleaños_personaje("Natsu Dragneel", "julio").
+cumpleaños_personaje("Kenshin Himura", "junio").
+cumpleaños_personaje("Yuji Itadori", "agosto").
+cumpleaños_personaje("Takemichi Hanagaki", "febrero").
+cumpleaños_personaje("Tsukushi Makino", "septiembre").
+cumpleaños_personaje("Goro Honda", "abril").
+cumpleaños_personaje("Ryoma Echizen", "octubre").
+cumpleaños_personaje("Taison Maeda", "noviembre").
+cumpleaños_personaje("Shinnosuke Nohara", "mayo").
+cumpleaños_personaje("Takumi Fujiwara", "noviembre").
+cumpleaños_personaje("Gintoki Sakata", "octubre").
+cumpleaños_personaje("Tsukasa Kiriki", "marzo").
+cumpleaños_personaje("Guts", "diciembre").
+cumpleaños_personaje("Hiro Kunimi", "enero").
+cumpleaños_personaje("Shoyo Hinata", "junio").
+cumpleaños_personaje("Ranma Saotome", "noviembre").
+cumpleaños_personaje("Ginjiro Ibuki", "agosto").
+cumpleaños_personaje("Hanako Ozora", "julio").
+cumpleaños_personaje("Black Jack", "octubre").
+cumpleaños_personaje("Ryo Saeba", "junio").
+cumpleaños_personaje("Cobra", "noviembre").
+cumpleaños_personaje("Akira Fudo", "febrero").
+cumpleaños_personaje("Dai", "octubre").
+cumpleaños_personaje("Sanpei Mihira", "noviembre").
+cumpleaños_personaje("Maya Kitajima", "enero").
+cumpleaños_personaje("Eikichi Onizuka", "abril").
+cumpleaños_personaje("Inuyasha", "noviembre").
+cumpleaños_personaje("Nana Osaki", "febrero").
+cumpleaños_personaje("Seiya", "diciembre").
+cumpleaños_personaje("Toshi Tanaka", "abril").
+cumpleaños_personaje("Taro Yamada", "septiembre").
+cumpleaños_personaje("Kosaku Shima", "febrero").
+cumpleaños_personaje("Ken Kaneki", "diciembre").
+cumpleaños_personaje("Harumichi Bouya", "julio").
+cumpleaños_personaje("Usagi Tsukino / Sailor Moon", "Junio").
+cumpleaños_personaje("Shizuya Kondou", "Julio").
+cumpleaños_personaje("Kazuhiko Aikawa", "Marzo").
+cumpleaños_personaje("Eikichi Onizuka", "Enero").
+cumpleaños_personaje("Emma", "Marzo").
+cumpleaños_personaje("Eijun Sawamura", "Mayo").
+cumpleaños_personaje("Kuninobu Okawa", "Agosto").
+cumpleaños_personaje("Kazumi Araiwa", "Diciembre").
+cumpleaños_personaje("Carol Lido", "Abril").
+cumpleaños_personaje("Takashi Mitsuhashi", "Octubre").
+cumpleaños_personaje("Rimuru Tempest", "Febrero").
+cumpleaños_personaje("Yugi Mutou", "Junio").
+cumpleaños_personaje("Nodame Cantabile", "Octubre").
+cumpleaños_personaje("Yoh Asakura", "Noviembre").
+cumpleaños_personaje("Meliodas", "Julio").
+cumpleaños_personaje("Kenji Endo", "Febrero").
+cumpleaños_personaje("Toshio Yamaki", "Septiembre").
+cumpleaños_personaje("Senbei Norimaki", "Noviembre").
+cumpleaños_personaje("Kotoko Aihara", "Mayo").
+cumpleaños_personaje("Kintaro Yajima", "Julio").
+cumpleaños_personaje("Ataru Moroboshi", "Abril").
+cumpleaños_personaje("Hana Tsukishima", "Julio").
+cumpleaños_personaje("Yakumo Fujii", "Agosto").
+cumpleaños_personaje("Taku Kamishima", "Agosto").
+cumpleaños_personaje("Sawako Kuronuma", "Diciembre").
+cumpleaños_personaje("Maruko Sakura", "Mayo").
+cumpleaños_personaje("Ciel Phantomhive", "Diciembre").
+cumpleaños_personaje("Shiro Kaieda", "Febrero").
+cumpleaños_personaje("Touma Kamijou", "Julio").
+cumpleaños_personaje("Tetsuya Kuroko", "Enero").
+cumpleaños_personaje("Mutta Nanba", "Octubre").
+cumpleaños_personaje("Dark Schneider", "Junio").
+cumpleaños_personaje("Light Yagami", "Febrero").
+cumpleaños_personaje("Tohru Honda", "Abril").
+cumpleaños_personaje("Eiji Nonaka", "Julio").
+cumpleaños_personaje("Chie Takemoto", "Junio").
+cumpleaños_personaje("Ryō Takagi", "Enero").
+cumpleaños_personaje("Saitama", "Noviembre").
+cumpleaños_personaje("Tsunayoshi Sawada", "Octubre").
+cumpleaños_personaje("Shura", "Marzo").
+cumpleaños_personaje("Twilight", "Junio").
+cumpleaños_personaje("Ranze Eto", "Marzo").
+cumpleaños_personaje("Ushio Aotsuki", "Enero").
+cumpleaños_personaje("Yawara Inokuma", "Noviembre").
+cumpleaños_personaje("Makoto Onoda", "Julio").
+cumpleaños_personaje("Asari Hamaji", "Diciembre").
+cumpleaños_personaje("Chihaya Ayase", "diciembre").
+cumpleaños_personaje("Red", "febrero").
+cumpleaños_personaje("Sakamichi Onoda", "mayo").
+cumpleaños_personaje("Momotaro Tsurugi", "octubre").
+cumpleaños_personaje("Seito Sakakibara", "julio").
+cumpleaños_personaje("Shinobu Yūki", "septiembre").
+cumpleaños_personaje("Tora", "abril").
+cumpleaños_personaje("Yoichi Isagi", "junio").
+cumpleaños_personaje("Gonpei Kamatori", "noviembre").
+cumpleaños_personaje("Ryo Saeba", "marzo").
+cumpleaños_personaje("Joe Yabuki", "enero").
+cumpleaños_personaje("Koro-sensei", "agosto").
+cumpleaños_personaje("Rin Okumura", "julio").
+cumpleaños_personaje("Kyoichi Kanzaki", "mayo").
+cumpleaños_personaje("Allen Walker", "diciembre").
+cumpleaños_personaje("Nozomi Koryu", "abril").
+cumpleaños_personaje("Recca Hanabishi", "febrero").
+cumpleaños_personaje("Hikaru Shindo", "octubre").
+cumpleaños_personaje("Meisuke Nueno", "junio").
+cumpleaños_personaje("Aladdin", "noviembre").
+cumpleaños_personaje("Godai", "agosto").
+cumpleaños_personaje("Miyuki", "septiembre").
+cumpleaños_personaje("Shinji Ikari", "junio").
+cumpleaños_personaje("Keiichi Morisato", "mayo").
+cumpleaños_personaje("Patalliro XIII", "enero").
+cumpleaños_personaje("Shinichi Izumi", "noviembre").
+cumpleaños_personaje("Maeno", "febrero").
+cumpleaños_personaje("Goku", "mayo").
+cumpleaños_personaje("Toriko", "julio").
+cumpleaños_personaje("Sora Kurumatani", "octubre").
+cumpleaños_personaje("Denji", "marzo").
+cumpleaños_personaje("Kei Kurono", "septiembre").
+cumpleaños_personaje("Saichi Sugimoto", "diciembre").
+cumpleaños_personaje("Zatch Bell", "abril").
+cumpleaños_personaje("Haru Glory", "agosto").
+cumpleaños_personaje("Momoko", "julio").
+cumpleaños_personaje("Oscar François de Jarjayes", "noviembre").
+cumpleaños_personaje("Abu", "febrero").
+cumpleaños_personaje("Sakura Kinomoto", "abril").
+cumpleaños_personaje("Taikōbō", "enero").
+cumpleaños_personaje("Kaguya Shinomiya", "diciembre").
+cumpleaños_personaje("Hizamaru Akari", "junio").
+cumpleaños_personaje("Masaru Hananakajima", "mayo").
+cumpleaños_personaje("Kaiji Itō", "julio").
+cumpleaños_personaje("Toshihiko Tanaka", "agosto").
+cumpleaños_personaje("Syaoran", "noviembre").
+cumpleaños_personaje("Ushijima", "febrero").
+cumpleaños_personaje("Roto", "marzo").
+cumpleaños_personaje("Buronson, Tetsuo Hara", "enero").
+cumpleaños_personaje("Kota Shibaki", "octubre").
+cumpleaños_personaje("Osamu Tezuka", "noviembre").
+cumpleaños_personaje("Rui Kisugi", "diciembre").
+cumpleaños_personaje("Jin Kizaragi", "septiembre").
+cumpleaños_personaje("Sena Kobayakawa", "julio").
+cumpleaños_personaje("Kōji Kuroki", "febrero").
+cumpleaños_personaje("Shinomiya Kojirō", "mayo").
+cumpleaños_personaje("Miaka Yūki", "enero").
+cumpleaños_personaje("Masaru Hotta", "agosto").
+cumpleaños_personaje("Kyon", "octubre").
+cumpleaños_personaje("Hayate Ayasaki", "abril").
+cumpleaños_personaje("Kyosuke Kasuga", "junio").
+cumpleaños_personaje("Mutsuki Tsuyama", "marzo").
+cumpleaños_personaje("Keitaro Urashima", "mayo").
+cumpleaños_personaje("Taichi Keaton", "noviembre").
+cumpleaños_personaje("Kenzo Tenma", "julio").
+cumpleaños_personaje("Negi Springfield", "septiembre").
+cumpleaños_personaje("Kujaku", "abril").
+cumpleaños_personaje("Fuutarou Uesugi", "febrero").
+cumpleaños_personaje("Yuri Suzuki", "agosto").
+cumpleaños_personaje("Ashibe Shun", "junio").
+cumpleaños_personaje("Takashi Sugimori", "diciembre").
+cumpleaños_personaje("Fujiko Mine", "mayo").
+cumpleaños_personaje("Takiko Okuda", "octubre").
+cumpleaños_personaje("Tashigi", "marzo").
+cumpleaños_personaje("Buggy", "abril").
+cumpleaños_personaje("Trafalgar Law", "octubre").
+cumpleaños_personaje("Kid", "septiembre").
+cumpleaños_personaje("Killer", "junio").
+cumpleaños_personaje("Nico Robin", "febrero").
+cumpleaños_personaje("Perona", "mayo").
+cumpleaños_personaje("Kuzan", "septiembre").
+cumpleaños_personaje("Rayleigh", "noviembre").
+cumpleaños_personaje("Bonney", "marzo").
+cumpleaños_personaje("Jewelry Bonney", "marzo").
+cumpleaños_personaje("Capone Bege", "diciembre").
+cumpleaños_personaje("Enel", "mayo").
+cumpleaños_personaje("Shiki", "julio").
+cumpleaños_personaje("Hancock", "septiembre").
+cumpleaños_personaje("Doflamingo", "octubre").
+cumpleaños_personaje("Mihawk", "septiembre").
+cumpleaños_personaje("Bartolomeo", "noviembre").
+cumpleaños_personaje("Jimbei", "febrero").
+cumpleaños_personaje("Cavendish", "junio").
+cumpleaños_personaje("Carrot", "mayo").
+cumpleaños_personaje("Marco", "noviembre").
+cumpleaños_personaje("Coby", "mayo").
+cumpleaños_personaje("Helmeppo", "noviembre").
+cumpleaños_personaje("Kaku", "octubre").
+cumpleaños_personaje("Kizaru", "agosto").
+cumpleaños_personaje("Orochi", "enero").
+cumpleaños_personaje("Kin'emon", "agosto").
+cumpleaños_personaje("Kanjuro", "noviembre").
+cumpleaños_personaje("Raizo", "diciembre").
+cumpleaños_personaje("Nekomamushi", "octubre").
+cumpleaños_personaje("Inuarashi", "octubre").
+cumpleaños_personaje("Shinichi Kudo", "mayo").
+cumpleaños_personaje("Ran Mouri", "octubre").
+cumpleaños_personaje("Kogoro Mouri", "junio").
+cumpleaños_personaje("Heiji Hattori", "octubre").
+cumpleaños_personaje("Kazuha Toyama", "julio").
+cumpleaños_personaje("Ayumi Yoshida", "junio").
+cumpleaños_personaje("Mitsuhiko Tsuburaya", "abril").
+cumpleaños_personaje("Genta Kojima", "febrero").
+cumpleaños_personaje("Kaito Kid", "abril").
+cumpleaños_personaje("Vegeta", "diciembre").
+cumpleaños_personaje("Bulma", "agosto").
+cumpleaños_personaje("Piccolo", "mayo").
+cumpleaños_personaje("Krillin", "mayo").
+cumpleaños_personaje("Yamcha", "marzo").
+cumpleaños_personaje("Tien Shinhan", "septiembre").
+cumpleaños_personaje("Chiaotzu", "noviembre").
+cumpleaños_personaje("Raditz", "febrero").
+cumpleaños_personaje("Nappa", "febrero").
+cumpleaños_personaje("Bardock", "agosto").
+cumpleaños_personaje("Recoome", "abril").
+cumpleaños_personaje("Jeice", "diciembre").
+cumpleaños_personaje("Burter", "enero").
+cumpleaños_personaje("Captain Ginyu", "noviembre").
+cumpleaños_personaje("Frieza", "mayo").
+cumpleaños_personaje("Android 17", "mayo").
+cumpleaños_personaje("Android 18", "mayo").
+cumpleaños_personaje("Cell", "febrero").
+cumpleaños_personaje("Majin Buu", "marzo").
+cumpleaños_personaje("Beerus", "diciembre").
+cumpleaños_personaje("Whis", "abril").
+cumpleaños_personaje("Vados", "agosto").
+cumpleaños_personaje("Zeno", "octubre").
+cumpleaños_personaje("Yajirobe", "junio").
+cumpleaños_personaje("Oolong", "agosto").
+cumpleaños_personaje("Master Roshi", "septiembre").
+cumpleaños_personaje("Grandpa Gohan", "enero").
+cumpleaños_personaje("King Kai", "abril").
+cumpleaños_personaje("Turtle", "julio").
+cumpleaños_personaje("King Yemma", "noviembre").
+cumpleaños_personaje("Fortuneteller Baba", "mayo").
+cumpleaños_personaje("Dende", "noviembre").
+cumpleaños_personaje("Korin", "diciembre").
+cumpleaños_personaje("Zarbon", "julio").
+cumpleaños_personaje("Dodoria", "septiembre").
+cumpleaños_personaje("Supreme Kai", "agosto").
+cumpleaños_personaje("Kibito", "octubre").
+cumpleaños_personaje("Elder Kai", "marzo").
+cumpleaños_personaje("Mr. Satan", "enero").
+cumpleaños_personaje("Pikkon", "julio").
+cumpleaños_personaje("Chie Takemoto", "marzo").
+cumpleaños_personaje("Makoto Hotta", "agosto").
+cumpleaños_personaje("Genos", "mayo").
+cumpleaños_personaje("Fubuki", "enero").
+cumpleaños_personaje("Suiryu", "junio").
+cumpleaños_personaje("Tanktop Master", "octubre").
+cumpleaños_personaje("Chrome Dokuro", "junio").
+cumpleaños_personaje("Lal Mirch", "febrero").
+cumpleaños_personaje("Gamma", "noviembre").
+cumpleaños_personaje("Belphegor", "abril").
+cumpleaños_personaje("Squalo Superbi", "diciembre").
+cumpleaños_personaje("Keiji Maeda", "octubre").
+cumpleaños_personaje("Hyōma", "septiembre").
+cumpleaños_personaje("Anyamaru", "agosto").
+cumpleaños_personaje("Yor For", "mayo").
+cumpleaños_personaje("Yor Ham", "junio").
+cumpleaños_personaje("Shirō", "abril").
+cumpleaños_personaje("Yor Sae", "julio").
+cumpleaños_personaje("Loid Forger", "marzo").
+cumpleaños_personaje("Yor Forger", "marzo").
+cumpleaños_personaje("Anya Forger", "noviembre").
+cumpleaños_personaje("Yor Briar", "febrero").
+cumpleaños_personaje("Juno", "octubre").
+cumpleaños_personaje("Nagi", "diciembre").
+cumpleaños_personaje("Dr. Kuroiwa", "abril").
+cumpleaños_personaje("Reimi Sugimoto", "enero").
+cumpleaños_personaje("Tora", "agosto").
+cumpleaños_personaje("Mayuko Inoue", "julio").
+cumpleaños_personaje("Aotsuki Ushio", "septiembre").
+cumpleaños_personaje("Yawara Inokuma", "noviembre").
+cumpleaños_personaje("Jigorō Inokuma", "marzo").
+cumpleaños_personaje("Yūji Mito", "febrero").
+cumpleaños_personaje("Yoshiko Kawada", "junio").
+cumpleaños_personaje("Hikaru Matsumoto", "diciembre").
+cumpleaños_personaje("Shigeo Araki", "abril").
+genero_personaje("Monkey D. Luffy", "hombre").
+genero_personaje("Duke Togo", "hombre").
+genero_personaje("Shinichi Kudo / Conan Edogawa", "hombre").
+genero_personaje("Son Goku", "hombre").
+genero_personaje("Doraemon", "hombre").
+genero_personaje("Naruto Uzumaki", "hombre").
+genero_personaje("Hanamichi Sakuragi", "hombre").
+genero_personaje("Kankichi Ryotsu", "hombre").
+genero_personaje("Tanjiro Kamado", "hombre").
+genero_personaje("Shirō Yamaoka", "hombre").
+genero_personaje("Ichigo Kurosaki", "hombre").
+genero_personaje("Jonathan Joestar", "hombre").
+genero_personaje("Eren Yeager", "hombre").
+genero_personaje("Astro Boy", "hombre").
+genero_personaje("Kenshiro", "hombre").
+genero_personaje("Ippo Makunouchi", "hombre").
+genero_personaje("Hajime Kindaichi", "hombre").
+genero_personaje("Tatsuya Uesugi", "hombre").
+genero_personaje("Xin", "hombre").
+genero_personaje("Tsubasa Ozora", "hombre").
+genero_personaje("Sazae Fuguta", "mujer").
+genero_personaje("Baki Hanma", "hombre").
+genero_personaje("Izuku Midoriya", "hombre").
+genero_personaje("Gon Freecss", "hombre").
+genero_personaje("Miyamoto Musashi", "hombre").
+genero_personaje("Edward Elric", "hombre").
+genero_personaje("Liu Bei", "hombre").
+genero_personaje("Yusuke Urameshi", "hombre").
+genero_personaje("Kinnikuman / Suguru Kinniku", "hombre").
+genero_personaje("Natsu Dragneel", "hombre").
+genero_personaje("Kenshin Himura", "hombre").
+genero_personaje("Yuji Itadori", "hombre").
+genero_personaje("Takemichi Hanagaki", "hombre").
+genero_personaje("Tsukushi Makino", "mujer").
+genero_personaje("Goro Honda", "hombre").
+genero_personaje("Ryoma Echizen", "hombre").
+genero_personaje("Taison Maeda", "hombre").
+genero_personaje("Shinnosuke Nohara", "hombre").
+genero_personaje("Takumi Fujiwara", "hombre").
+genero_personaje("Gintoki Sakata", "hombre").
+genero_personaje("Tsukasa Kiriki", "hombre").
+genero_personaje("Guts", "hombre").
+genero_personaje("Hiro Kunimi", "hombre").
+genero_personaje("Shoyo Hinata", "hombre").
+genero_personaje("Ranma Saotome", "hombre").
+genero_personaje("Ginjiro Ibuki", "hombre").
+genero_personaje("Hanako Ozora", "mujer").
+genero_personaje("Black Jack", "hombre").
+genero_personaje("Ryo Saeba", "hombre").
+genero_personaje("Cobra", "hombre").
+genero_personaje("Akira Fudo", "hombre").
+genero_personaje("Dai", "hombre").
+genero_personaje("Sanpei Mihira", "hombre").
+genero_personaje("Maya Kitajima", "mujer").
+genero_personaje("Eikichi Onizuka", "hombre").
+genero_personaje("Inuyasha", "hombre").
+genero_personaje("Nana Osaki", "mujer").
+genero_personaje("Seiya", "hombre").
+genero_personaje("Toshi Tanaka", "hombre").
+genero_personaje("Taro Yamada", "hombre").
+genero_personaje("Kosaku Shima", "hombre").
+genero_personaje("Ken Kaneki", "hombre").
+genero_personaje("Harumichi Bouya", "hombre").
+genero_personaje("Usagi Tsukino / Sailor Moon", "mujer").
+genero_personaje("Shizuya Kondou", "hombre").
+genero_personaje("Kazuhiko Aikawa", "hombre").
+genero_personaje("Eikichi Onizuka", "hombre").
+genero_personaje("Emma", "mujer").
+genero_personaje("Eijun Sawamura", "hombre").
+genero_personaje("Kuninobu Okawa", "hombre").
+genero_personaje("Kazumi Araiwa", "hombre").
+genero_personaje("Carol Lido", "mujer").
+genero_personaje("Takashi Mitsuhashi", "hombre").
+genero_personaje("Rimuru Tempest", "hombre").
+genero_personaje("Yugi Mutou", "hombre").
+genero_personaje("Nodame Cantabile", "mujer").
+genero_personaje("Yoh Asakura", "hombre").
+genero_personaje("Meliodas", "hombre").
+genero_personaje("Kenji Endo", "hombre").
+genero_personaje("Toshio Yamaki", "hombre").
+genero_personaje("Senbei Norimaki", "hombre").
+genero_personaje("Kotoko Aihara", "mujer").
+genero_personaje("Kintaro Yajima", "hombre").
+genero_personaje("Ataru Moroboshi", "hombre").
+genero_personaje("Hana Tsukishima", "mujer").
+genero_personaje("Yakumo Fujii", "hombre").
+genero_personaje("Taku Kamishima", "hombre").
+genero_personaje("Sawako Kuronuma", "mujer").
+genero_personaje("Maruko Sakura", "mujer").
+genero_personaje("Ciel Phantomhive", "hombre").
+genero_personaje("Shiro Kaieda", "hombre").
+genero_personaje("Touma Kamijou", "hombre").
+genero_personaje("Tetsuya Kuroko", "hombre").
+genero_personaje("Mutta Nanba", "hombre").
+genero_personaje("Dark Schneider", "hombre").
+genero_personaje("Eikichi Onizuka", "hombre").
+genero_personaje("Light Yagami", "hombre").
+genero_personaje("Tohru Honda", "mujer").
+genero_personaje("Eiji Nonaka", "hombre").
+genero_personaje("Chie Takemoto", "mujer").
+genero_personaje("Ryō Takagi", "hombre").
+genero_personaje("Saitama", "hombre").
+genero_personaje("Tsunayoshi Sawada", "hombre").
+genero_personaje("Shura", "hombre").
+genero_personaje("Twilight", "hombre").
+genero_personaje("Ranze Eto", "mujer").
+genero_personaje("Ushio Aotsuki", "hombre").
+genero_personaje("Yawara Inokuma", "mujer").
+genero_personaje("Makoto Onoda", "hombre").
+genero_personaje("Eikichi Onizuka", "hombre").
+genero_personaje("Asari Hamaji", "mujer").
+genero_personaje("Chihaya Ayase", "mujer").
+genero_personaje("Red", "hombre").
+genero_personaje("Sakamichi Onoda", "hombre").
+genero_personaje("Momotaro Tsurugi", "hombre").
+genero_personaje("Seito Sakakibara", "hombre").
+genero_personaje("Shinobu Yūki", "mujer").
+genero_personaje("Tora", "hombre").
+genero_personaje("Yoichi Isagi", "hombre").
+genero_personaje("Gonpei Kamatori", "hombre").
+genero_personaje("Ryo Saeba", "hombre").
+genero_personaje("Joe Yabuki", "hombre").
+genero_personaje("Koro-sensei", "hombre").
+genero_personaje("Rin Okumura", "hombre").
+genero_personaje("Kyoichi Kanzaki", "hombre").
+genero_personaje("Allen Walker", "hombre").
+genero_personaje("Nozomi Koryu", "hombre").
+genero_personaje("Recca Hanabishi", "hombre").
+genero_personaje("Hikaru Shindo", "hombre").
+genero_personaje("Meisuke Nueno", "hombre").
+genero_personaje("Aladdin", "hombre").
+genero_personaje("Godai", "hombre").
+genero_personaje("Miyuki", "mujer").
+genero_personaje("Shinji Ikari", "hombre").
+genero_personaje("Keiichi Morisato", "hombre").
+genero_personaje("Patalliro XIII", "hombre").
+genero_personaje("Shinichi Izumi", "hombre").
+genero_personaje("Maeno", "hombre").
+genero_personaje("Goku", "hombre").
+genero_personaje("Toriko", "hombre").
+genero_personaje("Sora Kurumatani", "hombre").
+genero_personaje("Denji", "hombre").
+genero_personaje("Kei Kurono", "hombre").
+genero_personaje("Saichi Sugimoto", "hombre").
+genero_personaje("Zatch Bell", "hombre").
+genero_personaje("Haru Glory", "hombre").
+genero_personaje("Momoko", "mujer").
+genero_personaje("Oscar François de Jarjayes", "hombre").
+genero_personaje("Abu", "hombre").
+genero_personaje("Sakura Kinomoto", "mujer").
+genero_personaje("Taikōbō", "hombre").
+genero_personaje("Kaguya Shinomiya", "mujer").
+genero_personaje("Hizamaru Akari", "hombre").
+genero_personaje("Masaru Hananakajima", "hombre").
+genero_personaje("Kaiji Itō", "hombre").
+genero_personaje("Toshihiko Tanaka", "hombre").
+genero_personaje("Syaoran", "hombre").
+genero_personaje("Ushijima", "hombre").
+genero_personaje("Roto", "hombre").
+genero_personaje("Buronson, Tetsuo Hara", "hombre").
+genero_personaje("Kota Shibaki", "hombre").
+genero_personaje("Osamu Tezuka", "hombre").
+genero_personaje("Rui Kisugi", "mujer").
+genero_personaje("Jin Kizaragi", "hombre").
+genero_personaje("Sena Kobayakawa", "hombre").
+genero_personaje("Kōji Kuroki", "hombre").
+genero_personaje("Shinomiya Kojirō", "hombre").
+genero_personaje("Miaka Yūki", "mujer").
+genero_personaje("Masaru Hotta", "hombre").
+genero_personaje("Kyon", "hombre").
+genero_personaje("Hayate Ayasaki", "hombre").
+genero_personaje("Kyosuke Kasuga", "hombre").
+genero_personaje("Mutsuki Tsuyama", "hombre").
+genero_personaje("Keitaro Urashima", "hombre").
+genero_personaje("Taichi Keaton", "hombre").
+genero_personaje("Kenzo Tenma", "hombre").
+genero_personaje("Negi Springfield", "hombre").
+genero_personaje("Kujaku", "hombre").
+genero_personaje("Fuutarou Uesugi", "hombre").
+genero_personaje("Yuri Suzuki", "mujer").
+genero_personaje("Ashibe Shun", "hombre").
+genero_personaje("Takashi Sugimori", "hombre").
+genero_personaje("Fujiko Mine", "mujer").
+genero_personaje("Takiko Okuda", "mujer").
+genero_personaje("Sakazuki", "hombre").
+genero_personaje("Smoker", "hombre").
+genero_personaje("Tashigi", "mujer").
+genero_personaje("Buggy", "hombre").
+genero_personaje("Trafalgar Law", "hombre").
+genero_personaje("Kid", "hombre").
+genero_personaje("Killer", "hombre").
+genero_personaje("Nico Robin", "mujer").
+genero_personaje("Perona", "mujer").
+genero_personaje("Kuzan", "hombre").
+genero_personaje("Rayleigh", "hombre").
+genero_personaje("Bonney", "mujer").
+genero_personaje("Jewelry Bonney", "mujer").
+genero_personaje("Capone Bege", "hombre").
+genero_personaje("Enel", "hombre").
+genero_personaje("Shiki", "hombre").
+genero_personaje("Hancock", "mujer").
+genero_personaje("Doflamingo", "hombre").
+genero_personaje("Mihawk", "hombre").
+genero_personaje("Bartolomeo", "hombre").
+genero_personaje("Jimbei", "hombre").
+genero_personaje("Cavendish", "hombre").
+genero_personaje("Carrot", "mujer").
+genero_personaje("Marco", "hombre").
+genero_personaje("Coby", "hombre").
+genero_personaje("Helmeppo", "hombre").
+genero_personaje("Kaku", "hombre").
+genero_personaje("Kizaru", "hombre").
+genero_personaje("Orochi", "hombre").
+genero_personaje("Kin'emon", "hombre").
+genero_personaje("Kanjuro", "hombre").
+genero_personaje("Raizo", "hombre").
+genero_personaje("Nekomamushi", "hombre").
+genero_personaje("Inuarashi", "hombre").
+genero_personaje("Shinichi Kudo", "hombre").
+genero_personaje("Ran Mouri", "mujer").
+genero_personaje("Kogoro Mouri", "hombre").
+genero_personaje("Heiji Hattori", "hombre").
+genero_personaje("Kazuha Toyama", "mujer").
+genero_personaje("Ayumi Yoshida", "mujer").
+genero_personaje("Mitsuhiko Tsuburaya", "hombre").
+genero_personaje("Genta Kojima", "hombre").
+genero_personaje("Kaito Kid", "hombre").
+genero_personaje("Vegeta", "hombre").
+genero_personaje("Bulma", "mujer").
+genero_personaje("Piccolo", "hombre").
+genero_personaje("Krillin", "hombre").
+genero_personaje("Yamcha", "hombre").
+genero_personaje("Tien Shinhan", "hombre").
+genero_personaje("Chiaotzu", "hombre").
+genero_personaje("Raditz", "hombre").
+genero_personaje("Nappa", "hombre").
+genero_personaje("Bardock", "hombre").
+genero_personaje("Recoome", "hombre").
+genero_personaje("Jeice", "hombre").
+genero_personaje("Burter", "hombre").
+genero_personaje("Captain Ginyu", "hombre").
+genero_personaje("Frieza", "hombre").
+genero_personaje("Android 17", "hombre").
+genero_personaje("Android 18", "mujer").
+genero_personaje("Cell", "hombre").
+genero_personaje("Majin Buu", "hombre").
+genero_personaje("Beerus", "hombre").
+genero_personaje("Whis", "hombre").
+genero_personaje("Vados", "mujer").
+genero_personaje("Zeno", "hombre").
+genero_personaje("Yajirobe", "hombre").
+genero_personaje("Oolong", "hombre").
+genero_personaje("Master Roshi", "hombre").
+genero_personaje("Grandpa Gohan", "hombre").
+genero_personaje("King Kai", "hombre").
+genero_personaje("Turtle", "hombre").
+genero_personaje("King Yemma", "hombre").
+genero_personaje("Fortuneteller Baba", "mujer").
+genero_personaje("Dende", "hombre").
+genero_personaje("Korin", "hombre").
+genero_personaje("Zarbon", "hombre").
+genero_personaje("Dodoria", "hombre").
+genero_personaje("Supreme Kai", "hombre").
+genero_personaje("Kibito", "hombre").
+genero_personaje("Elder Kai", "hombre").
+genero_personaje("Mr. Satan", "hombre").
+genero_personaje("Pikkon", "hombre").
+genero_personaje("Chie Takemoto", "mujer").
+genero_personaje("Makoto Hotta", "hombre").
+genero_personaje("Genos", "hombre").
+genero_personaje("Fubuki", "mujer").
+genero_personaje("Suiryu", "hombre").
+genero_personaje("Tanktop Master", "hombre").
+genero_personaje("Chrome Dokuro", "hombre").
+genero_personaje("Lal Mirch", "mujer").
+genero_personaje("Gamma", "hombre").
+genero_personaje("Belphegor", "hombre").
+genero_personaje("Squalo Superbi", "hombre").
+genero_personaje("Keiji Maeda", "hombre").
+genero_personaje("Hyōma", "hombre").
+genero_personaje("Anyamaru", "hombre").
+genero_personaje("Yor For", "hombre").
+genero_personaje("Yor Ham", "hombre").
+genero_personaje("Shirō", "hombre").
+genero_personaje("Yor Sae", "hombre").
+genero_personaje("Loid Forger", "hombre").
+genero_personaje("Yor Forger", "hombre").
+genero_personaje("Anya Forger", "mujer").
+genero_personaje("Yor Briar", "hombre").
+genero_personaje("Juno", "hombre").
+genero_personaje("Nagi", "hombre").
+genero_personaje("Dr. Kuroiwa", "hombre").
+genero_personaje("Reimi Sugimoto", "mujer").
+genero_personaje("Tora", "hombre").
+genero_personaje("Mayuko Inoue", "mujer").
+genero_personaje("Aotsuki Ushio", "hombre").
+genero_personaje("Yawara Inokuma", "mujer").
+genero_personaje("Jigorō Inokuma", "hombre").
+genero_personaje("Yūji Mito", "hombre").
+genero_personaje("Yoshiko Kawada", "mujer").
+genero_personaje("Hikaru Matsumoto", "hombre").
+genero_personaje("Shigeo Araki", "hombre").
 genero_principal("Aventura", "One Piece").
 genero_principal("Acción", "Golgo 13").
 genero_principal("Misterio", "Case Closed / Detective Conan").
@@ -2357,6 +2957,293 @@ cantidad_copias_vendidas("Swan", 2000000).
 cantidad_copias_vendidas("The Tale of Genji", 5000000).
 cantidad_copias_vendidas("Tokyo Daigaku Monogatari", 2000000).
 cantidad_copias_vendidas("Weed", 3000000).
+demografia_manga("One Piece", "Shonen").
+demografia_manga("Golgo 13", "Seinen").
+demografia_manga("Case Closed / Detective Conan", "Shonen").
+demografia_manga("Dragon Ball", "Shonen").
+demografia_manga("Doraemon", "Kodomomuke").
+demografia_manga("Naruto", "Shonen").
+demografia_manga("Slam Dunk", "Shonen").
+demografia_manga("KochiKame: Tokyo Beat Cops", "Shonen").
+demografia_manga("Demon Slayer: Kimetsu no Yaiba", "Shonen").
+demografia_manga("Oishinbo", "Seinen").
+demografia_manga("Bleach", "Shonen").
+demografia_manga("JoJo's Bizarre Adventure", "Shonen").
+demografia_manga("Attack on Titan", "Shonen").
+demografia_manga("Astro Boy", "Shonen").
+demografia_manga("Fist of the North Star", "Shonen").
+demografia_manga("Hajime no Ippo", "Shonen").
+demografia_manga("The Kindaichi Case Files", "Shonen").
+demografia_manga("Touch", "Shonen").
+demografia_manga("Kingdom", "Seinen").
+demografia_manga("Captain Tsubasa", "Shonen").
+demografia_manga("Sazae-san", "Seinen").
+demografia_manga("Baki the Grappler", "Shonen").
+demografia_manga("My Hero Academia", "Shonen").
+demografia_manga("Hunter × Hunter", "Shonen").
+demografia_manga("Vagabond", "Seinen").
+demografia_manga("Fullmetal Alchemist", "Shonen").
+demografia_manga("Sangokushi", "Shonen").
+demografia_manga("YuYu Hakusho", "Shonen").
+demografia_manga("Kinnikuman", "Shonen").
+demografia_manga("Fairy Tail", "Shonen").
+demografia_manga("Rurouni Kenshin", "Shonen").
+demografia_manga("Jujutsu Kaisen", "Shonen").
+demografia_manga("Tokyo Revengers", "Shonen").
+demografia_manga("Boys Over Flowers", "Shojo").
+demografia_manga("Major", "Shonen").
+demografia_manga("The Prince of Tennis", "Shonen").
+demografia_manga("Rokudenashi Blues", "Shonen").
+demografia_manga("Crayon Shin-chan", "Kodomomuke").
+demografia_manga("Initial D", "Seinen").
+demografia_manga("Gintama", "Shonen").
+demografia_manga("Bad Boys", "Seinen").
+demografia_manga("Berserk", "Seinen").
+demografia_manga("H2", "Shonen").
+demografia_manga("Haikyu!!", "Shonen").
+demografia_manga("Ranma ½", "Shonen").
+demografia_manga("Minami no Teiō", "Seinen").
+demografia_manga("Super Radical Gag Family", "Shonen").
+demografia_manga("Black Jack", "Seinen").
+demografia_manga("City Hunter", "Shonen").
+demografia_manga("Cobra", "Shonen").
+demografia_manga("Devilman", "Shonen").
+demografia_manga("Dragon Quest: The Adventure of Dai", "Shonen").
+demografia_manga("Fisherman Sanpei", "Shonen").
+demografia_manga("Glass Mask", "Shojo").
+demografia_manga("Great Teacher Onizuka", "Shonen").
+demografia_manga("Inuyasha", "Shojo").
+demografia_manga("Nana", "Josei").
+demografia_manga("Saint Seiya", "Shonen").
+demografia_manga("Shoot!", "Shonen").
+demografia_manga("Dokaben", "Seinen").
+demografia_manga("Kosaku Shima", "Seinen").
+demografia_manga("Tokyo Ghoul", "Seinen").
+demografia_manga("Crows", "Seinen").
+demografia_manga("Sailor Moon", "Shojo").
+demografia_manga("Shizukanaru Don – Yakuza Side Story", "Seinen").
+demografia_manga("Dear Boys", "Shonen").
+demografia_manga("Shonan Junai Gumi", "Shonen").
+demografia_manga("The Promised Neverland", "Shonen").
+demografia_manga("Ace of Diamond", "Shonen").
+demografia_manga("Be-Bop High School", "Seinen").
+demografia_manga("Cooking Papa", "Seinen").
+demografia_manga("Crest of the Royal Family", "Shojo").
+demografia_manga("Kyō Kara Ore Wa!!", "Shonen").
+demografia_manga("That Time I Got Reincarnated as a Slime", "Shonen").
+demografia_manga("Yu-Gi-Oh!", "Shonen").
+demografia_manga("Nodame Cantabile", "Josei").
+demografia_manga("Shaman King", "Shonen").
+demografia_manga("The Seven Deadly Sins", "Shonen").
+demografia_manga("20th Century Boys", "Seinen").
+demografia_manga("The Chef", "Seinen").
+demografia_manga("Dr. Slump", "Shonen").
+demografia_manga("Itazura na Kiss", "Shojo").
+demografia_manga("Salary Man Kintaro", "Seinen").
+demografia_manga("Urusei Yatsura", "Shonen").
+demografia_manga("Worst", "Seinen").
+demografia_manga("3×3 Eyes", "Seinen").
+demografia_manga("Kaze Densetsu: Bukkomi no Taku", "Shonen").
+demografia_manga("Kimi ni Todoke", "Shojo").
+demografia_manga("Chibi Maruko-chan", "Shojo").
+demografia_manga("Black Butler", "Shonen").
+demografia_manga("The Silent Service", "Seinen").
+demografia_manga("A Certain Magical Index", "Shonen").
+demografia_manga("Kuroko's Basketball", "Shonen").
+demografia_manga("Space Brothers", "Seinen").
+demografia_manga("Bastard‼", "Seinen").
+demografia_manga("Chameleon", "Seinen").
+demografia_manga("Death Note", "Shonen").
+demografia_manga("Fruits Basket", "Shojo").
+demografia_manga("Gaki Deka", "Seinen").
+demografia_manga("Jarinko Chie", "Seinen").
+demografia_manga("Jingi", "Seinen").
+demografia_manga("One-Punch Man", "Shonen").
+demografia_manga("Reborn!", "Shonen").
+demografia_manga("Shura no Mon", "Shonen").
+demografia_manga("Spy × Family", "Shonen").
+demografia_manga("Tokimeki Tonight", "Shojo").
+demografia_manga("Ushio and Tora", "Shonen").
+demografia_manga("Yawara!", "Seinen").
+demografia_manga("Futari Ecchi", "Seinen").
+demografia_manga("Shonan Bakusozoku", "Seinen").
+demografia_manga("Asari-chan", "Shojo").
+demografia_manga("Chihayafuru", "Josei").
+demografia_manga("Pokémon Adventures", "Shonen").
+demografia_manga("Yowamushi Pedal", "Shonen").
+demografia_manga("Sakigake!! Otokojuku", "Shonen").
+demografia_manga("Seito Shokun!", "Shojo").
+demografia_manga("Yūkan Club", "Shojo").
+demografia_manga("Bari Bari Densetsu", "Shonen").
+demografia_manga("Blue Lock", "Shonen").
+demografia_manga("Tsuribaka Nisshi", "Seinen").
+demografia_manga("Angel Heart", "Seinen").
+demografia_manga("Ashita no Joe", "Shonen").
+demografia_manga("Assassination Classroom", "Shonen").
+demografia_manga("Blue Exorcist", "Shonen").
+demografia_manga("Boys Be...", "Seinen").
+demografia_manga("D.Gray-man", "Shonen").
+demografia_manga("Emblem Take 2", "Seinen").
+demografia_manga("Flame of Recca", "Shonen").
+demografia_manga("Hikaru no Go", "Shonen").
+demografia_manga("Jigoku Sensei Nūbē", "Shonen").
+demografia_manga("Magi: The Labyrinth of Magic", "Shonen").
+demografia_manga("Maison Ikkoku", "Seinen").
+demografia_manga("Miyuki", "Shonen").
+demografia_manga("Neon Genesis Evangelion", "Seinen").
+demografia_manga("Oh My Goddess!", "Seinen").
+demografia_manga("Patalliro!", "Shojo").
+demografia_manga("Parasyte", "Seinen").
+demografia_manga("The Ping Pong Club", "Seinen").
+demografia_manga("Saiyuki", "Shonen").
+demografia_manga("Toriko", "Shonen").
+demografia_manga("Ahiru no Sora", "Shonen").
+demografia_manga("Chainsaw Man", "Shonen").
+demografia_manga("Gantz", "Seinen").
+demografia_manga("Golden Kamuy", "Seinen").
+demografia_manga("Zatch Bell!", "Shonen").
+demografia_manga("Rave Master", "Shonen").
+demografia_manga("Himitsu Series", "Shojo").
+demografia_manga("The Rose of Versailles", "Shojo").
+demografia_manga("Abu-san", "Seinen").
+demografia_manga("Cardcaptor Sakura", "Shojo").
+demografia_manga("Hoshin Engi", "Shonen").
+demografia_manga("Kaguya-sama: Love Is War", "Seinen").
+demografia_manga("Terra Formars", "Seinen").
+demografia_manga("Dōbutsu no Oisha-san", "Shonen").
+demografia_manga("Kaiji", "Seinen").
+demografia_manga("Rookies", "Seinen").
+demografia_manga("Tsubasa: Reservoir Chronicle", "Shonen").
+demografia_manga("Ushijima the Loan Shark", "Seinen").
+demografia_manga("Dragon Quest Retsuden: Roto no Monshō", "Shonen").
+demografia_manga("Shōnen Shōjo Nippon no Rekishi", "Seinen").
+demografia_manga("750 Rider", "Seinen").
+demografia_manga("Buddha", "Seinen").
+demografia_manga("Cat's Eye", "Shojo").
+demografia_manga("Cuffs - Kizu Darake no Chizu", "Seinen").
+demografia_manga("Eyeshield 21", "Shonen").
+demografia_manga("The Fable", "Seinen").
+demografia_manga("Fire Force", "Shonen").
+demografia_manga("Food Wars!: Shokugeki no Soma", "Shonen").
+demografia_manga("Fushigi Yûgi", "Shojo").
+demografia_manga("Giant Killing", "Seinen").
+demografia_manga("Haruhi Suzumiya", "Shojo").
+demografia_manga("Hayate the Combat Butler", "Shojo").
+demografia_manga("Kimagure Orange Road", "Shonen").
+demografia_manga("Tasogare Ryūseigun", "Seinen").
+demografia_manga("Love Hina", "Shonen").
+demografia_manga("Master Keaton", "Seinen").
+demografia_manga("Monster", "Seinen").
+demografia_manga("Negima! Magister Negi Magi", "Shonen").
+demografia_manga("Peacock King", "Shonen").
+demografia_manga("The Quintessential Quintuplets", "Shonen").
+demografia_manga("Red River", "Shojo").
+demografia_manga("Shōnen Ashibe", "Shonen").
+demografia_manga("Sukeban Deka", "Shojo").
+demografia_manga("Swan", "Shojo").
+demografia_manga("The Tale of Genji", "Shojo").
+demografia_manga("Tokyo Daigaku Monogatari", "Seinen").
+demografia_manga("Weed", "Shonen").
+estudio_animacion_adaptacion_anime("One Piece", "Toei Animation").
+estudio_animacion_adaptacion_anime("Golgo 13", "Tokyo Movie Shinsha").
+estudio_animacion_adaptacion_anime("Case Closed / Detective Conan", "TMS Entertainment").
+estudio_animacion_adaptacion_anime("Dragon Ball", "Toei Animation").
+estudio_animacion_adaptacion_anime("Doraemon", "Shin-Ei Animation").
+estudio_animacion_adaptacion_anime("Naruto", "Studio Pierrot").
+estudio_animacion_adaptacion_anime("Slam Dunk", "Toei Animation").
+estudio_animacion_adaptacion_anime("KochiKame: Tokyo Beat Cops", "Studio Gallop").
+estudio_animacion_adaptacion_anime("Demon Slayer: Kimetsu no Yaiba", "ufotable").
+estudio_animacion_adaptacion_anime("Bleach", "Studio Pierrot").
+estudio_animacion_adaptacion_anime("JoJo's Bizarre Adventure", "David Production").
+estudio_animacion_adaptacion_anime("Attack on Titan", "Wit Studio, MAPPA").
+estudio_animacion_adaptacion_anime("Astro Boy", "Tezuka Productions").
+estudio_animacion_adaptacion_anime("Fist of the North Star", "Toei Animation").
+estudio_animacion_adaptacion_anime("Hajime no Ippo", "Madhouse").
+estudio_animacion_adaptacion_anime("The Kindaichi Case Files", "Toei Animation").
+estudio_animacion_adaptacion_anime("Touch", "Group TAC").
+estudio_animacion_adaptacion_anime("Kingdom", "Studio Pierrot").
+estudio_animacion_adaptacion_anime("Captain Tsubasa", "Group TAC, Tsuchida Production").
+estudio_animacion_adaptacion_anime("Sazae-san", "Eiken").
+estudio_animacion_adaptacion_anime("Baki the Grappler", "Group TAC").
+estudio_animacion_adaptacion_anime("My Hero Academia", "Bones").
+estudio_animacion_adaptacion_anime("Hunter × Hunter", "Nippon Animation, Pierrot, Madhouse").
+estudio_animacion_adaptacion_anime("Vagabond", "Madhouse").
+estudio_animacion_adaptacion_anime("Fullmetal Alchemist", "Bones").
+estudio_animacion_adaptacion_anime("Sangokushi", "Toei Animation").
+estudio_animacion_adaptacion_anime("YuYu Hakusho", "Pierrot").
+estudio_animacion_adaptacion_anime("Kinnikuman", "Toei Animation").
+estudio_animacion_adaptacion_anime("Fairy Tail", "A-1 Pictures, Satelight, Bridge").
+estudio_animacion_adaptacion_anime("Rurouni Kenshin", "Studio Gallop, Studio Deen").
+estudio_animacion_adaptacion_anime("Jujutsu Kaisen", "MAPPA").
+estudio_animacion_adaptacion_anime("Tokyo Revengers", "Liden Films").
+estudio_animacion_adaptacion_anime("Boys Over Flowers", "Toei Animation").
+estudio_animacion_adaptacion_anime("Major", "Studio Hibari").
+estudio_animacion_adaptacion_anime("The Prince of Tennis", "Trans Arts").
+estudio_animacion_adaptacion_anime("Rokudenashi Blues", "Toei Animation").
+estudio_animacion_adaptacion_anime("Crayon Shin-chan", "Shin-Ei Animation").
+estudio_animacion_adaptacion_anime("Initial D", "Studio Comet").
+estudio_animacion_adaptacion_anime("Gintama", "Sunrise").
+estudio_animacion_adaptacion_anime("Bad Boys", "Magic Bus").
+estudio_animacion_adaptacion_anime("Berserk", "OLM, Studio Gaga, Millepensee").
+estudio_animacion_adaptacion_anime("H2", "Ashi Productions").
+estudio_animacion_adaptacion_anime("Haikyu!!", "Production I.G").
+estudio_animacion_adaptacion_anime("Great Teacher Onizuka", "Studio Pierrot").
+estudio_animacion_adaptacion_anime("Inuyasha", "Sunrise").
+estudio_animacion_adaptacion_anime("Nana", "Madhouse").
+estudio_animacion_adaptacion_anime("Saint Seiya", "Toei Animation").
+estudio_animacion_adaptacion_anime("Sailor Moon", "Toei Animation").
+estudio_animacion_adaptacion_anime("The Promised Neverland", "CloverWorks").
+estudio_animacion_adaptacion_anime("Ace of Diamond", "Madhouse").
+estudio_animacion_adaptacion_anime("Yu-Gi-Oh!", "Toei Animation").
+estudio_animacion_adaptacion_anime("Dr. Slump", "Toei Animation").
+estudio_animacion_adaptacion_anime("Kimi ni Todoke", "Production I.G").
+estudio_animacion_adaptacion_anime("Chibi Maruko-chan", "Nippon Animation").
+estudio_animacion_adaptacion_anime("Black Butler", "A-1 Pictures").
+estudio_animacion_adaptacion_anime("A Certain Magical Index", "J.C.Staff").
+estudio_animacion_adaptacion_anime("Kuroko's Basketball", "Production I.G").
+estudio_animacion_adaptacion_anime("Space Brothers", "A-1 Pictures").
+estudio_animacion_adaptacion_anime("Bastard‼", "Toei Animation").
+estudio_animacion_adaptacion_anime("Death Note", "Madhouse").
+estudio_animacion_adaptacion_anime("Fruits Basket", "TMS Entertainment").
+estudio_animacion_adaptacion_anime("One-Punch Man", "Madhouse").
+estudio_animacion_adaptacion_anime("Reborn!", "Artland").
+estudio_animacion_adaptacion_anime("Ushio and Tora", "Studio Pierrot").
+estudio_animacion_adaptacion_anime("Chihayafuru", "Madhouse").
+estudio_animacion_adaptacion_anime("Pokémon Adventures", "OLM, Inc.").
+estudio_animacion_adaptacion_anime("Yowamushi Pedal", "TMS Entertainment").
+estudio_animacion_adaptacion_anime("Blue Exorcist", "A-1 Pictures").
+estudio_animacion_adaptacion_anime("Boys Be...", "Hal Film Maker").
+estudio_animacion_adaptacion_anime("D.Gray-man", "TMS Entertainment").
+estudio_animacion_adaptacion_anime("Jigoku Sensei Nūbē", "Toei Animation").
+estudio_animacion_adaptacion_anime("Magi: The Labyrinth of Magic", "A-1 Pictures").
+estudio_animacion_adaptacion_anime("Neon Genesis Evangelion", "Gainax").
+estudio_animacion_adaptacion_anime("Oh My Goddess!", "Anime International Company").
+estudio_animacion_adaptacion_anime("Parasyte", "Madhouse").
+estudio_animacion_adaptacion_anime("Toriko", "Toei Animation").
+estudio_animacion_adaptacion_anime("Ahiru no Sora", "diomedéa").
+estudio_animacion_adaptacion_anime("Golden Kamuy", "Geno Studio").
+estudio_animacion_adaptacion_anime("Zatch Bell!", "Toei Animation").
+estudio_animacion_adaptacion_anime("Rave Master", "Studio Deen").
+estudio_animacion_adaptacion_anime("Cardcaptor Sakura", "Madhouse").
+estudio_animacion_adaptacion_anime("Kaguya-sama: Love Is War", "A-1 Pictures").
+estudio_animacion_adaptacion_anime("Terra Formars", "LIDENFILMS").
+estudio_animacion_adaptacion_anime("Kaiji", "Madhouse").
+estudio_animacion_adaptacion_anime("Rookies", "Madhouse").
+estudio_animacion_adaptacion_anime("Eyeshield 21", "Gallop").
+estudio_animacion_adaptacion_anime("Food Wars!: Shokugeki no Soma", "J.C.Staff").
+estudio_animacion_adaptacion_anime("Fushigi Yûgi", "Studio Pierrot").
+estudio_animacion_adaptacion_anime("Haruhi Suzumiya", "Kyoto Animation").
+estudio_animacion_adaptacion_anime("Hayate the Combat Butler", "SynergySP").
+estudio_animacion_adaptacion_anime("Tasogare Ryūseigun", "Shin-Ei Animation").
+estudio_animacion_adaptacion_anime("Love Hina", "Xebec").
+estudio_animacion_adaptacion_anime("Monster", "Madhouse").
+estudio_animacion_adaptacion_anime("Negima! Magister Negi Magi", "Xebec").
+estudio_animacion_adaptacion_anime("The Quintessential Quintuplets", "Tezuka Productions").
+estudio_animacion_adaptacion_anime("Red River", "Studio Deen").
+estudio_animacion_adaptacion_anime("Sukeban Deka", "Toei Animation").
+estudio_animacion_adaptacion_anime("Swan", "Toei Animation").
+estudio_animacion_adaptacion_anime("The Tale of Genji", "Tezuka Productions").
+estudio_animacion_adaptacion_anime("Weed", "Toei Animation").
 
 %reglas
 
