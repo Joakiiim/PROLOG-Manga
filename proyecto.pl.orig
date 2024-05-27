@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 %hechos
 
+=======
 autor("Eiichiro Oda").
 autor("Takao Saito").
 autor("Gosho Aoyama").
@@ -216,6 +218,7 @@ autor("Kyoko Ariyoshi").
 autor("Waki Yamato").
 autor("Tatsuya Egawa").
 autor("Yoshihiro Takahashi").
+>>>>>>> origin/Hechos
 es_autor("Eiichiro Oda","One Piece").
 es_autor("Takao Saito","Golgo 13").
 es_autor("Gosho Aoyama","Case Closed / Detective Conan").
@@ -1577,6 +1580,754 @@ estatus_personaje("Gon Freecss", "vivo").
 estatus_personaje("Miyamoto Musashi", "muerto").
 estatus_personaje("Edward Elric", "vivo").
 estatus_personaje("Liu Bei", "muerto").
+<<<<<<< HEAD
+estatus_personaje("Adachi", "vivo").
+estatus_personaje("Kukuru", "vivo").
+estatus_personaje("Punie", "vivo").
+estatus_personaje("Keroro", "vivo").
+estatus_personaje("Somali", "vivo").
+estatus_personaje("Maid", "vivo").
+estatus_personaje("Velonica", "vivo").
+estatus_personaje("Shino", "vivo").
+estatus_personaje("Anna", "vivo").
+estatus_personaje("Anju", "vivo").
+estatus_personaje("Ai", "vivo").
+estatus_personaje("Cacao", "vivo").
+estatus_personaje("Harima", "vivo").
+estatus_personaje("Koukaku", "vivo").
+estatus_personaje("Bellri", "vivo").
+estatus_personaje("Nozomu", "vivo").
+estatus_personaje("Natsuru", "vivo").
+estatus_personaje("Conan", "muerto").
+estatus_personaje("Sio", "vivo").
+estatus_personaje("Taichi", "vivo").
+estatus_personaje("Tao", "vivo").
+estatus_personaje("Lemon", "vivo").
+estatus_personaje("Marika", "muerto").
+estatus_personaje("Taiki", "vivo").
+estatus_personaje("Tsukasa", "vivo").
+estatus_personaje("Sonny", "vivo").
+estatus_personaje("Verse", "vivo").
+estatus_personaje("Shino", "vivo").
+estatus_personaje("Shinya", "vivo").
+estatus_personaje("Slapstick", "vivo").
+estatus_personaje("Mai", "vivo").
+estatus_personaje("Keita", "vivo").
+estatus_personaje("Rentarou", "vivo").
+estatus_personaje("Jack", "vivo").
+estatus_personaje("Akatsuki", "vivo").
+estatus_personaje("Gomennasai", "vivo").
+estatus_personaje("Chelsea", "vivo").
+estatus_personaje("Sanzo", "vivo").
+estatus_personaje("Maya", "vivo").
+estatus_personaje("Pikachu", "vivo").
+estatus_personaje("Misaki", "vivo").
+estatus_personaje("Kamen", "vivo").
+estatus_personaje("Plug", "vivo").
+estatus_personaje("Krauser", "vivo").
+estatus_personaje("Mio", "muerto").
+estatus_personaje("Olivia", "vivo").
+estatus_personaje("Da", "vivo").
+estatus_personaje("Kabocha", "vivo").
+estatus_personaje("Loran", "muerto").
+estatus_personaje("First", "vivo").
+estatus_personaje("Bell", "vivo").
+estatus_personaje("Ai", "vivo").
+estatus_personaje("B-Daman", "vivo").
+estatus_personaje("Anpanman", "vivo").
+estatus_personaje("Milk", "vivo").
+estatus_personaje("Ritsu", "vivo").
+estatus_personaje("Genesect", "muerto").
+estatus_personaje("Zentrix", "vivo").
+estatus_personaje("Chirico", "vivo").
+estatus_personaje("Sai", "vivo").
+estatus_personaje("Junko", "vivo").
+estatus_personaje("Shigeyoshi", "vivo").
+estatus_personaje("Gijinka", "vivo").
+estatus_personaje("Tio", "vivo").
+estatus_personaje("Jack", "vivo").
+estatus_personaje("Santa", "vivo").
+estatus_personaje("Kuragehime", "vivo").
+estatus_personaje("Ken", "vivo").
+estatus_personaje("Hamtarou", "vivo").
+estatus_personaje("Takumi", "vivo").
+estatus_personaje("Eren", "vivo").
+estatus_personaje("Neko", "vivo").
+estatus_personaje("Cinderella", "vivo").
+estatus_personaje("Yuri", "vivo").
+estatus_personaje("Tsubasa", "vivo").
+estatus_personaje("Marimo", "vivo").
+estatus_personaje("Eiyuu", "vivo").
+estatus_personaje("Yusuke", "vivo").
+estatus_personaje("Jiang", "vivo").
+estatus_personaje("Ryosuke", "vivo").
+estatus_personaje("Hepoi", "vivo").
+estatus_personaje("Xiaoyao", "vivo").
+estatus_personaje("Kal", "vivo").
+estatus_personaje("Reoko", "vivo").
+estatus_personaje("Hi", "vivo").
+estatus_personaje("Youto", "vivo").
+estatus_personaje("Jane", "vivo").
+estatus_personaje("Ace", "vivo").
+estatus_personaje("Dino", "vivo").
+estatus_personaje("Kenshin", "vivo").
+estatus_personaje("Akira", "vivo").
+estatus_personaje("Tenkousei", "vivo").
+estatus_personaje("Happy", "vivo").
+estatus_personaje("Shana", "vivo").
+estatus_personaje("Makoto", "vivo").
+estatus_personaje("Heibai", "muerto").
+estatus_personaje("Hikari", "vivo").
+estatus_personaje("Granzort", "vivo").
+estatus_personaje("Sword", "vivo").
+estatus_personaje("Miho", "vivo").
+estatus_personaje("Yatterman", "vivo").
+estatus_personaje("Roger", "vivo").
+estatus_personaje("Chiisana", "vivo").
+estatus_personaje("Kiritsugu", "vivo").
+estatus_personaje("Miyakawa", "vivo").
+estatus_personaje("Hamtaro", "vivo").
+estatus_personaje("Shounen", "vivo").
+estatus_personaje("Sylvanian", "vivo").
+estatus_personaje("Unknown", "vivo").
+estatus_personaje("Cardfighter", "vivo").
+estatus_personaje("Joe", "vivo").
+estatus_personaje("Renton", "vivo").
+estatus_personaje("Fafa", "vivo").
+estatus_personaje("Juliet", "vivo").
+estatus_personaje("Shinnosuke", "vivo").
+estatus_personaje("Puss", "vivo").
+estatus_personaje("Sumo", "vivo").
+estatus_personaje("Miharu", "vivo").
+estatus_personaje("Candy", "vivo").
+estatus_personaje("Takami", "vivo").
+estatus_personaje("Misumi", "vivo").
+estatus_personaje("Yamamoto", "vivo").
+estatus_personaje("Junpei", "vivo").
+estatus_personaje("Vivi", "vivo").
+estatus_personaje("Eimi", "vivo").
+estatus_personaje("Keroro", "vivo").
+estatus_personaje("Siwan", "vivo").
+estatus_personaje("Meme", "vivo").
+estatus_personaje("Bai Ye", "vivo").
+estatus_personaje("Hello", "vivo").
+estatus_personaje("Arale", "vivo").
+estatus_personaje("Satellizer", "vivo").
+estatus_personaje("Rusuban", "vivo").
+estatus_personaje("Nanami", "vivo").
+estatus_personaje("Izaya", "vivo").
+estatus_personaje("Unknown", "vivo").
+cantidad_copias_vendidas("Net-juu no Susume", 500000).
+cantidad_copias_vendidas("Neon Genesis Evangelion: The End of Evangelion", 1000000).
+cantidad_copias_vendidas("Templex", 250000).
+cantidad_copias_vendidas("s.CRY.ed", 150000).
+cantidad_copias_vendidas("Toaru Majutsu no Index-tan III", 200000).
+cantidad_copias_vendidas("Hana to Mogura", 100000).
+cantidad_copias_vendidas("Drifters (OVA): Kokuou-sama Goranshin", 300000).
+cantidad_copias_vendidas("Himitsukessha Taka no Tsume", 50000).
+cantidad_copias_vendidas("Nyanpire The Animation", 75000).
+cantidad_copias_vendidas(".hack//Intermezzo", 125000).
+cantidad_copias_vendidas("Banana Fish", 350000).
+cantidad_copias_vendidas("Persona 4 the Animation", 400000).
+cantidad_copias_vendidas("Jirijiri Moyou no Ryuuryuu Tenten", 90000).
+cantidad_copias_vendidas("Romantic Killer", 60000).
+cantidad_copias_vendidas("Himote House", 80000).
+cantidad_copias_vendidas("Precure All Stars Movie New Stage: Mirai no Tomodachi", 200000).
+cantidad_copias_vendidas("Super Bikkuriman", 175000).
+cantidad_copias_vendidas("Katarina Nounai Kaigi X", 100000).
+cantidad_copias_vendidas("Ring ni Kakero 1: Sekai Taikai-hen", 120000).
+cantidad_copias_vendidas("Kageyama Tamio no Double Fantasy", 70000).
+cantidad_copias_vendidas("Keijo!!!!!!!!", 300000).
+cantidad_copias_vendidas("Hi☆sCoool! SeHa Girls", 150000).
+cantidad_copias_vendidas("Kyuuketsuhime Miyu (TV)", 50000).
+cantidad_copias_vendidas("Landscape", 60000).
+cantidad_copias_vendidas("Toaru Majutsu no Index", 800000).
+cantidad_copias_vendidas("Puparia", 100000).
+cantidad_copias_vendidas("Kobato.", 400000).
+cantidad_copias_vendidas("DD Hokuto no Ken", 200000).
+cantidad_copias_vendidas("Princess Connect! Re:Dive", 300000).
+cantidad_copias_vendidas("Miyako", 150000).
+cantidad_copias_vendidas("Bungou to Alchemist: Shinpan no Haguruma", 250000).
+cantidad_copias_vendidas("Kiddy GiRL-AND Pilot", 50000).
+cantidad_copias_vendidas("Hendo Garden", 75000).
+cantidad_copias_vendidas("Diabolik Lovers OVA", 100000).
+cantidad_copias_vendidas("Tenkuu Senki Shurato", 150000).
+cantidad_copias_vendidas("Norimono Oukoku BuBu ChaCha", 20000).
+cantidad_copias_vendidas("Urvan", 50000).
+cantidad_copias_vendidas("Muhyo to Rouji no Mahouritsu Soudan Jimusho", 300000).
+cantidad_copias_vendidas("Hokuto no Ken: Yuria-den", 50000).
+cantidad_copias_vendidas("Zettai Shougeki: Platonic Heart", 80000).
+cantidad_copias_vendidas("Detective Conan Movie 15: Quarter of Silence", 500000).
+cantidad_copias_vendidas("W-Tails Cat: A Strange Presence", 25000).
+cantidad_copias_vendidas("Psychic Force", 60000).
+cantidad_copias_vendidas("Children", 150000).
+cantidad_copias_vendidas("Karakuri Kengou Den Musashi Lord", 90000).
+cantidad_copias_vendidas("Sora no Momotarou", 10000).
+cantidad_copias_vendidas("Ranma ½: DoCo Music Video", 75000).
+cantidad_copias_vendidas("Break-Age", 80000).
+cantidad_copias_vendidas("TWD Express Rolling Takeoff", 25000).
+cantidad_copias_vendidas("Monogatari no Aru Satou", 30000).
+cantidad_copias_vendidas("Kono Healer, Mendokusai", 50000).
+cantidad_copias_vendidas("Kobayashi-san Chi no Maid Dragon S", 400000).
+cantidad_copias_vendidas("Princess Principal: Crown Handler Movie 2 - Revealing Reviews", 200000).
+cantidad_copias_vendidas("Healer Girl", 100000).
+cantidad_copias_vendidas("Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 2 - Paladin; Agateram", 400000).
+cantidad_copias_vendidas("Usavich II", 150000).
+cantidad_copias_vendidas("Mayonaka no Occult Koumuin", 100000).
+cantidad_copias_vendidas("Black Jack: Sora kara Kita Kodomo", 75000).
+cantidad_copias_vendidas("Fairy Tail x Rave", 200000).
+cantidad_copias_vendidas("Sekai Meisaku Douwa: Aladdin to Mahou no Lamp", 250000).
+cantidad_copias_vendidas("City Hunter: Kinkyuu Namachuukei!? Kyouakuhan Saeba Ryou no Saigo", 300000).
+cantidad_copias_vendidas("Hakuouki Movie 2: Shikon Soukyuu", 175000).
+cantidad_copias_vendidas("BlazBlue: Alter Memory Specials", 100000).
+cantidad_copias_vendidas("Masamune-kun no Revenge: Uchi no Mama ni Kagitte/Tsunade Shima, Futatabi./12-Ji wo Sugita Cinderella", 125000).
+cantidad_copias_vendidas("Monkey Turn V", 150000).
+cantidad_copias_vendidas("One Punch Man Specials", 250000).
+cantidad_copias_vendidas("My Hero Academia", 600000).
+cantidad_copias_vendidas("Mirai Nikki: Redial", 150000).
+cantidad_copias_vendidas("Honoo no Mirage: Muyou no Michi", 100000).
+cantidad_copias_vendidas("Peeping Life: YouTuber-kun", 75000).
+cantidad_copias_vendidas("Overlord: Oukoku no Kan-tachi - Drama CD-tsuki Tokusou-ban", 100000).
+cantidad_copias_vendidas("Koi to Senkyo to Chocolate: Koi Imouto!", 75000).
+cantidad_copias_vendidas("RahXephon: Tagen Hensoukyoku", 80000).
+cantidad_copias_vendidas("Masuda Kousuke Gekijou Gag Manga Biyori +", 60000).
+cantidad_copias_vendidas("Doraemon Movie 36: Shin Nobita no Nippon Tanjou", 200000).
+cantidad_copias_vendidas("11:08", 50000).
+cantidad_copias_vendidas("No Game No Life: Zero", 150000).
+cantidad_copias_vendidas("Doraemon: Nobita's the Night Before a Wedding", 180000).
+cantidad_copias_vendidas("Ganbare Douki-chan", 40000).
+cantidad_copias_vendidas("Soredemo Machi wa Mawatteiru", 70000).
+cantidad_copias_vendidas("Reikenzan: Hoshikuzu-tachi no Utage", 60000).
+cantidad_copias_vendidas("100% Pascal-sensei", 55000).
+cantidad_copias_vendidas("Hello Kitty no Cinderella (OVA)", 30000).
+cantidad_copias_vendidas("Ququ Bucai, Zaixia Yeguai", 25000).
+cantidad_copias_vendidas("Padak Padak", 35000).
+cantidad_copias_vendidas("Change!! Getter Robo: Sekai Saigo no Hi", 45000).
+cantidad_copias_vendidas("Zhan Qiannian", 20000).
+cantidad_copias_vendidas("Pussycat", 30000).
+cantidad_copias_vendidas("Papuwa", 40000).
+cantidad_copias_vendidas("Kiddy Grade: Maelstrom", 60000).
+cantidad_copias_vendidas("Heisei Tensai Bakabon", 55000).
+cantidad_copias_vendidas("Nyago Dance", 20000).
+cantidad_copias_vendidas("Jormungand: Perfect Order", 80000).
+cantidad_copias_vendidas("Nanatsu no Taizai Movie 2: Hikari ni Norowareshi Mono-tachi", 120000).
+cantidad_copias_vendidas("The Marginal Service", 30000).
+cantidad_copias_vendidas("Bakuen Campus Guardress", 25000).
+cantidad_copias_vendidas("Murenase! Seton Gakuen", 90000).
+cantidad_copias_vendidas("Taisetsu na Kazoku wo Tsutsumu, Sono Te.", 70000).
+cantidad_copias_vendidas("Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne.", 80000).
+cantidad_copias_vendidas("Shirayuki Hime no Densetsu", 300000).
+cantidad_copias_vendidas("Suzumiya Haruhi no Shoushitsu", 500000).
+cantidad_copias_vendidas("Mameshiba Bangai-hen", 80000).
+cantidad_copias_vendidas("Mameneko", 60000).
+cantidad_copias_vendidas("Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen", 200000).
+cantidad_copias_vendidas("Seishun Anime Zenshuu", 40000).
+cantidad_copias_vendidas("Captain Tsubasa J", 100000).
+cantidad_copias_vendidas("Hello Kitty no Yuki no Joou", 75000).
+cantidad_copias_vendidas("Cardfight!! Vanguard: will+Dress Season 2", 150000).
+cantidad_copias_vendidas("Tono to Issho", 60000).
+cantidad_copias_vendidas("Shuangsheng Lingtan", 50000).
+cantidad_copias_vendidas("PES: Peace Eco Smile", 30000).
+cantidad_copias_vendidas("Made in Abyss", 400000).
+cantidad_copias_vendidas("Kurokami The Animation", 200000).
+cantidad_copias_vendidas("Suteneko Tora-chan", 70000).
+cantidad_copias_vendidas("Rerere no Tensai Bakabon", 80000).
+cantidad_copias_vendidas("Fushigi na Koala Blinky", 60000).
+cantidad_copias_vendidas("Xi Yangyang Yu Hui Tailang: Hu Hu Sheng Wei", 30000).
+cantidad_copias_vendidas("Fullmetal Alchemist: The Sacred Star of Milos", 350000).
+cantidad_copias_vendidas("Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 2 - Tamashii", 250000).
+cantidad_copias_vendidas("Ajin Part 2: Shoutotsu", 200000).
+cantidad_copias_vendidas("Dr. Slump: Arale-chan no Koutsuu Anzen", 100000).
+cantidad_copias_vendidas("Ninja Hattori-kun Plus Perman: Chounouryoku Wars", 150000).
+cantidad_copias_vendidas("Argento Soma: Hitori to Hitori", 80000).
+cantidad_copias_vendidas("True Tears: Raigomaru to Jibeta no Monogatari", 60000).
+cantidad_copias_vendidas("Tantei Gakuen Q", 70000).
+cantidad_copias_vendidas("Katanagatari", 250000).
+cantidad_copias_vendidas("Ookami wa Ookami da", 100000).
+cantidad_copias_vendidas("Himitsu no Hana no Niwa", 60000).
+cantidad_copias_vendidas("Ninja Hattori-kun Plus Perman: Ninja Kaijuu Jippou tai Miracle Tamago", 180000).
+cantidad_copias_vendidas("Tokyo Ghoul √A", 300000).
+cantidad_copias_vendidas("Qiang Shen Ji: Tegong Shijie Pian", 25000).
+cantidad_copias_vendidas("Hot Minute: Gudetama", 40000).
+cantidad_copias_vendidas("Mahou no Star Magical Emi: Kumo Hikaru", 60000).
+cantidad_copias_vendidas("Tari Tari: Kumottari, Kagayaitari, Mata Itsuka Utattari", 100000).
+cantidad_copias_vendidas("Uchuu Kazoku Carlvinson", 30000).
+cantidad_copias_vendidas("Choujin Locke: Shinsekai Sentai", 80000).
+cantidad_copias_vendidas("Elite Banana Banao", 20000).
+cantidad_copias_vendidas("Digimon Adventure: 20-shuunen Memorial Story", 250000).
+cantidad_copias_vendidas("Irregular Hunter X: The Day of Sigma", 100000).
+cantidad_copias_vendidas("Ai Tenshi Densetsu Wedding Peach DX", 150000).
+cantidad_copias_vendidas("Pokemon: Mewtwo - Kakusei e no Prologue", 200000).
+cantidad_copias_vendidas("Yoku Wakaru Gendai Mahou", 80000).
+cantidad_copias_vendidas("Honoo no Alpenrose: Ai no Symphony Ongaku-hen", 70000).
+cantidad_copias_vendidas("Kuromi's Pretty Journey", 30000).
+cantidad_copias_vendidas("Long She Yanyi", 25000).
+cantidad_copias_vendidas("Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito", 180000).
+cantidad_copias_vendidas("Legend of Basara: Shinbashi Theater", 50000).
+cantidad_copias_vendidas("Himitsu no Akko-chan 3", 100000).
+cantidad_copias_vendidas("Wooser no Sono Higurashi", 40000).
+cantidad_copias_vendidas("Shiri Play", 25000).
+cantidad_copias_vendidas("Neko Ramen", 90000).
+cantidad_copias_vendidas("Lostorage Incited WIXOSS", 120000).
+cantidad_copias_vendidas("Hulaing Babies", 50000).
+cantidad_copias_vendidas("Urusei Yatsura Movie 4: Lum The Forever", 150000).
+cantidad_copias_vendidas("Masou Gakuen HxH Specials", 80000).
+cantidad_copias_vendidas("One Off", 60000).
+cantidad_copias_vendidas("Dragon Half", 70000).
+cantidad_copias_vendidas("Suteki Tantei Labyrinth", 40000).
+cantidad_copias_vendidas("Zeonic Toyota Special Movie", 30000).
+cantidad_copias_vendidas("Kidou Senshi Gundam: Tekketsu no Orphans", 200000).
+cantidad_copias_vendidas("Hoshizora no Violin", 40000).
+cantidad_copias_vendidas("Bungou Stray Dogs 4th Season", 250000).
+cantidad_copias_vendidas("Peeping Life", 60000).
+cantidad_copias_vendidas("Disney Tsum Tsum", 80000).
+cantidad_copias_vendidas("Onegai My Melody Sukkiri♪", 70000).
+cantidad_copias_vendidas(".hack//G.U. Trilogy", 100000).
+cantidad_copias_vendidas("Shin Chou Kyou Ryo: Condor Hero", 150000).
+cantidad_copias_vendidas("Aa / ii", 30000).
+cantidad_copias_vendidas("Niji no Kanata e! Shoujo Diana Monogatari", 60000).
+cantidad_copias_vendidas("Anima Yell!", 90000).
+cantidad_copias_vendidas("Vampire Knight", 200000).
+cantidad_copias_vendidas("Ookami-san to Shichinin no Nakama-tachi", 120000).
+cantidad_copias_vendidas("Pokemon Best Wishes! Hikari to Kage no Tenkyuugi", 180000).
+cantidad_copias_vendidas("Dakara Boku wa, H ga Dekinai. Recap", 40000).
+cantidad_copias_vendidas("Digimon Adventure tri. 6: Bokura no Mirai", 250000).
+cantidad_copias_vendidas("Ichigeki Sacchuu!! Hoihoi-san", 30000).
+cantidad_copias_vendidas("A3! Season Autumn & Winter", 150000).
+cantidad_copias_vendidas("Aldnoah.Zero Extra Archives", 80000).
+cantidad_copias_vendidas("Initial D Fifth Stage", 180000).
+cantidad_copias_vendidas("Chocchan Monogatari", 40000).
+cantidad_copias_vendidas("Kidou Senshi Gundam: Suisei no Majo - Prologue", 50000).
+cantidad_copias_vendidas("Youkoso Lodoss-tou e!", 60000).
+cantidad_copias_vendidas("Roll", 30000).
+cantidad_copias_vendidas("Tabi wa Michizure Yo wa Nasake", 60000).
+cantidad_copias_vendidas("Little Busters! EX", 90000).
+cantidad_copias_vendidas("Yaoguai Mingdan 2nd Season", 150000).
+cantidad_copias_vendidas("Medarot Damashii", 50000).
+cantidad_copias_vendidas("Sekai de Ichiban Tsuyoku Naritai! Specials", 70000).
+cantidad_copias_vendidas("Hachimitsu to Clover", 100000).
+cantidad_copias_vendidas("Hidan no Aria: Butei ga Kitarite Onsen Kenshuu", 80000).
+cantidad_copias_vendidas("Kidou Senshi Gundam: Uchuu Seiki Yowa", 200000).
+cantidad_copias_vendidas("Hidamari Sketch x ☆☆☆ Specials", 70000).
+cantidad_copias_vendidas("Hello Kitty no Alps no Shoujo Heidi II: Klara to no Deai", 60000).
+cantidad_copias_vendidas("Mitsudomoe Zouryouchuu!", 150000).
+cantidad_copias_vendidas("Smile Precure! Movie: Ehon no Naka wa Minna Chiguhagu!", 180000).
+cantidad_copias_vendidas("Misute♡naide Daisy", 30000).
+cantidad_copias_vendidas("Kinnikuman: Gyakushuu! Uchuu Kakure Choujin", 100000).
+cantidad_copias_vendidas("Uriko-hime to Amanojaku", 40000).
+cantidad_copias_vendidas("Zounds", 25000).
+cantidad_copias_vendidas("Chao Zhi Neng Zu Qiu", 60000).
+cantidad_copias_vendidas("Tokyo Disney Resort: Yume ga Kanau Basho", 70000).
+cantidad_copias_vendidas("Kuroshitsuji: Book of Circus", 150000).
+cantidad_copias_vendidas("Zettai Zetsumei Dangerous Jiisan", 30000).
+cantidad_copias_vendidas("Kidou Senshi Gundam 00 Special Edition", 120000).
+cantidad_copias_vendidas("MM! Specials", 60000).
+cantidad_copias_vendidas("Mai-HiME: Kuro no Mai/Saigo no Bansan", 80000).
+cantidad_copias_vendidas("Gintama Movie 1: Shinyaku Benizakura-hen", 200000).
+cantidad_copias_vendidas("Toaru Kagaku no Accelerator", 150000).
+cantidad_copias_vendidas("Detective Conan: Chase the Mysterious Comet Monster!", 180000).
+cantidad_copias_vendidas("A.D. Police (TV)", 50000).
+cantidad_copias_vendidas("Stratos 4 Advance Kanketsu-hen", 70000).
+cantidad_copias_vendidas("Onegai♪My Melody Kirara★", 80000).
+cantidad_copias_vendidas("Choujin Locke", 30000).
+cantidad_copias_vendidas("Kidou Senshi Gundam SEED Destiny Final Plus: Erabareta Mirai", 100000).
+cantidad_copias_vendidas("Natsu no Shisen 1942", 40000).
+cantidad_copias_vendidas("Nekota no Koto ga Kininatte Shikatanai. (ONA)", 50000).
+cantidad_copias_vendidas("Pucca (TV)", 60000).
+cantidad_copias_vendidas("Youjo Senki Movie: Manner Eizou", 90000).
+cantidad_copias_vendidas("Saint Seiya: Meiou Hades Meikai-hen", 200000).
+cantidad_copias_vendidas("K-On!!: Keikaku!", 150000).
+cantidad_copias_vendidas("Kono Yo no Hate de Koi wo Utau Shoujo YU-NO: Mugen no Heiretsu Sekai", 120000).
+cantidad_copias_vendidas("Kangaroo no Tanjoubi", 30000).
+cantidad_copias_vendidas("Kuroko no Basket: Oshaberi Shiyou ka", 80000).
+cantidad_copias_vendidas("W'z: Hand Shakers with W'z", 60000).
+cantidad_copias_vendidas("Notari Matsutarou", 40000).
+cantidad_copias_vendidas("Curly", 30000).
+cantidad_copias_vendidas("Aoki Honoo", 40000).
+cantidad_copias_vendidas("Magi: Sinbad no Bouken (TV)", 150000).
+cantidad_copias_vendidas("11-gatsu Umare no Otokonoko no Tame ni.", 40000).
+cantidad_copias_vendidas("Lupin III: Bye Bye Liberty - Kiki Ippatsu!", 70000).
+cantidad_copias_vendidas("Bomberman B-Daman Bakugaiden", 50000).
+cantidad_copias_vendidas("Beelzebub", 180000).
+cantidad_copias_vendidas("Tokyo Magnitude 8.0", 120000).
+cantidad_copias_vendidas("Slime-tachi no Idobata Kaigi 2nd Season", 70000).
+cantidad_copias_vendidas("Ni no Kuni", 80000).
+cantidad_copias_vendidas("Sam to Chip no wa Hachamecha Dai Race", 30000).
+cantidad_copias_vendidas("Girls & Panzer Movie", 180000).
+cantidad_copias_vendidas("Azur Lane: Bisoku Zenshin! Hokorashiki Bokou ni Shukusai wo", 150000).
+cantidad_copias_vendidas("Osu", 40000).
+cantidad_copias_vendidas("Fate/kaleid liner Prisma☆Illya 3rei!! Specials", 80000).
+cantidad_copias_vendidas("Ningyo no Kizu", 50000).
+cantidad_copias_vendidas("Bishoujo Senshi Sailor Moon S: Kotaete Moon Call!", 120000).
+cantidad_copias_vendidas("Lupin III: Pilot Film", 60000).
+cantidad_copias_vendidas("Wu Liuqi: Xuanwu Guo Pian", 40000).
+cantidad_copias_vendidas("Tales of Symphonia The Animation: Tethe'alla-hen Specials", 70000).
+cantidad_copias_vendidas("Ao no Exorcist: Kyoto Fujouou-hen", 150000).
+cantidad_copias_vendidas("1-gatsu ni wa Christmas", 30000).
+cantidad_copias_vendidas("Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi", 100000).
+cantidad_copias_vendidas("Mikan Enikki", 30000).
+cantidad_copias_vendidas("Yatogame-chan Kansatsu Nikki Yonsatsume", 40000).
+cantidad_copias_vendidas("Little Nemo Pilot (1987)", 50000).
+cantidad_copias_vendidas("Duan Nao", 30000).
+cantidad_copias_vendidas("Hana to Chou", 40000).
+cantidad_copias_vendidas("Choujin Locke: Mirror Ring", 30000).
+cantidad_copias_vendidas("Meng Qi Shi Shen: Zaijie Liangyuan", 40000).
+cantidad_copias_vendidas("Shanhe Jian Xin Xiao Juchang", 30000).
+cantidad_copias_vendidas("Xenosaga The Animation", 80000).
+cantidad_copias_vendidas("Agigongryong Doolie (2009)", 30000).
+cantidad_copias_vendidas("Ranma ½: Totteoki Talk - Best of Memories", 70000).
+cantidad_copias_vendidas("Kakumeiki Valvrave", 150000).
+cantidad_copias_vendidas("Domo-kun", 40000).
+cantidad_copias_vendidas("Kidou Senshi Gundam 00 Second Season", 250000).
+cantidad_copias_vendidas("Shin Chou Kyou Ryo: Condor Hero II", 120000).
+cantidad_copias_vendidas("Nanatsu no Taizai: Eiyuu-tachi wa Hashagu", 180000).
+cantidad_copias_vendidas("Mamotte Shugogetten!", 100000).
+cantidad_copias_vendidas("Tekken Chinmi", 30000).
+cantidad_copias_vendidas("Dankichi-jima no Olympic Taikai", 40000).
+cantidad_copias_vendidas("Wan Jie Xian Zong 4th Season", 50000).
+cantidad_copias_vendidas("Ikkitousen: Dragon Destiny", 150000).
+cantidad_copias_vendidas("Gekitou! Crush Gear Turbo", 80000).
+cantidad_copias_vendidas("Kidou Senshi Gakuen: G-Reco Koushien", 40000).
+cantidad_copias_vendidas("Kurogane no Linebarrels Specials", 60000).
+cantidad_copias_vendidas("Wan Yu Zhi Wang", 40000).
+cantidad_copias_vendidas("Huoli Shaonian Wang zhi Chuanqi Zaixian", 30000).
+cantidad_copias_vendidas("Ai no Gakkou Cuore Monogatari", 50000).
+cantidad_copias_vendidas("Shounen Sunday CM: ARMS", 30000).
+cantidad_copias_vendidas("Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen", 120000).
+cantidad_copias_vendidas("Kero Kero Keroppi no Daibouken: Fushigi na Mame no Ki", 40000).
+cantidad_copias_vendidas("Larva Island", 60000).
+cantidad_copias_vendidas("Chrno Crusade: Az demo Wakaru Chrno Crusade Kouza", 70000).
+cantidad_copias_vendidas("Momoya x Peeping Life: Go en desu yo! II", 40000).
+cantidad_copias_vendidas("Monster Musume no Oishasan", 150000).
+cantidad_copias_vendidas("Koi to Uso", 120000).
+cantidad_copias_vendidas("Brave Witches", 80000).
+cantidad_copias_vendidas("Panda Kopanda", 50000).
+cantidad_copias_vendidas("Katsura Hime", 30000).
+cantidad_copias_vendidas("Final Fantasy VII: Advent Children", 180000).
+cantidad_copias_vendidas("Mazinkaiser: Shitou! Ankoku Dai Shogun", 80000).
+cantidad_copias_vendidas("Keroro Gunsou Movie 1", 150000).
+cantidad_copias_vendidas("Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram", 200000).
+cantidad_copias_vendidas("Monster Farm: Enbanseki no Himitsu", 70000).
+cantidad_copias_vendidas("Angel Beats! Another Epilogue", 120000).
+cantidad_copias_vendidas("Feng Wei Ying Xiong", 40000).
+cantidad_copias_vendidas("Tairiki Tarou no Mucha Shuugyou", 30000).
+cantidad_copias_vendidas("Guilty Crown: Kiseki - Reassortment", 60000).
+cantidad_copias_vendidas("Tsurikichi Sanpei", 70000).
+cantidad_copias_vendidas("Great Teacher Onizuka", 180000).
+cantidad_copias_vendidas("Majimoji Rurumo: Kanketsu-hen", 80000).
+cantidad_copias_vendidas("Teppen!!!!!!!!!!!!!!!", 50000).
+cantidad_copias_vendidas("Kiseichuu no Ichiya", 40000).
+cantidad_copias_vendidas("Fengshen Bang", 60000).
+cantidad_copias_vendidas("Daikuu Maryuu Gaiking", 40000).
+cantidad_copias_vendidas("Tori no Uta", 50000).
+cantidad_copias_vendidas("Urawa no Usagi-chan: Natsu no Hi to, Bushitsu to, Tomodachi to", 30000).
+cantidad_copias_vendidas("Shihaisha no Tasogare", 40000).
+cantidad_copias_vendidas("Bulg-eunmae", 30000).
+cantidad_copias_vendidas("Ginga Tetsudou no Yoru", 60000).
+cantidad_copias_vendidas("GA: Geijutsuka Art Design Class", 50000).
+cantidad_copias_vendidas("Tensei Oujo to Tensai Reijou no Mahou Kakumei", 60000).
+cantidad_copias_vendidas("Boku no Imouto wa Osaka Okan", 30000).
+cantidad_copias_vendidas("Ze Tian Ji 2nd Season", 60000).
+cantidad_copias_vendidas("Wo de Tian Jie Nu You", 50000).
+cantidad_copias_vendidas("Naruto", 120000).
+cantidad_copias_vendidas("Denshin Denrei Denwa", 40000).
+cantidad_copias_vendidas("Meng Ta: Xue Mi Cheng", 40000).
+cantidad_copias_vendidas("Rainbow: Nisha Rokubou no Shichinin", 70000).
+cantidad_copias_vendidas("Detective Conan: Let's Experience the Jomon Period!", 70000).
+cantidad_copias_vendidas("BNA", 80000).
+cantidad_copias_vendidas("Eyeshield 21: Maboroshi no Golden Bowl", 40000).
+cantidad_copias_vendidas("Gasshin Sentai Mechander Robo", 40000).
+cantidad_copias_vendidas("3-nen D-gumi Glass no Kamen: Tobidase! Watashitachi no Victory Road", 40000).
+cantidad_copias_vendidas("Kidou Senshi Gundam: Tekketsu no Orphans 2nd Season", 150000).
+cantidad_copias_vendidas("Megane-bu!", 50000).
+cantidad_copias_vendidas("Boku dake ga Inai Machi", 150000).
+cantidad_copias_vendidas("Blue Thermal", 30000).
+cantidad_copias_vendidas("Superflat Monogram", 30000).
+cantidad_copias_vendidas("Bounen no Xamdou", 70000).
+cantidad_copias_vendidas("Re:Zero kara Hajimeru Break Time", 80000).
+cantidad_copias_vendidas("Gintama.: Shirogane no Tamashii-hen", 120000).
+cantidad_copias_vendidas("Senpai ga Uzai Kouhai no Hanashi", 60000).
+cantidad_copias_vendidas("Inu ni Nattara Suki na Hito ni Hirowareta.", 40000).
+cantidad_copias_vendidas("Ninkuu (Movie)", 40000).
+cantidad_copias_vendidas("Kaitei Choutokkyuu: Marine Express", 30000).
+cantidad_copias_vendidas("Wena Wrist", 30000).
+cantidad_copias_vendidas("Deca-Dence", 80000).
+cantidad_copias_vendidas("Jiu Tian Xuan Di Jue", 40000).
+cantidad_copias_vendidas("Chousoku Henkei Gyrozetter", 50000).
+cantidad_copias_vendidas("Yami Shibai", 50000).
+cantidad_copias_vendidas("Gunslinger Stratos The Animation", 70000).
+cantidad_copias_vendidas("Mugen no Ryvius", 70000).
+cantidad_copias_vendidas("Strange Dawn", 40000).
+cantidad_copias_vendidas("Nanaraki: Seven Lucky Gods", 40000).
+cantidad_copias_vendidas("Yesterday wo Utatte: Haishin-ban Episode", 60000).
+cantidad_copias_vendidas("Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai", 50000).
+cantidad_copias_vendidas("Lovedol: Lovely Idol OVA", 40000).
+cantidad_copias_vendidas("Heybot!", 30000).
+cantidad_copias_vendidas("Tales of the Abyss", 120000).
+cantidad_copias_vendidas("Lemon Angel Project", 40000).
+cantidad_copias_vendidas("Macross Fufonfia Specials", 30000).
+cantidad_copias_vendidas("Gifuu Doudou!!: Kanetsugu to Keiji", 40000).
+cantidad_copias_vendidas("Lupin III: $1 Money Wars", 60000).
+cantidad_copias_vendidas("Sakigake!! Otokojuku Movie", 80000).
+cantidad_copias_vendidas("Deltora Quest", 50000).
+cantidad_copias_vendidas("Maze☆Bakunetsu Jikuu: Hot Springs", 30000).
+cantidad_copias_vendidas("Orange: Mirai", 60000).
+cantidad_copias_vendidas("Starmyu OVA", 50000).
+cantidad_copias_vendidas("Kaguya-hime no Monogatari", 70000).
+cantidad_copias_vendidas("Ze Tian Ji", 40000).
+cantidad_copias_vendidas("Muka Muka Paradise", 40000).
+cantidad_copias_vendidas("Yokoyama Mitsuteru Sangokushi", 70000).
+cantidad_copias_vendidas("Adachi to Shimamura", 80000).
+cantidad_copias_vendidas("Joshiraku OVA", 40000).
+cantidad_copias_vendidas("Dai Mahou Touge", 30000).
+cantidad_copias_vendidas("Keroro Gunsou Movie 5: Tanjou! Kyuukyoku Keroro, Kiseki no Jikuu-jima, de Arimasu!!", 80000).
+cantidad_copias_vendidas("Somali to Mori no Kamisama", 60000).
+cantidad_copias_vendidas("Shounen Maid: Onna wa Dokyou, Otoko wa Aikyou?", 40000).
+cantidad_copias_vendidas("Nandaka Velonica", 30000).
+cantidad_copias_vendidas("Hakkenden: Touhou Hakken Ibun", 70000).
+cantidad_copias_vendidas("Shinkon Gattai Godannar!! 2nd Season", 40000).
+cantidad_copias_vendidas("Anju to Zushioumaru", 30000).
+cantidad_copias_vendidas("Ai to Shi", 30000).
+cantidad_copias_vendidas("Trouble Chocolate", 40000).
+cantidad_copias_vendidas("School Rumble: Ichi Gakki Hoshuu", 60000).
+cantidad_copias_vendidas("Koukaku Kidoutai Arise: Alternative Architecture", 70000).
+cantidad_copias_vendidas("Gundam: G no Reconguista Movie V - Shisen wo Koete", 80000).
+cantidad_copias_vendidas("Zan Sayonara Zetsubou Sensei Bangaichi", 50000).
+cantidad_copias_vendidas("Kämpfer für die Liebe", 40000).
+cantidad_copias_vendidas("Lupin III vs. Detective Conan: The Movie", 120000).
+cantidad_copias_vendidas("Nobunagun", 50000).
+cantidad_copias_vendidas("Digimon Adventure:", 150000).
+cantidad_copias_vendidas("Tao Hua Yuan Ji", 40000).
+cantidad_copias_vendidas("Megami Paradise", 30000).
+cantidad_copias_vendidas("Kirin Gogo no Koucha x BanG Dream! Collab Animation CM Koukai!", 30000).
+cantidad_copias_vendidas("Thunder", 30000).
+cantidad_copias_vendidas("Choubakuretsu Ijigen Menko Battle: Gigant Shooter Tsukasa", 40000).
+cantidad_copias_vendidas("Sonny Boy", 30000).
+cantidad_copias_vendidas("VERSEⁿ: Episodeⁿ - Kuusou", 30000).
+cantidad_copias_vendidas("Boku no Kanojo ga Majimesugiru Sho-bitch na Ken", 60000).
+cantidad_copias_vendidas("Psycho-Pass: Sinners of the System Case.2 - First Guardian", 70000).
+cantidad_copias_vendidas("Chuunibyou demo Koi ga Shitai! Kirameki no... Slapstick Noel", 80000).
+cantidad_copias_vendidas("Sono Kinisasete yo: My My Mai", 30000).
+cantidad_copias_vendidas("Inukami!", 40000).
+cantidad_copias_vendidas("Black Bullet", 50000).
+cantidad_copias_vendidas("Samurai Mac", 30000).
+cantidad_copias_vendidas("Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!", 60000).
+cantidad_copias_vendidas("Arigatou Gomennasai", 30000).
+cantidad_copias_vendidas("Shukufuku no Campanella: La Campanella Della Benedizione", 30000).
+cantidad_copias_vendidas("Gensoumaden Saiyuuki: Kibou no Zaika", 50000).
+cantidad_copias_vendidas("Soukyuu no Fafner: Dead Aggressor - Exodus", 60000).
+cantidad_copias_vendidas("Pokemon: Pikachu no Fuyuyasumi (2000)", 150000).
+cantidad_copias_vendidas("Misaki no Mayoiga", 30000).
+cantidad_copias_vendidas("Kamen Rider Fourze x Crayon Shin-chan", 40000).
+cantidad_copias_vendidas("Fight Ippatsu! Juuden-chan!!", 40000).
+cantidad_copias_vendidas("Detroit Metal City: Birth of the Metal Devil", 50000).
+cantidad_copias_vendidas("Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai: Kinyoubi no Ohayou", 80000).
+cantidad_copias_vendidas("Asobi Asobase Specials", 40000).
+cantidad_copias_vendidas("Dahua Zhi Shaonian You", 30000).
+cantidad_copias_vendidas("The Kabocha Wine", 30000).
+cantidad_copias_vendidas("Turn A Gundam", 60000).
+cantidad_copias_vendidas("First Squad: The Moment of Truth", 30000).
+cantidad_copias_vendidas("Gundam: G no Reconguista", 80000).
+cantidad_copias_vendidas("Otousan wa Ai no Hito", 30000).
+cantidad_copias_vendidas("B-Legend! Battle B-Daman", 50000).
+cantidad_copias_vendidas("Sore Ike! Anpanman: Tsumikijou no Himitsu", 80000).
+cantidad_copias_vendidas("Oh! Super Milk-chan", 40000).
+cantidad_copias_vendidas("Oretachi ni Tsubasa wa Nai: Hadairo Ritsu Kyuuwari Zou!?", 30000).
+cantidad_copias_vendidas("Pokemon Movie 16: Shinsoku no Genosect - Mewtwo Kakusei", 120000).
+cantidad_copias_vendidas("Jikuu Boukenki Zentrix", 30000).
+cantidad_copias_vendidas("Soukou Kihei Votoms", 40000).
+cantidad_copias_vendidas("Aitsu to Lullaby: Suiyobi no Cinderella", 30000).
+cantidad_copias_vendidas("Denpa-teki na Kanojo", 30000).
+cantidad_copias_vendidas("Fuuun Ishin Dai☆Shogun", 40000).
+cantidad_copias_vendidas("Gijinka de Manabo!", 30000).
+cantidad_copias_vendidas("Minna Atsumare! Falcom Gakuen", 30000).
+cantidad_copias_vendidas("Jack to Mame no Ki (OVA)", 30000).
+cantidad_copias_vendidas("Kurayami Santa", 30000).
+cantidad_copias_vendidas("Kuragehime: Soreike! Amars Tankentai", 50000).
+cantidad_copias_vendidas("Da Wei Bei Ken: Daomei Tegong Xiong", 30000).
+cantidad_copias_vendidas("Tottoko Hamtarou no Tottoko Daijida!! Bousai Kunren", 30000).
+cantidad_copias_vendidas("Initial D Battle Stage 2", 50000).
+cantidad_copias_vendidas("10-pun de Oitsukeru: Shingeki no Kyojin", 60000).
+cantidad_copias_vendidas("Atagoal wa Neko no Mori", 30000).
+cantidad_copias_vendidas("Cinderella Girls Gekijou: Kayou Cinderella Theater 3rd Season", 40000).
+cantidad_copias_vendidas("Mousou Kagaku Series: Wandaba Style", 30000).
+cantidad_copias_vendidas("Kamigawa: Kagayakeru Sekai", 30000).
+cantidad_copias_vendidas("Teekyuu 7 Specials", 30000).
+cantidad_copias_vendidas("Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA", 70000).
+cantidad_copias_vendidas("Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu Mini Anime", 30000).
+cantidad_copias_vendidas("100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season", 60000).
+cantidad_copias_vendidas("Wo Shi Jiang Xiaobai 2nd Season", 30000).
+cantidad_copias_vendidas("New Initial D Movie: Legend 2 - Tousou", 50000).
+cantidad_copias_vendidas("RPG Densetsu Hepoi", 30000).
+cantidad_copias_vendidas("Soukou Kihei Votoms Vol.II: Highlights from the A.T.Votoms", 30000).
+cantidad_copias_vendidas("Shiguang Dailiren Special: Xiaoyao Sanren de Weituo", 30000).
+cantidad_copias_vendidas("Toaru Hikuushi e no Koiuta", 50000).
+cantidad_copias_vendidas("Bubuki Buranki: Hoshi no Kyojin", 40000).
+cantidad_copias_vendidas("Fuyu no Hi", 30000).
+cantidad_copias_vendidas("Hentai Ouji to Warawanai Neko.: Henneko BBS", 40000).
+cantidad_copias_vendidas("Patapata Hikousen no Bouken", 30000).
+cantidad_copias_vendidas("DinoZone", 30000).
+cantidad_copias_vendidas("Rurouni Kenshin: Special Techniques", 40000).
+cantidad_copias_vendidas("Aquarion Logos", 40000).
+cantidad_copias_vendidas("Jijou wo Shiranai Tenkousei ga Guigui Kuru.", 30000).
+cantidad_copias_vendidas("Happy ComeCome", 30000).
+cantidad_copias_vendidas("Shakugan no Shana-tan", 30000).
+cantidad_copias_vendidas("Ikebukuro West Gate Park", 40000).
+cantidad_copias_vendidas("Heibai Wushang", 30000).
+cantidad_copias_vendidas("Hikari: Kariya wo Tsunagu Monogatari", 30000).
+cantidad_copias_vendidas("Madou King Granzort: Bouken-hen", 30000).
+cantidad_copias_vendidas("Garo: Vanishing Line", 50000).
+cantidad_copias_vendidas("Girls & Panzer: Shoukai Shimasu!", 70000).
+cantidad_copias_vendidas("Time Bokan Series: Gyakuten Ippatsuman", 30000).
+cantidad_copias_vendidas("The Big O", 40000).
+cantidad_copias_vendidas("Chiisana Jumbo", 30000).
+cantidad_copias_vendidas("Fate/Zero", 70000).
+cantidad_copias_vendidas("Miyakawa-ke no Kuufuku", 30000).
+cantidad_copias_vendidas("Tottoko Hamtarou Movie 4: Hamtaro to Fushigi no Oni no Emon Tou", 80000).
+cantidad_copias_vendidas("Hitomi no Naka no Shounen: Juugo Shounen Hyouryuuki", 30000).
+cantidad_copias_vendidas("Sylvanian Families", 30000).
+cantidad_copias_vendidas("The Place Where We Were", 30000).
+cantidad_copias_vendidas("Cardfight!! Vanguard: will+Dress", 40000).
+cantidad_copias_vendidas("Ashita no Joe Pilots", 30000).
+cantidad_copias_vendidas("Eureka Seven AO: One More Time - Lord Don't Slow Me Down", 30000).
+cantidad_copias_vendidas("Fafa Movie", 30000).
+cantidad_copias_vendidas("Tottoko Hamtarou: Anime Dechu!", 80000).
+cantidad_copias_vendidas("Kishuku Gakkou no Juliet", 50000).
+cantidad_copias_vendidas("Crayon Shin-chan Movie 17: Otakebe! Kasukabe Yasei Oukoku", 80000).
+cantidad_copias_vendidas("Nagagutsu wo Haita Neko no Bouken", 30000).
+cantidad_copias_vendidas("Doubutsu Sumo Taikai", 30000).
+cantidad_copias_vendidas("Shingeki no Kyotou", 30000).
+cantidad_copias_vendidas("Nabari no Ou", 40000).
+cantidad_copias_vendidas("Candy Candy: Candy no Natsu Yasumi", 50000).
+cantidad_copias_vendidas("Witch Craft Works", 40000).
+cantidad_copias_vendidas("Okusama ga Seitokaichou!", 40000).
+cantidad_copias_vendidas("Business Fish", 30000).
+cantidad_copias_vendidas("Soreyuke! Uchuu Senkan Yamamoto Youko", 30000).
+cantidad_copias_vendidas("Nyan Koi!", 40000).
+cantidad_copias_vendidas("One Piece Movie 08: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi", 100000).
+cantidad_copias_vendidas("Chou Henshin Cosprayers", 30000).
+cantidad_copias_vendidas("Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!", 80000).
+cantidad_copias_vendidas("Xing Yu Siwan Nian", 30000).
+cantidad_copias_vendidas("Meme Iroiro Yume no Tabi", 30000).
+cantidad_copias_vendidas("Bai Ye Ling Long", 30000).
+cantidad_copias_vendidas("Hello Kitty no Oyayubi-hime (OVA)", 30000).
+cantidad_copias_vendidas("Dr. Slump: Arale-chan '92 Oshougatsu Special", 40000).
+cantidad_copias_vendidas("Freezing Vibration Specials", 30000).
+cantidad_copias_vendidas("Nezumi no Rusuban", 30000).
+cantidad_copias_vendidas("Kamisama Hajimemashita OVA", 40000).
+cantidad_copias_vendidas("Durarara!!x2 Ten", 60000).
+cantidad_copias_vendidas("Wall", 30000).
+
+%reglas
+
+autor_es_famoso(Autor) :- es_autor_de(Autor, Manga), cantidad_copias_vendidas(Manga, Copias), Copias > 1000000.
+manga_antiguo(Manga) :- anio_publicacion(Manga, Anio), Anio < 2000.
+manga_reciente(Manga) :- anio_publicacion(Manga, Anio), Anio >= 2000.
+personaje_importante(Personaje) :- es_personaje_principal(Personaje, _).
+manga_famoso(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 500000.
+manga_de_un_autor_famoso(Manga) :- es_autor_de(Autor, Manga), autor_es_famoso(Autor).
+personaje_vivo(Personaje) :- estatus_personaje(Personaje, "vivo").
+personaje_muerto(Personaje) :- estatus_personaje(Personaje, "muerto").
+manga_con_adaptacion_anime(Manga) :- tiene_adaptacion_anime(Manga).
+manga_con_premio(Manga) :- premio_ganado(Manga, _).
+manga_multigenero(Manga) :- es_genero(Genero1, Manga), es_genero(Genero2, Manga), Genero1 \== Genero2.
+manga_con_secuela(Manga) :- tiene_secuelas(Manga, _).
+manga_con_pelicula(Manga) :- adaptacion_pelicula(Manga, _).
+personaje_genero(Personaje, Genero) :- personaje_pertenece_a(Personaje, Manga), genero(Manga, Genero).
+manga_popular(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 50000.
+manga_no_popular(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias < 50000.
+manga_exitoso(Manga) :- tiene_adaptacion_anime(Manga), manga_popular(Manga).
+manga_no_exitoso(Manga) :- manga_no_popular(Manga).
+personaje_popular(Personaje) :- personaje_pertenece_a(Personaje, Manga), manga_popular(Manga).
+editorial_famosa(Editorial) :- es_editorial(Editorial, Manga), manga_exitoso(Manga).
+manga_de_editorial_shueisha(Manga) :- es_editorial("Shueisha", Manga).
+manga_de_editorial_shogakukan(Manga) :- es_editorial("Shogakukan", Manga).
+manga_de_editorial_kodansha(Manga) :- es_editorial("Kodansha", Manga).
+manga_de_editorial_akita_shoten(Manga) :- es_editorial("Akita Shoten", Manga).
+manga_de_editorial_nihon_bungeisha(Manga) :- es_editorial("Nihon Bungeisha", Manga).
+manga_tiene_tomos(Manga, Tomos) :- cantidad_tomos(Manga, Tomos).
+manga_tiene_menos_de_10_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 10.
+manga_tiene_mas_de_10(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 10.
+manga_tiene_menos_de_20_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 20.
+manga_tiene_mas_de_20(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 20.
+manga_tiene_menos_de_30_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 30.
+manga_tiene_mas_de_30(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 30.
+manga_tiene_menos_de_40_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 40.
+manga_tiene_mas_de_40(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 40.
+manga_tiene_menos_de_50_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 50.
+manga_tiene_mas_de_50(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 50.
+manga_tiene_menos_de_60_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 60.
+manga_tiene_mas_de_60(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 60.
+manga_tiene_menos_de_70_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 70.
+manga_tiene_mas_de_70(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 70.
+manga_tiene_menos_de_80_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 80.
+manga_tiene_mas_de_80(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 80.
+manga_tiene_menos_de_90_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 90.
+manga_tiene_mas_de_90(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 90.
+manga_tiene_menos_de_100_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 100.
+manga_tiene_mas_de_100(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 100.
+personaje_es_humano(Personaje) :- especie(Personaje, "Humano").
+manga_tiene_personajes_humanos(Manga) :- personaje_pertenece_a(Personaje, Manga), especie(Personaje, "Humano").
+primer_caracter(String, PrimerCaracter) :- String = [PrimerCaracter|_].
+nombre_autor_comienza_con_letra(Autor, Letra) :- primer_caracter(Autor, PrimerCaracter), PrimerCaracter = Letra.
+
+%agregar_especies
+
+manga_de_especie_especifica(Manga) :- personaje_pertenece_a(Personaje, Manga), especie(Personaje, "EspecieEspecifica").
+
+manga_con_muchos_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos > 20.
+manga_con_pocos_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos =< 20.
+manga_de_genero(Manga, Genero) :- genero_principal(Genero, Manga).
+manga_de_genero_popular(Manga) :- genero_principal("GeneroPopular", Manga).
+manga_de_genero_no_popular(Manga) :- genero_principal("GeneroNoPopular", Manga).
+personaje_secundario(Personaje) :- personaje_pertenece_a(Personaje, Manga), + es_personaje_principal(Personaje, Manga).
+manga_con_personaje_vivo(Manga) :- personaje_pertenece_a(Personaje, Manga), estatus_personaje(Personaje, vivo).
+manga_con_personaje_muerto(Manga) :- personaje_pertenece_a(Personaje, Manga), estatus_personaje(Personaje, muerto).
+manga_con_personaje_especifico(Manga, Especie) :- personaje_pertenece_a(Personaje, Manga), especie(Personaje, Especie).
+manga_con_secuelas_famosas(Manga) :- tiene_secuelas(Manga, Secuelas), manga_famoso(Secuelas).
+manga_de_autor_conocido(Manga) :- es_autor_de(Autor, Manga), autor_es_famoso(Autor).
+manga_de_anio(Manga, Anio) :- anio_publicacion(Manga, Anio).
+manga_de_anio_antiguo(Manga) :- anio_publicacion(Manga, Anio), Anio < 1990.
+manga_de_anio_reciente(Manga) :- anio_publicacion(Manga, Anio), Anio >= 1990.
+manga_con_ventas_altas(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 1000000.
+manga_con_ventas_bajas(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias =< 1000000.
+manga_con_adaptaciones(Manga) :- tiene_adaptacion_anime(Manga); adaptacion_pelicula(Manga, _).
+manga_de_idioma_japones(Manga) :- idioma_original(Manga, "Japonés").
+manga_de_pais_japon(Manga) :- pais_origen(Manga, "Japón").
+manga_premiado(Manga) :- premio_ganado(Manga, _).
+manga_con_premio_famoso(Manga) :- premio_ganado(Manga, "PremioFamoso").
+personaje_conocido(Personaje) :- es_personaje_principal(Personaje, Manga), manga_famoso(Manga).
+personaje_de_especie_conocida(Personaje) :- especie(Personaje, "EspecieConocida").
+manga_con_tomos_muchos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos > 50.
+manga_con_tomos_pocos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos =< 50.
+manga_con_adaptacion_famosa(Manga) :- tiene_adaptacion_anime(Manga), popularidad(Manga, alta).
+manga_de_premio(Manga, Premio) :- premio_ganado(Manga, Premio).
+manga_de_idioma_original(Manga, Idioma) :- idioma_original(Manga, Idioma).
+manga_de_pais_origen(Manga, Pais) :- pais_origen(Manga, Pais).
+personaje_principal_especie(Personaje, Especie) :- es_personaje_principal(Personaje, Manga), especie(Personaje, Especie).
+personaje_secundario_especie(Personaje, Especie) :- personaje_pertenece_a(Personaje, Manga), + es_personaje_principal(Personaje, Manga), especie(Personaje, Especie).
+personaje_famoso_especie(Personaje) :- personaje_importante(Personaje), especie(Personaje, "EspecieFamosa").
+manga_con_muchas_copias(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 2000000.
+manga_con_pocas_copias(Manga) :- cantidad_copias_vendidas(Manga, Copias) =< 2000000.
+manga_con_adaptacion_pelicula(Manga) :- adaptacion_pelicula(Manga, _).
+manga_con_adaptacion_anime_famoso(Manga) :- tiene_adaptacion_anime(Manga), manga_famoso(Manga).
+manga_con_premio_famoso(Manga) :- premio_ganado(Manga, "PremioFamoso").
+manga_con_secuelas(Manga) :- tiene_secuelas(Manga, _).
+manga_con_secuelas_famosas(Manga) :- tiene_secuelas(Manga, Secuelas), manga_famoso(Secuelas).
+manga_de_autor_conocido(Manga) :- es_autor_de(Autor, Manga), autor_es_famoso(Autor).
+manga_de_anio(Manga, Anio) :- anio_publicacion(Manga, Anio).
+manga_de_anio_antiguo(Manga) :- anio_publicacion(Manga, Anio), Anio < 2000.
+manga_de_anio_reciente(Manga) :- anio_publicacion(Manga, Anio), Anio >= 2000.
+manga_con_ventas_altas(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 500000.
+manga_con_ventas_bajas(Manga) :- cantidad_copias_vendidas(Manga, Copias) =< 500000.
+manga_con_adaptaciones(Manga) :- tiene_adaptacion_anime(Manga); adaptacion_pelicula(Manga, _).
+manga_de_idioma(Manga, Idioma) :- idioma_original(Manga, Idioma).
+manga_de_pais(Manga, Pais) :- pais_origen(Manga, Pais).
+manga_premiado(Manga) :- premio_ganado(Manga, _).
+manga_con_premio_famoso(Manga) :- premio_ganado(Manga, "PremioFamoso").
+personaje_conocido(Personaje) :- es_personaje_principal(Personaje, Manga), manga_famoso(Manga).
+personaje_de_especie_conocida(Personaje) :- especie(Personaje, "EspecieConocida").
+=======
 estatus_personaje("Yusuke Urameshi", "vivo").
 estatus_personaje("Kinnikuman / Suguru Kinniku", "vivo").
 estatus_personaje("Natsu Dragneel", "vivo").
@@ -2357,113 +3108,4 @@ cantidad_copias_vendidas("Swan", 2000000).
 cantidad_copias_vendidas("The Tale of Genji", 5000000).
 cantidad_copias_vendidas("Tokyo Daigaku Monogatari", 2000000).
 cantidad_copias_vendidas("Weed", 3000000).
-
-%reglas
-
-autor_es_famoso(Autor) :- es_autor_de(Autor, Manga), cantidad_copias_vendidas(Manga, Copias), Copias > 1000000.
-manga_antiguo(Manga) :- anio_publicacion(Manga, Anio), Anio < 2000.
-manga_reciente(Manga) :- anio_publicacion(Manga, Anio), Anio >= 2000.
-personaje_importante(Personaje) :- es_personaje_principal(Personaje, _).
-manga_famoso(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 500000.
-manga_de_un_autor_famoso(Manga) :- es_autor_de(Autor, Manga), autor_es_famoso(Autor).
-personaje_vivo(Personaje) :- estatus_personaje(Personaje, "vivo").
-personaje_muerto(Personaje) :- estatus_personaje(Personaje, "muerto").
-manga_con_adaptacion_anime(Manga) :- tiene_adaptacion_anime(Manga).
-manga_con_premio(Manga) :- premio_ganado(Manga, _).
-manga_multigenero(Manga) :- es_genero(Genero1, Manga), es_genero(Genero2, Manga), Genero1 \== Genero2.
-manga_con_secuela(Manga) :- tiene_secuelas(Manga, _).
-manga_con_pelicula(Manga) :- adaptacion_pelicula(Manga, _).
-personaje_genero(Personaje, Genero) :- personaje_pertenece_a(Personaje, Manga), genero(Manga, Genero).
-manga_popular(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 50000.
-manga_no_popular(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias < 50000.
-manga_exitoso(Manga) :- tiene_adaptacion_anime(Manga), manga_popular(Manga).
-manga_no_exitoso(Manga) :- manga_no_popular(Manga).
-personaje_popular(Personaje) :- personaje_pertenece_a(Personaje, Manga), manga_popular(Manga).
-editorial_famosa(Editorial) :- es_editorial(Editorial, Manga), manga_exitoso(Manga).
-manga_de_editorial_shueisha(Manga) :- es_editorial("Shueisha", Manga).
-manga_de_editorial_shogakukan(Manga) :- es_editorial("Shogakukan", Manga).
-manga_de_editorial_kodansha(Manga) :- es_editorial("Kodansha", Manga).
-manga_de_editorial_akita_shoten(Manga) :- es_editorial("Akita Shoten", Manga).
-manga_de_editorial_nihon_bungeisha(Manga) :- es_editorial("Nihon Bungeisha", Manga).
-manga_tiene_tomos(Manga, Tomos) :- cantidad_tomos(Manga, Tomos).
-manga_tiene_menos_de_10_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 10.
-manga_tiene_mas_de_10(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 10.
-manga_tiene_menos_de_20_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 20.
-manga_tiene_mas_de_20(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 20.
-manga_tiene_menos_de_30_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 30.
-manga_tiene_mas_de_30(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 30.
-manga_tiene_menos_de_40_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 40.
-manga_tiene_mas_de_40(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 40.
-manga_tiene_menos_de_50_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 50.
-manga_tiene_mas_de_50(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 50.
-manga_tiene_menos_de_60_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 60.
-manga_tiene_mas_de_60(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 60.
-manga_tiene_menos_de_70_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 70.
-manga_tiene_mas_de_70(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 70.
-manga_tiene_menos_de_80_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 80.
-manga_tiene_mas_de_80(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 80.
-manga_tiene_menos_de_90_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 90.
-manga_tiene_mas_de_90(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 90.
-manga_tiene_menos_de_100_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 100.
-manga_tiene_mas_de_100(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 100.
-personaje_es_humano(Personaje) :- especie(Personaje, "Humano").
-manga_tiene_personajes_humanos(Manga) :- personaje_pertenece_a(Personaje, Manga), especie(Personaje, "Humano").
-primer_caracter(String, PrimerCaracter) :- String = [PrimerCaracter|_].
-nombre_autor_comienza_con_letra(Autor, Letra) :- primer_caracter(Autor, PrimerCaracter), PrimerCaracter = Letra.
-
-%agregar_especies
-
-manga_de_especie_especifica(Manga) :- personaje_pertenece_a(Personaje, Manga), especie(Personaje, "EspecieEspecifica").
-
-manga_con_muchos_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos > 20.
-manga_con_pocos_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos =< 20.
-manga_de_genero(Manga, Genero) :- genero_principal(Genero, Manga).
-manga_de_genero_popular(Manga) :- genero_principal("GeneroPopular", Manga).
-manga_de_genero_no_popular(Manga) :- genero_principal("GeneroNoPopular", Manga).
-personaje_secundario(Personaje) :- personaje_pertenece_a(Personaje, Manga), + es_personaje_principal(Personaje, Manga).
-manga_con_personaje_vivo(Manga) :- personaje_pertenece_a(Personaje, Manga), estatus_personaje(Personaje, vivo).
-manga_con_personaje_muerto(Manga) :- personaje_pertenece_a(Personaje, Manga), estatus_personaje(Personaje, muerto).
-manga_con_personaje_especifico(Manga, Especie) :- personaje_pertenece_a(Personaje, Manga), especie(Personaje, Especie).
-manga_con_secuelas_famosas(Manga) :- tiene_secuelas(Manga, Secuelas), manga_famoso(Secuelas).
-manga_de_autor_conocido(Manga) :- es_autor_de(Autor, Manga), autor_es_famoso(Autor).
-manga_de_anio(Manga, Anio) :- anio_publicacion(Manga, Anio).
-manga_de_anio_antiguo(Manga) :- anio_publicacion(Manga, Anio), Anio < 1990.
-manga_de_anio_reciente(Manga) :- anio_publicacion(Manga, Anio), Anio >= 1990.
-manga_con_ventas_altas(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 1000000.
-manga_con_ventas_bajas(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias =< 1000000.
-manga_con_adaptaciones(Manga) :- tiene_adaptacion_anime(Manga); adaptacion_pelicula(Manga, _).
-manga_de_idioma_japones(Manga) :- idioma_original(Manga, "Japonés").
-manga_de_pais_japon(Manga) :- pais_origen(Manga, "Japón").
-manga_premiado(Manga) :- premio_ganado(Manga, _).
-manga_con_premio_famoso(Manga) :- premio_ganado(Manga, "PremioFamoso").
-personaje_conocido(Personaje) :- es_personaje_principal(Personaje, Manga), manga_famoso(Manga).
-personaje_de_especie_conocida(Personaje) :- especie(Personaje, "EspecieConocida").
-manga_con_tomos_muchos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos > 50.
-manga_con_tomos_pocos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos =< 50.
-manga_con_adaptacion_famosa(Manga) :- tiene_adaptacion_anime(Manga), popularidad(Manga, alta).
-manga_de_premio(Manga, Premio) :- premio_ganado(Manga, Premio).
-manga_de_idioma_original(Manga, Idioma) :- idioma_original(Manga, Idioma).
-manga_de_pais_origen(Manga, Pais) :- pais_origen(Manga, Pais).
-personaje_principal_especie(Personaje, Especie) :- es_personaje_principal(Personaje, Manga), especie(Personaje, Especie).
-personaje_secundario_especie(Personaje, Especie) :- personaje_pertenece_a(Personaje, Manga), + es_personaje_principal(Personaje, Manga), especie(Personaje, Especie).
-personaje_famoso_especie(Personaje) :- personaje_importante(Personaje), especie(Personaje, "EspecieFamosa").
-manga_con_muchas_copias(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 2000000.
-manga_con_pocas_copias(Manga) :- cantidad_copias_vendidas(Manga, Copias) =< 2000000.
-manga_con_adaptacion_pelicula(Manga) :- adaptacion_pelicula(Manga, _).
-manga_con_adaptacion_anime_famoso(Manga) :- tiene_adaptacion_anime(Manga), manga_famoso(Manga).
-manga_con_premio_famoso(Manga) :- premio_ganado(Manga, "PremioFamoso").
-manga_con_secuelas(Manga) :- tiene_secuelas(Manga, _).
-manga_con_secuelas_famosas(Manga) :- tiene_secuelas(Manga, Secuelas), manga_famoso(Secuelas).
-manga_de_autor_conocido(Manga) :- es_autor_de(Autor, Manga), autor_es_famoso(Autor).
-manga_de_anio(Manga, Anio) :- anio_publicacion(Manga, Anio).
-manga_de_anio_antiguo(Manga) :- anio_publicacion(Manga, Anio), Anio < 2000.
-manga_de_anio_reciente(Manga) :- anio_publicacion(Manga, Anio), Anio >= 2000.
-manga_con_ventas_altas(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 500000.
-manga_con_ventas_bajas(Manga) :- cantidad_copias_vendidas(Manga, Copias) =< 500000.
-manga_con_adaptaciones(Manga) :- tiene_adaptacion_anime(Manga); adaptacion_pelicula(Manga, _).
-manga_de_idioma(Manga, Idioma) :- idioma_original(Manga, Idioma).
-manga_de_pais(Manga, Pais) :- pais_origen(Manga, Pais).
-manga_premiado(Manga) :- premio_ganado(Manga, _).
-manga_con_premio_famoso(Manga) :- premio_ganado(Manga, "PremioFamoso").
-personaje_conocido(Personaje) :- es_personaje_principal(Personaje, Manga), manga_famoso(Manga).
-personaje_de_especie_conocida(Personaje) :- especie(Personaje, "EspecieConocida").
+>>>>>>> origin/Hechos
