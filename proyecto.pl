@@ -1804,11 +1804,13 @@ genero_principal("Aventura", "Space Brothers").
 genero_principal("Acción", "Bastard‼").
 genero_principal("Drama", "Chameleon").
 genero_principal("Misterio", "Death Note").
+genero_principal("Psicológico", "Death Note").
 genero_principal("Drama", "Fruits Basket").
 genero_principal("Drama", "Gaki Deka").
 genero_principal("Slice of life", "Jarinko Chie").
 genero_principal("Drama", "Jingi ").
 genero_principal("Acción", "One-Punch Man").
+genero_principal("Ciencia ficción", "One-Punch Man").
 genero_principal("Acción", "Reborn!").
 genero_principal("Acción", "Shura no Mon").
 genero_principal("Acción", "Spy × Family").
@@ -3257,15 +3259,15 @@ personaje_vivo(Personaje) :- estatus_personaje(Personaje, "vivo").
 personaje_muerto(Personaje) :- estatus_personaje(Personaje, "muerto").
 manga_con_adaptacion_anime(Manga) :- tiene_adaptacion_anime(Manga).
 manga_con_premio(Manga) :- premio_ganado(Manga, _).
-manga_multigenero(Manga) :- es_genero(Genero1, Manga), es_genero(Genero2, Manga), Genero1 \== Genero2.
+manga_multigenero(Manga) :- genero_principal(Genero1, Manga), genero_principal(Genero2, Manga), Genero1 \== Genero2.
 manga_con_secuela(Manga) :- tiene_secuelas(Manga, _).
 manga_con_pelicula(Manga) :- adaptacion_pelicula(Manga, _).
-personaje_genero(Personaje, Genero) :- personaje_pertenece_a(Personaje, Manga), genero(Manga, Genero).
+personaje_genero(Personaje, Genero) :- pertenece_a(Personaje, Manga), genero_principal(Manga, Genero).
 manga_popular(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 50000.
 manga_no_popular(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias < 50000.
 manga_exitoso(Manga) :- tiene_adaptacion_anime(Manga), manga_popular(Manga).
 manga_no_exitoso(Manga) :- manga_no_popular(Manga).
-personaje_popular(Personaje) :- personaje_pertenece_a(Personaje, Manga), manga_popular(Manga).
+personaje_popular(Personaje) :- pertenece_a(Personaje, Manga), manga_popular(Manga).
 editorial_famosa(Editorial) :- es_editorial(Editorial, Manga), manga_exitoso(Manga).
 manga_de_editorial_shueisha(Manga) :- es_editorial("Shueisha", Manga).
 manga_de_editorial_shogakukan(Manga) :- es_editorial("Shogakukan", Manga).
@@ -3294,7 +3296,7 @@ manga_tiene_mas_de_90(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 90.
 manga_tiene_menos_de_100_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 100.
 manga_tiene_mas_de_100(Manga) :- cantidad_tomos(Manga, Tomos), Tomos >= 100.
 personaje_es_humano(Personaje) :- especie(Personaje, "Humano").
-manga_tiene_personajes_humanos(Manga) :- personaje_pertenece_a(Personaje, Manga), especie(Personaje, "Humano").
+manga_tiene_personajes_humanos(Manga) :- pertenece_a(Personaje, Manga), especie(Personaje, "Humano").
 manga_con_muchos_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos > 20.
 manga_con_pocos_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos =< 20.
 manga_de_genero(Manga, Genero) :- genero_principal(Genero, Manga).
@@ -3312,46 +3314,43 @@ manga_con_ventas_bajas(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias
 manga_de_autor_conocido(Manga) :- es_autor(Autor, Manga), autor_es_famoso(Autor).
 manga_de_anio(Manga, Anio) :- anio_publicacion(Manga, Anio).
 manga_con_adaptacion_anime_famoso(Manga) :- tiene_adaptacion_anime(Manga), manga_famoso(Manga).
-anga_de_accion_y_aventura(Manga) :- es_genero(Manga, "Acción"), es_genero(Manga, "Aventura").
-manga_moderno_con_muchos_tomos(Manga) :- tiene_tomos(Manga, Tomos), Tomos > 30, publicado_en_anio(Manga, Anio), Anio > 2000.
+anga_de_accion_y_aventura(Manga) :- genero_principal(Manga, "Acción"), genero_principal(Manga, "Aventura").
+manga_moderno_con_muchos_tomos(Manga) :- cantidad_tomos(Manga, Tomos), Tomos > 30, anio_publicacion(Manga, Anio), Anio > 2000.
 manga_de_autor_especifico(Manga, Autor) :- es_autor(Autor, Manga).
 manga_de_editorial_especifica(Manga, Editorial) :- es_editorial(Editorial, Manga).
 personaje_principal_humano(Manga, Personaje) :- es_personaje_principal(Personaje, Manga), especie(Personaje, "Humano").
 manga_famoso_shonen(Manga) :- manga_famoso(Manga), demografia_manga(Manga, "Shonen").
-manga_publicado_en_los_90(Manga) :- publicado_en_anio(Manga, Anio), Anio >= 1990, Anio < 2000.
-manga_de_aventura_con_pocos_tomos(Manga) :- es_genero(Manga, "Aventura"), tiene_tomos(Manga, Tomos), Tomos < 20.
-manga_de_romance_y_drama(Manga) :- es_genero(Manga, "Romance"), es_genero(Manga, "Drama").
+manga_publicado_en_los_90(Manga) :- anio_publicacion(Manga, Anio), Anio >= 1990, Anio < 2000.
+manga_de_aventura_con_pocos_tomos(Manga) :- genero_principal(Manga, "Aventura"), cantidad_tomos(Manga, Tomos), Tomos < 20.
+manga_de_romance_y_drama(Manga) :- genero_principal(Manga, "Romance"), genero_principal(Manga, "Drama").
 manga_con_varias_especies(Manga) :- es_personaje_principal(Personaje1, Manga), es_personaje_principal(Personaje2, Manga), especie(Personaje1, Especie1), especie(Personaje2, Especie2), Especie1 \= Especie2.
-manga_corto_famoso(Manga) :- tiene_tomos(Manga, Tomos), Tomos < 10, manga_famoso(Manga).
+manga_corto_famoso(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 10, manga_famoso(Manga).
 autor_prolifico(Autor) :- es_autor(Autor, Manga1), es_autor(Autor, Manga2), Manga1 \== Manga2.
 manga_con_buenas_ventas(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 500000.
 manga_con_protagonista_femenina(Manga) :- es_personaje_principal(Personaje, Manga), genero_personaje(Personaje, "mujer").
 manga_con_protagonista_masculino(Manga) :- es_personaje_principal(Personaje, Manga), genero_personaje(Personaje, "hombre").
 manga_de_genero_raro(Manga) :- demografia_manga(Manga, _), not(demografia_manga(Manga, "Shonen")), not(demografia_manga(Manga, "Shojo")), not(demografia_manga(Manga, "Seinen")), not(demografia_manga(Manga, "Josei")), not(demografia_manga(Manga, "Kodomomuke")).
-manga_largo_2000s(Manga) :- tiene_tomos(Manga, Tomos), Tomos > 50, publicado_en_anio(Manga, Anio), Anio >= 2000, Anio < 2010.
-manga_sin_adaptacion_anime(Manga) :- not(tiene_adaptacion(Manga, "Anime")).
-manga_deportivo(Manga) :- es_genero(Manga, "Deportes").
-manga_historico(Manga) :- es_genero(Manga, "Histórico").
-manga_con_adaptacion_live_action(Manga) :- tiene_adaptacion(Manga, "Live-action").
+manga_largo_2000s(Manga) :- cantidad_tomos(Manga, Tomos), Tomos > 50, anio_publicacion(Manga, Anio), Anio >= 2000, Anio < 2010.
+manga_sin_adaptacion_anime(Manga) :- not(tiene_adaptacion_anime(Manga, _)).
+manga_deportivo(Manga) :- genero_principal(Manga, "Deportes").
+manga_historico(Manga) :- genero_principal(Manga, "Histórico").
 manga_con_muchos_protagonistas(Manga) :- findall(Personaje, es_personaje_principal(Personaje, Manga), Protagonistas), length(Protagonistas, Cantidad), Cantidad > 10.
-manga_sobrenatural(Manga) :- es_genero(Manga, "Sobrenatural").
+manga_sobrenatural(Manga) :- genero_principal(Manga, "Sobrenatural").
 manga_con_protagonista_animal(Manga) :- es_personaje_principal(Personaje, Manga), especie(Personaje, "Animal").
 autor_unico_manga(Autor) :- es_autor(Autor, Manga), not((es_autor(Autor, OtroManga), OtroManga \= Manga)).
 manga_de_autor_famoso(Manga) :- es_autor(Autor, Manga), autor_es_famoso(Autor).
 manga_de_editorial_famosa(Manga) :- es_editorial(Editorial, Manga), editorial_famosa(Editorial).
 manga_con_personajes_no_humanos(Manga) :- es_personaje_principal(Personaje, Manga), especie(Personaje, Especie), Especie \= "Humano".
-manga_con_adaptacion_videojuego(Manga) :- tiene_adaptacion(Manga, "Videojuego").
-manga_con_adaptacion_ova(Manga) :- tiene_adaptacion(Manga, "OVA").
-manga_ochentero(Manga) :- publicado_en_anio(Manga, Anio), Anio >= 1980, Anio < 1990.
-manga_de_tomo_unico(Manga) :- tiene_tomos(Manga, 1).
-manga_largo_publciacion(Manga) :- publicado_en_anio(Manga, Anio), Anio < 2000, en_publicacion(Manga).
-manga_psicologico(Manga) :- es_genero(Manga, "Psicológico").
+manga_ochentero(Manga) :- anio_publicacion(Manga, Anio), Anio >= 1980, Anio < 1990.
+manga_de_tomo_unico(Manga) :- cantidad_tomos(Manga, 1).
+manga_largo_publciacion(Manga) :- anio_publicacion(Manga, Anio), Anio < 2000, en_publicacion(Manga).
+manga_psicologico(Manga) :- genero_principal(Manga, "Psicológico").
 autor_con_pocos_mangas(Autor) :- findall(Manga, es_autor(Autor, Manga), Mangas), length(Mangas, Cantidad), Cantidad < 5.
 editorial_prolifica(Editorial) :- findall(Manga, es_editorial(Editorial, Manga), Mangas), length(Mangas, Cantidad), Cantidad > 10.
-manga_sobrenatural_no_humano(Manga) :- es_personaje_principal(Personaje, Manga), especie(Personaje, Especie), Especie \= "Humano", es_genero(Manga, "Sobrenatural").
+manga_sobrenatural_no_humano(Manga) :- es_personaje_principal(Personaje, Manga), especie(Personaje, Especie), Especie \= "Humano", genero_principal(Manga, "Sobrenatural").
 manga_con_adaptacion_radio_drama(Manga) :- tiene_adaptacion(Manga, "Radio Drama").
-manga_mecha(Manga) :- es_genero(Manga, "Mecha").
-manga_ciencia_ficcion(Manga) :- es_genero(Manga, "Ciencia Ficción").
-manga_fantasia(Manga) :- es_genero(Manga, "Fantasía").
-manga_corto_reciente(Manga) :- tiene_tomos(Manga, Tomos), Tomos < 5, publicado_en_anio(Manga, Anio), Anio >= 2010.
-manga_largo_finalizado(Manga) :- tiene_tomos(Manga, Tomos), Tomos > 20, not(en_publicacion(Manga)).
+manga_mecha(Manga) :- genero_principal(Manga, "Mecha").
+manga_ciencia_ficcion(Manga) :- genero_principal(Manga, "Ciencia ficción").
+manga_fantasia(Manga) :- genero_principal(Manga, "Fantasía").
+manga_corto_reciente(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 5, anio_publicacion(Manga, Anio), Anio >= 2010.
+manga_largo_finalizado(Manga) :- cantidad_tomos(Manga, Tomos), Tomos > 20, not(en_publicacion(Manga)).
