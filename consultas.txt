@@ -1,0 +1,260 @@
+¿Quién es el autor de "Naruto"?
+es_autor(Autor, "Naruto").
+¿Qué mangas fueron publicados por la editorial "Shueisha"?
+es_editorial("Shueisha", Manga).
+¿Cuál es el género del manga "One Piece"?
+genero_principal(Genero, "One Piece").
+¿En qué año fue publicado "Attack on Titan"?
+anio_publicacion("Attack on Titan", Anios).
+¿Cuántos tomos tiene "Death Note"?
+cantidad_tomos("Death Note", Tomos).
+¿Quién es el personaje principal de "Dragon Ball"?
+es_personaje_principal(Personaje, "Dragon Ball").
+¿Qué mangas fueron publicados en el año 2007?
+anio_publicacion(Manga, 2007).
+¿Cuáles son los mangas de género "Shonen"?
+demografia_manga(Manga, "Shonen").
+¿Qué autor ha escrito "Bleach"?
+es_autor(Autor, "Bleach").
+¿Qué editoriales han publicado "Fairy Tail"?
+es_editorial(Editorial, "Fairy Tail").
+¿En qué años fue publicado "Fullmetal Alchemist"?
+anio_publicacion("Fullmetal Alchemist", Anios).
+¿Cuántos tomos tiene "Berserk"?
+cantidad_tomos("Berserk", Tomos).
+¿Quién es el personaje principal de "Tokyo Ghoul"?
+es_personaje_principal(Personaje, "Tokyo Ghoul").
+¿Qué mangas ha escrito el autor "Eiichiro Oda"?
+es_autor("Eiichiro Oda", Manga).
+¿Qué mangas son publicados por "Kodansha"?
+es_editorial("Kodansha", Manga).
+¿Cuál es el género del manga "Dr. Slump"?
+genero_principal(Genero, "Dr. Slump").
+¿Cuántos tomos tiene "My Hero Academia"?
+cantidad_tomos("My Hero Academia", Tomos).
+¿Quién es el personaje principal de "One Punch Man"?
+es_personaje_principal(Personaje, "One Punch Man").
+¿Qué autor ha escrito "JoJo's Bizarre Adventure"?
+es_autor(Autor, "JoJo's Bizarre Adventure").
+¿Qué mangas han sido publicados en el año 2015?
+anio_publicacion(Manga, 2015).
+¿Qué mangas tienen más de 20 tomos?
+cantidad_tomos(Manga, Tomos), Tomos > 20.
+¿Qué mangas tienen demografía "Seinen"?
+demografia_manga(Manga, "Seinen").
+¿Quién es el autor del manga "Vagabond"?
+es_autor(Autor, "Vagabond").
+¿Qué mangas ha publicado "Shogakukan"?
+es_editorial("Shogakukan", Manga).
+¿En qué año fue publicado "Blue Exorcist"?
+anio_publicacion("Blue Exorcist", Anios).
+¿Cuántos tomos tiene "The Promised Neverland"?
+cantidad_tomos("The Promised Neverland", Tomos).
+¿Quién es el personaje principal de "Demon Slayer"?
+es_personaje_principal(Personaje, "Demon Slayer: Kimetsu no Yaiba").
+¿Qué autor ha escrito "Fire Force"?
+es_autor(Autor, "Fire Force").
+¿Qué mangas fueron publicados en la década de 1990?
+anio_publicacion(Manga, Anios), Anios >= 1990, Anios < 2000.
+¿Cuáles son los mangas de demografía "Josei"?
+demografia_manga(Manga, "Josei").
+¿Quién es el autor de "Devilman"?
+es_autor(Autor, "Devilman").
+¿Qué mangas fueron publicados por la editorial "Shogakukan"?
+es_editorial("Shogakukan", Manga).
+¿Qué editorial publicó "Akira"?
+es_editorial(Editorial, "Akira").
+¿Qué género tiene "Gintama"?
+genero_principal(Genero, "Gintama").
+¿En qué año se publicó "Neon Genesis Evangelion"?
+anio_publicacion("Neon Genesis Evangelion", Anio).
+¿Cuántos tomos tiene "Rurouni Kenshin"?
+cantidad_tomos("Rurouni Kenshin", Tomos).
+¿Quién es el personaje principal de "Inuyasha"?
+es_personaje_principal(Personaje, "Inuyasha").
+¿Qué mangas escribió "Yoshihiro Togashi"?
+es_autor("Yoshihiro Togashi", Manga).
+¿Qué mangas fueron publicados por "Hakusensha"?
+es_editorial("Hakusensha", Manga).
+¿Qué mangas pertenecen a la demgorafía "Shojo"?
+demografia_manga(Manga, "Shojo").
+¿Cuáles mangas se publicaron en el año 1995?
+anio_publicacion(Manga, 1995).
+¿Cuántos tomos tiene "Swan"?
+cantidad_tomos("Swan", Tomos).
+¿Qué editorial publicó "Nana"?
+es_editorial(Editorial, "Nana").
+¿Qué género tiene "The Seven Deadly Sins"?
+genero_principal(Genero, "The Seven Deadly Sins").
+¿En qué año se publicó "Monster"?
+anio_publicacion("Monster", Anio).
+¿Cuántos tomos tiene "Doraemon"?
+cantidad_tomos("Doraemon", Tomos).
+¿Quién es el personaje principal de "Oishinbo"?
+es_personaje_principal(Personaje, "Oishinbo").
+¿Qué mangas escribió "Naoki Urasawa"?
+es_autor("Naoki Urasawa", Manga).
+¿Qué mangas fueron publicados por "Shogakukan"?
+es_editorial("Shogakukan", Manga).
+¿Cuáles mangas se publicaron en el año 2000?
+anio_publicacion(Manga, 2000).
+¿Cuántos tomos tiene "Kinnikuman"?
+cantidad_tomos("Kinnikuman", Tomos).
+¿Quién es el autor de "Great Teacher Onizuka"?
+es_autor(Autor, "Great Teacher Onizuka").
+¿Qué editorial publicó "Tokyo Revengers"?
+es_editorial(Editorial, "Tokyo Revengers").
+¿Qué género tiene "Parasyte"?
+genero_principal(Genero, "Parasyte").
+¿Qué género tiene "Jujutsu Kaisen"?
+genero_principal(Genero, "Jujutsu Kaisen").
+¿En qué año se publicó "20th Century Boys"?
+anio_publicacion("20th Century Boys", Anio).
+¿Cuántos tomos tiene "Tokyo Revengers"?
+cantidad_tomos("Tokyo Revengers", Tomos).
+¿Quién es el personaje principal de "Lupin the Third"?
+es_personaje_principal(Personaje, "Lupin the Third").
+¿Qué mangas escribió "Akira Toriyama"?
+es_autor("Akira Toriyama", Manga).
+¿Qué mangas fueron publicados por "Kadokawa Shoten"?
+es_editorial("Kadokawa Shoten", Manga).
+¿Qué mangas pertenecen al género "Deportes"?
+genero_principal("Deportes", Manga).
+¿Cuáles mangas se publicaron en el año 2015?
+anio_publicacion(Manga, 2015).
+¿Cuántos tomos tiene "The Prince of Tennis"?
+cantidad_tomos("The Prince of Tennis", Tomos).
+Quién es el autor de "Assassination Classroom"?
+es_autor(Autor, "Assassination Classroom").
+¿Qué editorial publicó "The Promised Neverland"?
+es_editorial(Editorial, "The Promised Neverland").
+¿Qué género tiene "Initial D"?
+genero_principal(Genero, "Initial D").
+¿En qué año se publicó "Golden Kamuy"?
+anio_publicacion("Golden Kamuy", Anio).
+¿Cuántos tomos tiene "Swan"?
+cantidad_tomos("Swan", Tomos).
+¿Quién es el personaje principal de "Parasyte"?
+es_personaje_principal(Personaje, "Parasyte").
+¿Qué mangas escribió "Negi Haruba"?
+es_autor("Negi Haruba", Manga).
+¿Qué mangas fueron publicados por "Futabasha"?
+es_editorial("Futabasha", Manga).
+¿Qué mangas pertenecen al género "Misterio"?
+genero_principal("Misterio", Manga).
+¿Cuáles mangas se publicaron en el año 1990?
+anio_publicacion(Manga, 1990).
+¿Cuántos tomos tiene "Buddha"?
+cantidad_tomos("Buddha", Tomos).
+¿Cuántos tomos tiene "Space Brothers"?
+cantidad_tomos("Space Brothers", Tomos).
+¿Cuántos tomos tiene "Shaman King"?
+cantidad_tomos("Shaman King", Tomos).
+¿Cuántos tomos tiene "Worst"?
+cantidad_tomos("Worst", Tomos).
+¿Cuántos tomos tiene "Black Butler"?
+cantidad_tomos("Black Butler", Tomos).
+¿Cuántos tomos tiene "Chameleon"?
+cantidad_tomos("Chameleon", Tomos).
+¿Cuántos tomos tiene "Ace of Diamond"?
+cantidad_tomos("Ace of Diamond", Tomos).
+¿Cuántos tomos tiene "Saint Seiya"?
+cantidad_tomos("Saint Seiya", Tomos).
+¿Cuántos tomos tiene "H2"?
+cantidad_tomos("H2", Tomos).
+¿Cuántos tomos tiene "The Chef"?
+cantidad_tomos("The Chef", Tomos).
+¿Cuántos tomos tiene "Nodame Cantabile"?
+cantidad_tomos("Nodame Cantabile", Tomos).
+¿Cuántos tomos tiene "Toriko"?
+cantidad_tomos("Toriko", Tomos).
+¿Cuántos tomos tiene "Saiyuki"?
+cantidad_tomos("Saiyuki", Tomos).
+¿Cuántos tomos tiene "Ahiru no Sora"?
+cantidad_tomos("Ahiru no Sora", Tomos).
+¿Cuántos tomos tiene "The Ping Pong Club"?
+cantidad_tomos("The Ping Pong Club", Tomos).
+¿Cuántos tomos tiene "Blue Exorcist"?
+cantidad_tomos("Blue Exorcist", Tomos).
+¿Cuántos tomos tiene "Miyuki"?
+cantidad_tomos("Miyuki", Tomos).
+¿Cuántos tomos tiene "Rookies"?
+cantidad_tomos("Rookies", Tomos).
+¿Cuántos tomos tiene "750 Rider"?
+cantidad_tomos("750 Rider", Tomos).
+¿Qué mangas escribió "Takao Saito"?
+es_autor("Takao Saito", Manga).
+¿Qué mangas escribió "Mitsuru Adachi"?
+es_autor("Mitsuru Adachi", Manga).
+¿Qué mangas escribió "Osamu Akimoto"?
+es_autor("Osamu Akimoto", Manga).
+¿Qué mangas escribió "Masashi Kishimoto"?
+es_autor("Masashi Kishimoto", Manga).
+¿Cuántos tomos tiene "Boys Over Flowers"?
+cantidad_tomos("Boys Over Flowers", Tomos).
+¿Cuántos tomos tiene "H2"?
+cantidad_tomos("H2", Tomos).
+¿Cuántos tomos tiene "Gintama"?
+cantidad_tomos("Gintama", Tomos).
+¿Cuántos tomos tiene "Astro Boy"?
+cantidad_tomos("Astro Boy", Tomos).
+¿Cuántos tomos tiene "Golgo 13"?
+cantidad_tomos("Golgo 13", Tomos).
+¿Cuántos tomos tiene "Major"?
+cantidad_tomos("Major", Tomos).
+¿Cuántos tomos tiene "Initial D"?
+cantidad_tomos("Initial D", Tomos).
+¿Cuántos tomos tiene "Bleach"?
+cantidad_tomos("Bleach", Tomos).
+¿Cuántos tomos tiene "One Piece"?
+cantidad_tomos("One Piece", Tomos).
+¿Cuántos tomos tiene "Touch"?
+cantidad_tomos("Touch", Tomos).
+¿Cuántos tomos tiene "Sangokushi"?
+cantidad_tomos("Sangokushi", Tomos).
+¿Cuántos tomos tiene "Nana"?
+cantidad_tomos("Nana", Tomos).
+¿Cuántos tomos tiene "Sailor Moon"?
+cantidad_tomos("Sailor Moon", Tomos).
+¿Cuántos tomos tiene "Ace of Diamond"?
+cantidad_tomos("Ace of Diamond", Tomos).
+¿Cuántos tomos tiene "Black Jack"?
+cantidad_tomos("Black Jack", Tomos).
+¿Cuántos tomos tiene "Kinnikuman"?
+cantidad_tomos("Kinnikuman", Tomos).
+¿Cuántos tomos tiene "Monster"?
+cantidad_tomos("Monster", Tomos).
+¿Cuántos tomos tiene "Buddha"?
+cantidad_tomos("Buddha", Tomos).
+¿Cuántos tomos tiene "Fire Force"?
+cantidad_tomos("Fire Force", Tomos).
+¿Cuántos tomos tiene "Abu-san"?
+cantidad_tomos("Abu-san", Tomos).
+¿Cuántos tomos tiene "750 Rider"?
+cantidad_tomos("750 Rider", Tomos).
+¿A qué manga pertenece "Raizo"?
+pertenece_a("Raizo", Manga).
+¿A qué manga pertenece "Cell"?
+pertenece_a("Cell", Manga).
+¿A qué manga pertenece "Oolong"?
+pertenece_a("Oolong", Manga).
+¿A qué manga pertenece "Master Roshi"?
+pertenece_a("Master Roshi", Manga).
+¿A qué manga pertenece "Nappa"?
+pertenece_a("Nappa", Manga).
+¿A qué manga pertenece "Shigeo Araki"?
+pertenece_a("Shigeo Araki", Manga).
+¿A qué manga pertenece "Loid Forger"?
+pertenece_a("Loid Forger", Manga).
+¿A qué manga pertenece "Yor Forger"?
+pertenece_a("Yor Forger", Manga).
+¿A qué manga pertenece "Anya Forger"?
+pertenece_a("Anya Forger", Manga).
+¿A qué manga pertenece "Suiryu"?
+pertenece_a("Suiryu", Manga).
+¿A qué manga pertenece "Pikkon"?
+pertenece_a("Pikkon", Manga).
+¿A qué manga pertenece "Juno"?
+pertenece_a("Juno", Manga).
+¿A qué manga pertenece "Genos"?
+pertenece_a("Genos", Manga).
