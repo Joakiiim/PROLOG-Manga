@@ -1107,304 +1107,304 @@ pertenece_a("Yūji Mito", "Yawara!").
 pertenece_a("Yoshiko Kawada", "Yawara!").
 pertenece_a("Hikaru Matsumoto", "Yawara!").
 pertenece_a("Shigeo Araki", "Yawara!").
-cumpleaños_personaje("Monkey D. Luffy", "mayo").
-cumpleaños_personaje("Duke Togo", "mayo").
-cumpleaños_personaje("Shinichi Kudo / Conan Edogawa", "mayo").
-cumpleaños_personaje("Son Goku", "abril").
-cumpleaños_personaje("Doraemon", "septiembre").
-cumpleaños_personaje("Naruto Uzumaki", "octubre").
-cumpleaños_personaje("Hanamichi Sakuragi", "julio").
-cumpleaños_personaje("Kankichi Ryotsu", "agosto").
-cumpleaños_personaje("Tanjiro Kamado", "julio").
-cumpleaños_personaje("Shirō Yamaoka", "febrero").
-cumpleaños_personaje("Ichigo Kurosaki", "julio").
-cumpleaños_personaje("Jonathan Joestar", "abril").
-cumpleaños_personaje("Eren Yeager", "marzo").
-cumpleaños_personaje("Astro Boy", "abril").
-cumpleaños_personaje("Kenshiro", "noviembre").
-cumpleaños_personaje("Ippo Makunouchi", "octubre").
-cumpleaños_personaje("Hajime Kindaichi", "diciembre").
-cumpleaños_personaje("Tatsuya Uesugi", "abril").
-cumpleaños_personaje("Xin", "septiembre").
-cumpleaños_personaje("Tsubasa Ozora", "julio").
-cumpleaños_personaje("Sazae Fuguta", "abril").
-cumpleaños_personaje("Baki Hanma", "abril").
-cumpleaños_personaje("Izuku Midoriya", "julio").
-cumpleaños_personaje("Gon Freecss", "mayo").
-cumpleaños_personaje("Miyamoto Musashi", "junio").
-cumpleaños_personaje("Edward Elric", "octubre").
-cumpleaños_personaje("Liu Bei", "febrero").
-cumpleaños_personaje("Yusuke Urameshi", "abril").
-cumpleaños_personaje("Kinnikuman / Suguru Kinniku", "junio").
-cumpleaños_personaje("Natsu Dragneel", "julio").
-cumpleaños_personaje("Kenshin Himura", "junio").
-cumpleaños_personaje("Yuji Itadori", "agosto").
-cumpleaños_personaje("Takemichi Hanagaki", "febrero").
-cumpleaños_personaje("Tsukushi Makino", "septiembre").
-cumpleaños_personaje("Goro Honda", "abril").
-cumpleaños_personaje("Ryoma Echizen", "octubre").
-cumpleaños_personaje("Taison Maeda", "noviembre").
-cumpleaños_personaje("Shinnosuke Nohara", "mayo").
-cumpleaños_personaje("Takumi Fujiwara", "noviembre").
-cumpleaños_personaje("Gintoki Sakata", "octubre").
-cumpleaños_personaje("Tsukasa Kiriki", "marzo").
-cumpleaños_personaje("Guts", "diciembre").
-cumpleaños_personaje("Hiro Kunimi", "enero").
-cumpleaños_personaje("Shoyo Hinata", "junio").
-cumpleaños_personaje("Ranma Saotome", "noviembre").
-cumpleaños_personaje("Ginjiro Ibuki", "agosto").
-cumpleaños_personaje("Hanako Ozora", "julio").
-cumpleaños_personaje("Black Jack", "octubre").
-cumpleaños_personaje("Ryo Saeba", "junio").
-cumpleaños_personaje("Cobra", "noviembre").
-cumpleaños_personaje("Akira Fudo", "febrero").
-cumpleaños_personaje("Dai", "octubre").
-cumpleaños_personaje("Sanpei Mihira", "noviembre").
-cumpleaños_personaje("Maya Kitajima", "enero").
-cumpleaños_personaje("Eikichi Onizuka", "abril").
-cumpleaños_personaje("Inuyasha", "noviembre").
-cumpleaños_personaje("Nana Osaki", "febrero").
-cumpleaños_personaje("Seiya", "diciembre").
-cumpleaños_personaje("Toshi Tanaka", "abril").
-cumpleaños_personaje("Taro Yamada", "septiembre").
-cumpleaños_personaje("Kosaku Shima", "febrero").
-cumpleaños_personaje("Ken Kaneki", "diciembre").
-cumpleaños_personaje("Harumichi Bouya", "julio").
-cumpleaños_personaje("Usagi Tsukino / Sailor Moon", "Junio").
-cumpleaños_personaje("Shizuya Kondou", "Julio").
-cumpleaños_personaje("Kazuhiko Aikawa", "Marzo").
-cumpleaños_personaje("Eikichi Onizuka", "Enero").
-cumpleaños_personaje("Emma", "Marzo").
-cumpleaños_personaje("Eijun Sawamura", "Mayo").
-cumpleaños_personaje("Kuninobu Okawa", "Agosto").
-cumpleaños_personaje("Kazumi Araiwa", "Diciembre").
-cumpleaños_personaje("Carol Lido", "Abril").
-cumpleaños_personaje("Takashi Mitsuhashi", "Octubre").
-cumpleaños_personaje("Rimuru Tempest", "Febrero").
-cumpleaños_personaje("Yugi Mutou", "Junio").
-cumpleaños_personaje("Nodame Cantabile", "Octubre").
-cumpleaños_personaje("Yoh Asakura", "Noviembre").
-cumpleaños_personaje("Meliodas", "Julio").
-cumpleaños_personaje("Kenji Endo", "Febrero").
-cumpleaños_personaje("Toshio Yamaki", "Septiembre").
-cumpleaños_personaje("Senbei Norimaki", "Noviembre").
-cumpleaños_personaje("Kotoko Aihara", "Mayo").
-cumpleaños_personaje("Kintaro Yajima", "Julio").
-cumpleaños_personaje("Ataru Moroboshi", "Abril").
-cumpleaños_personaje("Hana Tsukishima", "Julio").
-cumpleaños_personaje("Yakumo Fujii", "Agosto").
-cumpleaños_personaje("Taku Kamishima", "Agosto").
-cumpleaños_personaje("Sawako Kuronuma", "Diciembre").
-cumpleaños_personaje("Maruko Sakura", "Mayo").
-cumpleaños_personaje("Ciel Phantomhive", "Diciembre").
-cumpleaños_personaje("Shiro Kaieda", "Febrero").
-cumpleaños_personaje("Touma Kamijou", "Julio").
-cumpleaños_personaje("Tetsuya Kuroko", "Enero").
-cumpleaños_personaje("Mutta Nanba", "Octubre").
-cumpleaños_personaje("Dark Schneider", "Junio").
-cumpleaños_personaje("Light Yagami", "Febrero").
-cumpleaños_personaje("Tohru Honda", "Abril").
-cumpleaños_personaje("Eiji Nonaka", "Julio").
-cumpleaños_personaje("Chie Takemoto", "Junio").
-cumpleaños_personaje("Ryō Takagi", "Enero").
-cumpleaños_personaje("Saitama", "Noviembre").
-cumpleaños_personaje("Tsunayoshi Sawada", "Octubre").
-cumpleaños_personaje("Shura", "Marzo").
-cumpleaños_personaje("Twilight", "Junio").
-cumpleaños_personaje("Ranze Eto", "Marzo").
-cumpleaños_personaje("Ushio Aotsuki", "Enero").
-cumpleaños_personaje("Yawara Inokuma", "Noviembre").
-cumpleaños_personaje("Makoto Onoda", "Julio").
-cumpleaños_personaje("Asari Hamaji", "Diciembre").
-cumpleaños_personaje("Chihaya Ayase", "diciembre").
-cumpleaños_personaje("Red", "febrero").
-cumpleaños_personaje("Sakamichi Onoda", "mayo").
-cumpleaños_personaje("Momotaro Tsurugi", "octubre").
-cumpleaños_personaje("Seito Sakakibara", "julio").
-cumpleaños_personaje("Shinobu Yūki", "septiembre").
-cumpleaños_personaje("Tora", "abril").
-cumpleaños_personaje("Yoichi Isagi", "junio").
-cumpleaños_personaje("Gonpei Kamatori", "noviembre").
-cumpleaños_personaje("Ryo Saeba", "marzo").
-cumpleaños_personaje("Joe Yabuki", "enero").
-cumpleaños_personaje("Koro-sensei", "agosto").
-cumpleaños_personaje("Rin Okumura", "julio").
-cumpleaños_personaje("Kyoichi Kanzaki", "mayo").
-cumpleaños_personaje("Allen Walker", "diciembre").
-cumpleaños_personaje("Nozomi Koryu", "abril").
-cumpleaños_personaje("Recca Hanabishi", "febrero").
-cumpleaños_personaje("Hikaru Shindo", "octubre").
-cumpleaños_personaje("Meisuke Nueno", "junio").
-cumpleaños_personaje("Aladdin", "noviembre").
-cumpleaños_personaje("Godai", "agosto").
-cumpleaños_personaje("Miyuki", "septiembre").
-cumpleaños_personaje("Shinji Ikari", "junio").
-cumpleaños_personaje("Keiichi Morisato", "mayo").
-cumpleaños_personaje("Patalliro XIII", "enero").
-cumpleaños_personaje("Shinichi Izumi", "noviembre").
-cumpleaños_personaje("Maeno", "febrero").
-cumpleaños_personaje("Goku", "mayo").
-cumpleaños_personaje("Toriko", "julio").
-cumpleaños_personaje("Sora Kurumatani", "octubre").
-cumpleaños_personaje("Denji", "marzo").
-cumpleaños_personaje("Kei Kurono", "septiembre").
-cumpleaños_personaje("Saichi Sugimoto", "diciembre").
-cumpleaños_personaje("Zatch Bell", "abril").
-cumpleaños_personaje("Haru Glory", "agosto").
-cumpleaños_personaje("Momoko", "julio").
-cumpleaños_personaje("Oscar François de Jarjayes", "noviembre").
-cumpleaños_personaje("Abu", "febrero").
-cumpleaños_personaje("Sakura Kinomoto", "abril").
-cumpleaños_personaje("Taikōbō", "enero").
-cumpleaños_personaje("Kaguya Shinomiya", "diciembre").
-cumpleaños_personaje("Hizamaru Akari", "junio").
-cumpleaños_personaje("Masaru Hananakajima", "mayo").
-cumpleaños_personaje("Kaiji Itō", "julio").
-cumpleaños_personaje("Toshihiko Tanaka", "agosto").
-cumpleaños_personaje("Syaoran", "noviembre").
-cumpleaños_personaje("Ushijima", "febrero").
-cumpleaños_personaje("Roto", "marzo").
-cumpleaños_personaje("Buronson, Tetsuo Hara", "enero").
-cumpleaños_personaje("Kota Shibaki", "octubre").
-cumpleaños_personaje("Osamu Tezuka", "noviembre").
-cumpleaños_personaje("Rui Kisugi", "diciembre").
-cumpleaños_personaje("Jin Kizaragi", "septiembre").
-cumpleaños_personaje("Sena Kobayakawa", "julio").
-cumpleaños_personaje("Kōji Kuroki", "febrero").
-cumpleaños_personaje("Shinomiya Kojirō", "mayo").
-cumpleaños_personaje("Miaka Yūki", "enero").
-cumpleaños_personaje("Masaru Hotta", "agosto").
-cumpleaños_personaje("Kyon", "octubre").
-cumpleaños_personaje("Hayate Ayasaki", "abril").
-cumpleaños_personaje("Kyosuke Kasuga", "junio").
-cumpleaños_personaje("Mutsuki Tsuyama", "marzo").
-cumpleaños_personaje("Keitaro Urashima", "mayo").
-cumpleaños_personaje("Taichi Keaton", "noviembre").
-cumpleaños_personaje("Kenzo Tenma", "julio").
-cumpleaños_personaje("Negi Springfield", "septiembre").
-cumpleaños_personaje("Kujaku", "abril").
-cumpleaños_personaje("Fuutarou Uesugi", "febrero").
-cumpleaños_personaje("Yuri Suzuki", "agosto").
-cumpleaños_personaje("Ashibe Shun", "junio").
-cumpleaños_personaje("Takashi Sugimori", "diciembre").
-cumpleaños_personaje("Fujiko Mine", "mayo").
-cumpleaños_personaje("Takiko Okuda", "octubre").
-cumpleaños_personaje("Tashigi", "marzo").
-cumpleaños_personaje("Buggy", "abril").
-cumpleaños_personaje("Trafalgar Law", "octubre").
-cumpleaños_personaje("Kid", "septiembre").
-cumpleaños_personaje("Killer", "junio").
-cumpleaños_personaje("Nico Robin", "febrero").
-cumpleaños_personaje("Perona", "mayo").
-cumpleaños_personaje("Kuzan", "septiembre").
-cumpleaños_personaje("Rayleigh", "noviembre").
-cumpleaños_personaje("Bonney", "marzo").
-cumpleaños_personaje("Jewelry Bonney", "marzo").
-cumpleaños_personaje("Capone Bege", "diciembre").
-cumpleaños_personaje("Enel", "mayo").
-cumpleaños_personaje("Shiki", "julio").
-cumpleaños_personaje("Hancock", "septiembre").
-cumpleaños_personaje("Doflamingo", "octubre").
-cumpleaños_personaje("Mihawk", "septiembre").
-cumpleaños_personaje("Bartolomeo", "noviembre").
-cumpleaños_personaje("Jimbei", "febrero").
-cumpleaños_personaje("Cavendish", "junio").
-cumpleaños_personaje("Carrot", "mayo").
-cumpleaños_personaje("Marco", "noviembre").
-cumpleaños_personaje("Coby", "mayo").
-cumpleaños_personaje("Helmeppo", "noviembre").
-cumpleaños_personaje("Kaku", "octubre").
-cumpleaños_personaje("Kizaru", "agosto").
-cumpleaños_personaje("Orochi", "enero").
-cumpleaños_personaje("Kin'emon", "agosto").
-cumpleaños_personaje("Kanjuro", "noviembre").
-cumpleaños_personaje("Raizo", "diciembre").
-cumpleaños_personaje("Nekomamushi", "octubre").
-cumpleaños_personaje("Inuarashi", "octubre").
-cumpleaños_personaje("Shinichi Kudo", "mayo").
-cumpleaños_personaje("Ran Mouri", "octubre").
-cumpleaños_personaje("Kogoro Mouri", "junio").
-cumpleaños_personaje("Heiji Hattori", "octubre").
-cumpleaños_personaje("Kazuha Toyama", "julio").
-cumpleaños_personaje("Ayumi Yoshida", "junio").
-cumpleaños_personaje("Mitsuhiko Tsuburaya", "abril").
-cumpleaños_personaje("Genta Kojima", "febrero").
-cumpleaños_personaje("Kaito Kid", "abril").
-cumpleaños_personaje("Vegeta", "diciembre").
-cumpleaños_personaje("Bulma", "agosto").
-cumpleaños_personaje("Piccolo", "mayo").
-cumpleaños_personaje("Krillin", "mayo").
-cumpleaños_personaje("Yamcha", "marzo").
-cumpleaños_personaje("Tien Shinhan", "septiembre").
-cumpleaños_personaje("Chiaotzu", "noviembre").
-cumpleaños_personaje("Raditz", "febrero").
-cumpleaños_personaje("Nappa", "febrero").
-cumpleaños_personaje("Bardock", "agosto").
-cumpleaños_personaje("Recoome", "abril").
-cumpleaños_personaje("Jeice", "diciembre").
-cumpleaños_personaje("Burter", "enero").
-cumpleaños_personaje("Captain Ginyu", "noviembre").
-cumpleaños_personaje("Frieza", "mayo").
-cumpleaños_personaje("Android 17", "mayo").
-cumpleaños_personaje("Android 18", "mayo").
-cumpleaños_personaje("Cell", "febrero").
-cumpleaños_personaje("Majin Buu", "marzo").
-cumpleaños_personaje("Beerus", "diciembre").
-cumpleaños_personaje("Whis", "abril").
-cumpleaños_personaje("Vados", "agosto").
-cumpleaños_personaje("Zeno", "octubre").
-cumpleaños_personaje("Yajirobe", "junio").
-cumpleaños_personaje("Oolong", "agosto").
-cumpleaños_personaje("Master Roshi", "septiembre").
-cumpleaños_personaje("Grandpa Gohan", "enero").
-cumpleaños_personaje("King Kai", "abril").
-cumpleaños_personaje("Turtle", "julio").
-cumpleaños_personaje("King Yemma", "noviembre").
-cumpleaños_personaje("Fortuneteller Baba", "mayo").
-cumpleaños_personaje("Dende", "noviembre").
-cumpleaños_personaje("Korin", "diciembre").
-cumpleaños_personaje("Zarbon", "julio").
-cumpleaños_personaje("Dodoria", "septiembre").
-cumpleaños_personaje("Supreme Kai", "agosto").
-cumpleaños_personaje("Kibito", "octubre").
-cumpleaños_personaje("Elder Kai", "marzo").
-cumpleaños_personaje("Mr. Satan", "enero").
-cumpleaños_personaje("Pikkon", "julio").
-cumpleaños_personaje("Chie Takemoto", "marzo").
-cumpleaños_personaje("Makoto Hotta", "agosto").
-cumpleaños_personaje("Genos", "mayo").
-cumpleaños_personaje("Fubuki", "enero").
-cumpleaños_personaje("Suiryu", "junio").
-cumpleaños_personaje("Tanktop Master", "octubre").
-cumpleaños_personaje("Chrome Dokuro", "junio").
-cumpleaños_personaje("Lal Mirch", "febrero").
-cumpleaños_personaje("Gamma", "noviembre").
-cumpleaños_personaje("Belphegor", "abril").
-cumpleaños_personaje("Squalo Superbi", "diciembre").
-cumpleaños_personaje("Keiji Maeda", "octubre").
-cumpleaños_personaje("Hyōma", "septiembre").
-cumpleaños_personaje("Anyamaru", "agosto").
-cumpleaños_personaje("Yor For", "mayo").
-cumpleaños_personaje("Yor Ham", "junio").
-cumpleaños_personaje("Shirō", "abril").
-cumpleaños_personaje("Yor Sae", "julio").
-cumpleaños_personaje("Loid Forger", "marzo").
-cumpleaños_personaje("Yor Forger", "marzo").
-cumpleaños_personaje("Anya Forger", "noviembre").
-cumpleaños_personaje("Yor Briar", "febrero").
-cumpleaños_personaje("Juno", "octubre").
-cumpleaños_personaje("Nagi", "diciembre").
-cumpleaños_personaje("Dr. Kuroiwa", "abril").
-cumpleaños_personaje("Reimi Sugimoto", "enero").
-cumpleaños_personaje("Tora", "agosto").
-cumpleaños_personaje("Mayuko Inoue", "julio").
-cumpleaños_personaje("Aotsuki Ushio", "septiembre").
-cumpleaños_personaje("Yawara Inokuma", "noviembre").
-cumpleaños_personaje("Jigorō Inokuma", "marzo").
-cumpleaños_personaje("Yūji Mito", "febrero").
-cumpleaños_personaje("Yoshiko Kawada", "junio").
-cumpleaños_personaje("Hikaru Matsumoto", "diciembre").
-cumpleaños_personaje("Shigeo Araki", "abril").
+cumpleanios_personaje("Monkey D. Luffy", "mayo").
+cumpleanios_personaje("Duke Togo", "mayo").
+cumpleanios_personaje("Shinichi Kudo / Conan Edogawa", "mayo").
+cumpleanios_personaje("Son Goku", "abril").
+cumpleanios_personaje("Doraemon", "septiembre").
+cumpleanios_personaje("Naruto Uzumaki", "octubre").
+cumpleanios_personaje("Hanamichi Sakuragi", "julio").
+cumpleanios_personaje("Kankichi Ryotsu", "agosto").
+cumpleanios_personaje("Tanjiro Kamado", "julio").
+cumpleanios_personaje("Shirō Yamaoka", "febrero").
+cumpleanios_personaje("Ichigo Kurosaki", "julio").
+cumpleanios_personaje("Jonathan Joestar", "abril").
+cumpleanios_personaje("Eren Yeager", "marzo").
+cumpleanios_personaje("Astro Boy", "abril").
+cumpleanios_personaje("Kenshiro", "noviembre").
+cumpleanios_personaje("Ippo Makunouchi", "octubre").
+cumpleanios_personaje("Hajime Kindaichi", "diciembre").
+cumpleanios_personaje("Tatsuya Uesugi", "abril").
+cumpleanios_personaje("Xin", "septiembre").
+cumpleanios_personaje("Tsubasa Ozora", "julio").
+cumpleanios_personaje("Sazae Fuguta", "abril").
+cumpleanios_personaje("Baki Hanma", "abril").
+cumpleanios_personaje("Izuku Midoriya", "julio").
+cumpleanios_personaje("Gon Freecss", "mayo").
+cumpleanios_personaje("Miyamoto Musashi", "junio").
+cumpleanios_personaje("Edward Elric", "octubre").
+cumpleanios_personaje("Liu Bei", "febrero").
+cumpleanios_personaje("Yusuke Urameshi", "abril").
+cumpleanios_personaje("Kinnikuman / Suguru Kinniku", "junio").
+cumpleanios_personaje("Natsu Dragneel", "julio").
+cumpleanios_personaje("Kenshin Himura", "junio").
+cumpleanios_personaje("Yuji Itadori", "agosto").
+cumpleanios_personaje("Takemichi Hanagaki", "febrero").
+cumpleanios_personaje("Tsukushi Makino", "septiembre").
+cumpleanios_personaje("Goro Honda", "abril").
+cumpleanios_personaje("Ryoma Echizen", "octubre").
+cumpleanios_personaje("Taison Maeda", "noviembre").
+cumpleanios_personaje("Shinnosuke Nohara", "mayo").
+cumpleanios_personaje("Takumi Fujiwara", "noviembre").
+cumpleanios_personaje("Gintoki Sakata", "octubre").
+cumpleanios_personaje("Tsukasa Kiriki", "marzo").
+cumpleanios_personaje("Guts", "diciembre").
+cumpleanios_personaje("Hiro Kunimi", "enero").
+cumpleanios_personaje("Shoyo Hinata", "junio").
+cumpleanios_personaje("Ranma Saotome", "noviembre").
+cumpleanios_personaje("Ginjiro Ibuki", "agosto").
+cumpleanios_personaje("Hanako Ozora", "julio").
+cumpleanios_personaje("Black Jack", "octubre").
+cumpleanios_personaje("Ryo Saeba", "junio").
+cumpleanios_personaje("Cobra", "noviembre").
+cumpleanios_personaje("Akira Fudo", "febrero").
+cumpleanios_personaje("Dai", "octubre").
+cumpleanios_personaje("Sanpei Mihira", "noviembre").
+cumpleanios_personaje("Maya Kitajima", "enero").
+cumpleanios_personaje("Eikichi Onizuka", "abril").
+cumpleanios_personaje("Inuyasha", "noviembre").
+cumpleanios_personaje("Nana Osaki", "febrero").
+cumpleanios_personaje("Seiya", "diciembre").
+cumpleanios_personaje("Toshi Tanaka", "abril").
+cumpleanios_personaje("Taro Yamada", "septiembre").
+cumpleanios_personaje("Kosaku Shima", "febrero").
+cumpleanios_personaje("Ken Kaneki", "diciembre").
+cumpleanios_personaje("Harumichi Bouya", "julio").
+cumpleanios_personaje("Usagi Tsukino / Sailor Moon", "Junio").
+cumpleanios_personaje("Shizuya Kondou", "Julio").
+cumpleanios_personaje("Kazuhiko Aikawa", "Marzo").
+cumpleanios_personaje("Eikichi Onizuka", "Enero").
+cumpleanios_personaje("Emma", "Marzo").
+cumpleanios_personaje("Eijun Sawamura", "Mayo").
+cumpleanios_personaje("Kuninobu Okawa", "Agosto").
+cumpleanios_personaje("Kazumi Araiwa", "Diciembre").
+cumpleanios_personaje("Carol Lido", "Abril").
+cumpleanios_personaje("Takashi Mitsuhashi", "Octubre").
+cumpleanios_personaje("Rimuru Tempest", "Febrero").
+cumpleanios_personaje("Yugi Mutou", "Junio").
+cumpleanios_personaje("Nodame Cantabile", "Octubre").
+cumpleanios_personaje("Yoh Asakura", "Noviembre").
+cumpleanios_personaje("Meliodas", "Julio").
+cumpleanios_personaje("Kenji Endo", "Febrero").
+cumpleanios_personaje("Toshio Yamaki", "Septiembre").
+cumpleanios_personaje("Senbei Norimaki", "Noviembre").
+cumpleanios_personaje("Kotoko Aihara", "Mayo").
+cumpleanios_personaje("Kintaro Yajima", "Julio").
+cumpleanios_personaje("Ataru Moroboshi", "Abril").
+cumpleanios_personaje("Hana Tsukishima", "Julio").
+cumpleanios_personaje("Yakumo Fujii", "Agosto").
+cumpleanios_personaje("Taku Kamishima", "Agosto").
+cumpleanios_personaje("Sawako Kuronuma", "Diciembre").
+cumpleanios_personaje("Maruko Sakura", "Mayo").
+cumpleanios_personaje("Ciel Phantomhive", "Diciembre").
+cumpleanios_personaje("Shiro Kaieda", "Febrero").
+cumpleanios_personaje("Touma Kamijou", "Julio").
+cumpleanios_personaje("Tetsuya Kuroko", "Enero").
+cumpleanios_personaje("Mutta Nanba", "Octubre").
+cumpleanios_personaje("Dark Schneider", "Junio").
+cumpleanios_personaje("Light Yagami", "Febrero").
+cumpleanios_personaje("Tohru Honda", "Abril").
+cumpleanios_personaje("Eiji Nonaka", "Julio").
+cumpleanios_personaje("Chie Takemoto", "Junio").
+cumpleanios_personaje("Ryō Takagi", "Enero").
+cumpleanios_personaje("Saitama", "Noviembre").
+cumpleanios_personaje("Tsunayoshi Sawada", "Octubre").
+cumpleanios_personaje("Shura", "Marzo").
+cumpleanios_personaje("Twilight", "Junio").
+cumpleanios_personaje("Ranze Eto", "Marzo").
+cumpleanios_personaje("Ushio Aotsuki", "Enero").
+cumpleanios_personaje("Yawara Inokuma", "Noviembre").
+cumpleanios_personaje("Makoto Onoda", "Julio").
+cumpleanios_personaje("Asari Hamaji", "Diciembre").
+cumpleanios_personaje("Chihaya Ayase", "diciembre").
+cumpleanios_personaje("Red", "febrero").
+cumpleanios_personaje("Sakamichi Onoda", "mayo").
+cumpleanios_personaje("Momotaro Tsurugi", "octubre").
+cumpleanios_personaje("Seito Sakakibara", "julio").
+cumpleanios_personaje("Shinobu Yūki", "septiembre").
+cumpleanios_personaje("Tora", "abril").
+cumpleanios_personaje("Yoichi Isagi", "junio").
+cumpleanios_personaje("Gonpei Kamatori", "noviembre").
+cumpleanios_personaje("Ryo Saeba", "marzo").
+cumpleanios_personaje("Joe Yabuki", "enero").
+cumpleanios_personaje("Koro-sensei", "agosto").
+cumpleanios_personaje("Rin Okumura", "julio").
+cumpleanios_personaje("Kyoichi Kanzaki", "mayo").
+cumpleanios_personaje("Allen Walker", "diciembre").
+cumpleanios_personaje("Nozomi Koryu", "abril").
+cumpleanios_personaje("Recca Hanabishi", "febrero").
+cumpleanios_personaje("Hikaru Shindo", "octubre").
+cumpleanios_personaje("Meisuke Nueno", "junio").
+cumpleanios_personaje("Aladdin", "noviembre").
+cumpleanios_personaje("Godai", "agosto").
+cumpleanios_personaje("Miyuki", "septiembre").
+cumpleanios_personaje("Shinji Ikari", "junio").
+cumpleanios_personaje("Keiichi Morisato", "mayo").
+cumpleanios_personaje("Patalliro XIII", "enero").
+cumpleanios_personaje("Shinichi Izumi", "noviembre").
+cumpleanios_personaje("Maeno", "febrero").
+cumpleanios_personaje("Goku", "mayo").
+cumpleanios_personaje("Toriko", "julio").
+cumpleanios_personaje("Sora Kurumatani", "octubre").
+cumpleanios_personaje("Denji", "marzo").
+cumpleanios_personaje("Kei Kurono", "septiembre").
+cumpleanios_personaje("Saichi Sugimoto", "diciembre").
+cumpleanios_personaje("Zatch Bell", "abril").
+cumpleanios_personaje("Haru Glory", "agosto").
+cumpleanios_personaje("Momoko", "julio").
+cumpleanios_personaje("Oscar François de Jarjayes", "noviembre").
+cumpleanios_personaje("Abu", "febrero").
+cumpleanios_personaje("Sakura Kinomoto", "abril").
+cumpleanios_personaje("Taikōbō", "enero").
+cumpleanios_personaje("Kaguya Shinomiya", "diciembre").
+cumpleanios_personaje("Hizamaru Akari", "junio").
+cumpleanios_personaje("Masaru Hananakajima", "mayo").
+cumpleanios_personaje("Kaiji Itō", "julio").
+cumpleanios_personaje("Toshihiko Tanaka", "agosto").
+cumpleanios_personaje("Syaoran", "noviembre").
+cumpleanios_personaje("Ushijima", "febrero").
+cumpleanios_personaje("Roto", "marzo").
+cumpleanios_personaje("Buronson, Tetsuo Hara", "enero").
+cumpleanios_personaje("Kota Shibaki", "octubre").
+cumpleanios_personaje("Osamu Tezuka", "noviembre").
+cumpleanios_personaje("Rui Kisugi", "diciembre").
+cumpleanios_personaje("Jin Kizaragi", "septiembre").
+cumpleanios_personaje("Sena Kobayakawa", "julio").
+cumpleanios_personaje("Kōji Kuroki", "febrero").
+cumpleanios_personaje("Shinomiya Kojirō", "mayo").
+cumpleanios_personaje("Miaka Yūki", "enero").
+cumpleanios_personaje("Masaru Hotta", "agosto").
+cumpleanios_personaje("Kyon", "octubre").
+cumpleanios_personaje("Hayate Ayasaki", "abril").
+cumpleanios_personaje("Kyosuke Kasuga", "junio").
+cumpleanios_personaje("Mutsuki Tsuyama", "marzo").
+cumpleanios_personaje("Keitaro Urashima", "mayo").
+cumpleanios_personaje("Taichi Keaton", "noviembre").
+cumpleanios_personaje("Kenzo Tenma", "julio").
+cumpleanios_personaje("Negi Springfield", "septiembre").
+cumpleanios_personaje("Kujaku", "abril").
+cumpleanios_personaje("Fuutarou Uesugi", "febrero").
+cumpleanios_personaje("Yuri Suzuki", "agosto").
+cumpleanios_personaje("Ashibe Shun", "junio").
+cumpleanios_personaje("Takashi Sugimori", "diciembre").
+cumpleanios_personaje("Fujiko Mine", "mayo").
+cumpleanios_personaje("Takiko Okuda", "octubre").
+cumpleanios_personaje("Tashigi", "marzo").
+cumpleanios_personaje("Buggy", "abril").
+cumpleanios_personaje("Trafalgar Law", "octubre").
+cumpleanios_personaje("Kid", "septiembre").
+cumpleanios_personaje("Killer", "junio").
+cumpleanios_personaje("Nico Robin", "febrero").
+cumpleanios_personaje("Perona", "mayo").
+cumpleanios_personaje("Kuzan", "septiembre").
+cumpleanios_personaje("Rayleigh", "noviembre").
+cumpleanios_personaje("Bonney", "marzo").
+cumpleanios_personaje("Jewelry Bonney", "marzo").
+cumpleanios_personaje("Capone Bege", "diciembre").
+cumpleanios_personaje("Enel", "mayo").
+cumpleanios_personaje("Shiki", "julio").
+cumpleanios_personaje("Hancock", "septiembre").
+cumpleanios_personaje("Doflamingo", "octubre").
+cumpleanios_personaje("Mihawk", "septiembre").
+cumpleanios_personaje("Bartolomeo", "noviembre").
+cumpleanios_personaje("Jimbei", "febrero").
+cumpleanios_personaje("Cavendish", "junio").
+cumpleanios_personaje("Carrot", "mayo").
+cumpleanios_personaje("Marco", "noviembre").
+cumpleanios_personaje("Coby", "mayo").
+cumpleanios_personaje("Helmeppo", "noviembre").
+cumpleanios_personaje("Kaku", "octubre").
+cumpleanios_personaje("Kizaru", "agosto").
+cumpleanios_personaje("Orochi", "enero").
+cumpleanios_personaje("Kin'emon", "agosto").
+cumpleanios_personaje("Kanjuro", "noviembre").
+cumpleanios_personaje("Raizo", "diciembre").
+cumpleanios_personaje("Nekomamushi", "octubre").
+cumpleanios_personaje("Inuarashi", "octubre").
+cumpleanios_personaje("Shinichi Kudo", "mayo").
+cumpleanios_personaje("Ran Mouri", "octubre").
+cumpleanios_personaje("Kogoro Mouri", "junio").
+cumpleanios_personaje("Heiji Hattori", "octubre").
+cumpleanios_personaje("Kazuha Toyama", "julio").
+cumpleanios_personaje("Ayumi Yoshida", "junio").
+cumpleanios_personaje("Mitsuhiko Tsuburaya", "abril").
+cumpleanios_personaje("Genta Kojima", "febrero").
+cumpleanios_personaje("Kaito Kid", "abril").
+cumpleanios_personaje("Vegeta", "diciembre").
+cumpleanios_personaje("Bulma", "agosto").
+cumpleanios_personaje("Piccolo", "mayo").
+cumpleanios_personaje("Krillin", "mayo").
+cumpleanios_personaje("Yamcha", "marzo").
+cumpleanios_personaje("Tien Shinhan", "septiembre").
+cumpleanios_personaje("Chiaotzu", "noviembre").
+cumpleanios_personaje("Raditz", "febrero").
+cumpleanios_personaje("Nappa", "febrero").
+cumpleanios_personaje("Bardock", "agosto").
+cumpleanios_personaje("Recoome", "abril").
+cumpleanios_personaje("Jeice", "diciembre").
+cumpleanios_personaje("Burter", "enero").
+cumpleanios_personaje("Captain Ginyu", "noviembre").
+cumpleanios_personaje("Frieza", "mayo").
+cumpleanios_personaje("Android 17", "mayo").
+cumpleanios_personaje("Android 18", "mayo").
+cumpleanios_personaje("Cell", "febrero").
+cumpleanios_personaje("Majin Buu", "marzo").
+cumpleanios_personaje("Beerus", "diciembre").
+cumpleanios_personaje("Whis", "abril").
+cumpleanios_personaje("Vados", "agosto").
+cumpleanios_personaje("Zeno", "octubre").
+cumpleanios_personaje("Yajirobe", "junio").
+cumpleanios_personaje("Oolong", "agosto").
+cumpleanios_personaje("Master Roshi", "septiembre").
+cumpleanios_personaje("Grandpa Gohan", "enero").
+cumpleanios_personaje("King Kai", "abril").
+cumpleanios_personaje("Turtle", "julio").
+cumpleanios_personaje("King Yemma", "noviembre").
+cumpleanios_personaje("Fortuneteller Baba", "mayo").
+cumpleanios_personaje("Dende", "noviembre").
+cumpleanios_personaje("Korin", "diciembre").
+cumpleanios_personaje("Zarbon", "julio").
+cumpleanios_personaje("Dodoria", "septiembre").
+cumpleanios_personaje("Supreme Kai", "agosto").
+cumpleanios_personaje("Kibito", "octubre").
+cumpleanios_personaje("Elder Kai", "marzo").
+cumpleanios_personaje("Mr. Satan", "enero").
+cumpleanios_personaje("Pikkon", "julio").
+cumpleanios_personaje("Chie Takemoto", "marzo").
+cumpleanios_personaje("Makoto Hotta", "agosto").
+cumpleanios_personaje("Genos", "mayo").
+cumpleanios_personaje("Fubuki", "enero").
+cumpleanios_personaje("Suiryu", "junio").
+cumpleanios_personaje("Tanktop Master", "octubre").
+cumpleanios_personaje("Chrome Dokuro", "junio").
+cumpleanios_personaje("Lal Mirch", "febrero").
+cumpleanios_personaje("Gamma", "noviembre").
+cumpleanios_personaje("Belphegor", "abril").
+cumpleanios_personaje("Squalo Superbi", "diciembre").
+cumpleanios_personaje("Keiji Maeda", "octubre").
+cumpleanios_personaje("Hyōma", "septiembre").
+cumpleanios_personaje("Anyamaru", "agosto").
+cumpleanios_personaje("Yor For", "mayo").
+cumpleanios_personaje("Yor Ham", "junio").
+cumpleanios_personaje("Shirō", "abril").
+cumpleanios_personaje("Yor Sae", "julio").
+cumpleanios_personaje("Loid Forger", "marzo").
+cumpleanios_personaje("Yor Forger", "marzo").
+cumpleanios_personaje("Anya Forger", "noviembre").
+cumpleanios_personaje("Yor Briar", "febrero").
+cumpleanios_personaje("Juno", "octubre").
+cumpleanios_personaje("Nagi", "diciembre").
+cumpleanios_personaje("Dr. Kuroiwa", "abril").
+cumpleanios_personaje("Reimi Sugimoto", "enero").
+cumpleanios_personaje("Tora", "agosto").
+cumpleanios_personaje("Mayuko Inoue", "julio").
+cumpleanios_personaje("Aotsuki Ushio", "septiembre").
+cumpleanios_personaje("Yawara Inokuma", "noviembre").
+cumpleanios_personaje("Jigorō Inokuma", "marzo").
+cumpleanios_personaje("Yūji Mito", "febrero").
+cumpleanios_personaje("Yoshiko Kawada", "junio").
+cumpleanios_personaje("Hikaru Matsumoto", "diciembre").
+cumpleanios_personaje("Shigeo Araki", "abril").
 genero_personaje("Monkey D. Luffy", "hombre").
 genero_personaje("Duke Togo", "hombre").
 genero_personaje("Shinichi Kudo / Conan Edogawa", "hombre").
@@ -3249,11 +3249,11 @@ estudio_animacion_adaptacion_anime("Weed", "Toei Animation").
 
 %reglas
 
-autor_es_famoso(Autor) :- es_autor(Autor, Manga), cantidad_copias_vendidas(Manga, Copias), Copias > 1000000.
+autor_es_famoso(Autor) :- es_autor(Autor, Manga), cantidad_copias_vendidas(Manga, Copias), Copias > 50000000.
 manga_antiguo(Manga) :- anio_publicacion(Manga, Anio), Anio < 2000.
 manga_reciente(Manga) :- anio_publicacion(Manga, Anio), Anio >= 2000.
 personaje_importante(Personaje) :- es_personaje_principal(Personaje, _).
-manga_famoso(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 500000.
+manga_famoso(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 50000000.
 manga_de_un_autor_famoso(Manga) :- es_autor(Autor, Manga), autor_es_famoso(Autor).
 personaje_vivo(Personaje) :- estatus_personaje(Personaje, "vivo").
 personaje_muerto(Personaje) :- estatus_personaje(Personaje, "muerto").
@@ -3263,8 +3263,8 @@ manga_multigenero(Manga) :- genero_principal(Genero1, Manga), genero_principal(G
 manga_con_secuela(Manga) :- tiene_secuelas(Manga, _).
 manga_con_pelicula(Manga) :- adaptacion_pelicula(Manga, _).
 personaje_genero(Personaje, Genero) :- pertenece_a(Personaje, Manga), genero_principal(Manga, Genero).
-manga_popular(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 50000.
-manga_no_popular(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias < 50000.
+manga_popular(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 50000000.
+manga_no_popular(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias < 50000000.
 manga_exitoso(Manga) :- tiene_adaptacion_anime(Manga), manga_popular(Manga).
 manga_no_exitoso(Manga) :- manga_no_popular(Manga).
 personaje_popular(Personaje) :- pertenece_a(Personaje, Manga), manga_popular(Manga).
@@ -3309,8 +3309,8 @@ manga_de_genero_misterio(Manga) :- genero_principal("Misterio", Manga).
 manga_de_genero_slice_of_life(Manga) :- genero_principal("Slice of life", Manga).
 manga_de_genero_drama(Manga) :- genero_principal("Darama", Manga).
 personaje_conocido(Personaje) :- es_personaje_principal(Personaje, Manga), manga_famoso(Manga).
-manga_con_ventas_altas(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 1000000.
-manga_con_ventas_bajas(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias =< 1000000.
+manga_con_ventas_altas(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 50000000.
+manga_con_ventas_bajas(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias =< 5000000.
 manga_de_autor_conocido(Manga) :- es_autor(Autor, Manga), autor_es_famoso(Autor).
 manga_de_anio(Manga, Anio) :- anio_publicacion(Manga, Anio).
 manga_con_adaptacion_anime_famoso(Manga) :- tiene_adaptacion_anime(Manga), manga_famoso(Manga).
@@ -3326,7 +3326,7 @@ manga_de_romance_y_drama(Manga) :- genero_principal(Manga, "Romance"), genero_pr
 manga_con_varias_especies(Manga) :- es_personaje_principal(Personaje1, Manga), es_personaje_principal(Personaje2, Manga), especie(Personaje1, Especie1), especie(Personaje2, Especie2), Especie1 \= Especie2.
 manga_corto_famoso(Manga) :- cantidad_tomos(Manga, Tomos), Tomos < 10, manga_famoso(Manga).
 autor_prolifico(Autor) :- es_autor(Autor, Manga1), es_autor(Autor, Manga2), Manga1 \== Manga2.
-manga_con_buenas_ventas(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 500000.
+manga_con_buenas_ventas(Manga) :- cantidad_copias_vendidas(Manga, Copias), Copias > 50000000.
 manga_con_protagonista_femenina(Manga) :- es_personaje_principal(Personaje, Manga), genero_personaje(Personaje, "mujer").
 manga_con_protagonista_masculino(Manga) :- es_personaje_principal(Personaje, Manga), genero_personaje(Personaje, "hombre").
 manga_de_genero_raro(Manga) :- demografia_manga(Manga, _), not(demografia_manga(Manga, "Shonen")), not(demografia_manga(Manga, "Shojo")), not(demografia_manga(Manga, "Seinen")), not(demografia_manga(Manga, "Josei")), not(demografia_manga(Manga, "Kodomomuke")).
