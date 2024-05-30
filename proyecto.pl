@@ -778,6 +778,7 @@ cantidad_tomos("The Tale of Genji", 13).
 cantidad_tomos("Tokyo Daigaku Monogatari", 34).
 cantidad_tomos("Weed", 60).
 es_personaje_principal("Monkey D. Luffy", "One Piece").
+es_personaje_principal("Saitama", "One Punch Man").
 es_personaje_principal("Duke Togo", "Golgo 13").
 es_personaje_principal("Shinichi Kudo / Conan Edogawa", "Case Closed / Detective Conan").
 es_personaje_principal("Son Goku", "Dragon Ball").
